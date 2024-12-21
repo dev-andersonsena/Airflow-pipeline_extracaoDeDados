@@ -1,0 +1,14 @@
+[2024-12-19 20:50:47,731] {processor.py:153} INFO - Started process (PID=3399) to work on /home/dev/curso/ambientevirtual/lib/python3.9/site-packages/airflow/example_dags/tutorial.py
+[2024-12-19 20:50:47,732] {processor.py:641} INFO - Processing file /home/dev/curso/ambientevirtual/lib/python3.9/site-packages/airflow/example_dags/tutorial.py for tasks to queue
+[2024-12-19 20:50:47,732] {logging_mixin.py:115} INFO - [2024-12-19 20:50:47,732] {dagbag.py:507} INFO - Filling up the DagBag from /home/dev/curso/ambientevirtual/lib/python3.9/site-packages/airflow/example_dags/tutorial.py
+[2024-12-19 20:50:47,740] {processor.py:651} INFO - DAG(s) dict_keys(['tutorial']) retrieved from /home/dev/curso/ambientevirtual/lib/python3.9/site-packages/airflow/example_dags/tutorial.py
+[2024-12-19 20:50:47,760] {logging_mixin.py:115} INFO - [2024-12-19 20:50:47,760] {dag.py:2379} INFO - Sync 1 DAGs
+[2024-12-19 20:50:47,781] {logging_mixin.py:115} INFO - [2024-12-19 20:50:47,780] {dag.py:2927} INFO - Setting next_dagrun for tutorial to 2024-12-18T23:50:47.780539+00:00, run_after=2024-12-19T23:50:47.780539+00:00
+[2024-12-19 20:50:47,799] {processor.py:161} INFO - Processing /home/dev/curso/ambientevirtual/lib/python3.9/site-packages/airflow/example_dags/tutorial.py took 0.071 seconds
+[2024-12-19 20:51:54,740] {processor.py:153} INFO - Started process (PID=3977) to work on /home/dev/curso/ambientevirtual/lib/python3.9/site-packages/airflow/example_dags/tutorial.py
+[2024-12-19 20:51:54,742] {processor.py:641} INFO - Processing file /home/dev/curso/ambientevirtual/lib/python3.9/site-packages/airflow/example_dags/tutorial.py for tasks to queue
+[2024-12-19 20:51:54,742] {logging_mixin.py:115} INFO - [2024-12-19 20:51:54,742] {dagbag.py:507} INFO - Filling up the DagBag from /home/dev/curso/ambientevirtual/lib/python3.9/site-packages/airflow/example_dags/tutorial.py
+[2024-12-19 20:51:54,749] {processor.py:651} INFO - DAG(s) dict_keys(['tutorial']) retrieved from /home/dev/curso/ambientevirtual/lib/python3.9/site-packages/airflow/example_dags/tutorial.py
+[2024-12-19 20:51:54,768] {logging_mixin.py:115} INFO - [2024-12-19 20:51:54,768] {dag.py:2379} INFO - Sync 1 DAGs
+[2024-12-19 20:51:54,788] {logging_mixin.py:115} INFO - [2024-12-19 20:51:54,788] {dag.py:2927} INFO - Setting next_dagrun for tutorial to 2024-12-18T23:51:54.788233+00:00, run_after=2024-12-19T23:51:54.788233+00:00
+[2024-12-19 20:51:54,805] {processor.py:161} INFO - Processing /home/dev/curso/ambientevirtual/lib/python3.9/site-packages/airflow/example_dags/tutorial.py took 0.068 seconds

@@ -1,0 +1,14 @@
+[2024-12-19 20:50:43,012] {processor.py:153} INFO - Started process (PID=3325) to work on /home/dev/curso/ambientevirtual/lib/python3.9/site-packages/airflow/example_dags/example_xcom.py
+[2024-12-19 20:50:43,028] {processor.py:641} INFO - Processing file /home/dev/curso/ambientevirtual/lib/python3.9/site-packages/airflow/example_dags/example_xcom.py for tasks to queue
+[2024-12-19 20:50:43,029] {logging_mixin.py:115} INFO - [2024-12-19 20:50:43,029] {dagbag.py:507} INFO - Filling up the DagBag from /home/dev/curso/ambientevirtual/lib/python3.9/site-packages/airflow/example_dags/example_xcom.py
+[2024-12-19 20:50:43,064] {processor.py:651} INFO - DAG(s) dict_keys(['example_xcom']) retrieved from /home/dev/curso/ambientevirtual/lib/python3.9/site-packages/airflow/example_dags/example_xcom.py
+[2024-12-19 20:50:43,151] {logging_mixin.py:115} INFO - [2024-12-19 20:50:43,151] {dag.py:2379} INFO - Sync 1 DAGs
+[2024-12-19 20:50:43,172] {logging_mixin.py:115} INFO - [2024-12-19 20:50:43,172] {dag.py:2927} INFO - Setting next_dagrun for example_xcom to 2021-01-01T00:00:00+00:00, run_after=2021-01-01T00:00:00+00:00
+[2024-12-19 20:50:43,193] {processor.py:161} INFO - Processing /home/dev/curso/ambientevirtual/lib/python3.9/site-packages/airflow/example_dags/example_xcom.py took 0.196 seconds
+[2024-12-19 20:51:50,743] {processor.py:153} INFO - Started process (PID=3910) to work on /home/dev/curso/ambientevirtual/lib/python3.9/site-packages/airflow/example_dags/example_xcom.py
+[2024-12-19 20:51:50,744] {processor.py:641} INFO - Processing file /home/dev/curso/ambientevirtual/lib/python3.9/site-packages/airflow/example_dags/example_xcom.py for tasks to queue
+[2024-12-19 20:51:50,745] {logging_mixin.py:115} INFO - [2024-12-19 20:51:50,745] {dagbag.py:507} INFO - Filling up the DagBag from /home/dev/curso/ambientevirtual/lib/python3.9/site-packages/airflow/example_dags/example_xcom.py
+[2024-12-19 20:51:50,780] {processor.py:651} INFO - DAG(s) dict_keys(['example_xcom']) retrieved from /home/dev/curso/ambientevirtual/lib/python3.9/site-packages/airflow/example_dags/example_xcom.py
+[2024-12-19 20:51:50,852] {logging_mixin.py:115} INFO - [2024-12-19 20:51:50,852] {dag.py:2379} INFO - Sync 1 DAGs
+[2024-12-19 20:51:50,882] {logging_mixin.py:115} INFO - [2024-12-19 20:51:50,882] {dag.py:2927} INFO - Setting next_dagrun for example_xcom to 2021-01-01T00:00:00+00:00, run_after=2021-01-01T00:00:00+00:00
+[2024-12-19 20:51:50,914] {processor.py:161} INFO - Processing /home/dev/curso/ambientevirtual/lib/python3.9/site-packages/airflow/example_dags/example_xcom.py took 0.175 seconds

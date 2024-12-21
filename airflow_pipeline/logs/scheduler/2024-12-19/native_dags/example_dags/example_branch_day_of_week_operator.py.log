@@ -1,0 +1,14 @@
+[2024-12-19 20:50:53,488] {processor.py:153} INFO - Started process (PID=3431) to work on /home/dev/curso/ambientevirtual/lib/python3.9/site-packages/airflow/example_dags/example_branch_day_of_week_operator.py
+[2024-12-19 20:50:53,488] {processor.py:641} INFO - Processing file /home/dev/curso/ambientevirtual/lib/python3.9/site-packages/airflow/example_dags/example_branch_day_of_week_operator.py for tasks to queue
+[2024-12-19 20:50:53,489] {logging_mixin.py:115} INFO - [2024-12-19 20:50:53,489] {dagbag.py:507} INFO - Filling up the DagBag from /home/dev/curso/ambientevirtual/lib/python3.9/site-packages/airflow/example_dags/example_branch_day_of_week_operator.py
+[2024-12-19 20:50:53,500] {processor.py:651} INFO - DAG(s) dict_keys(['example_weekday_branch_operator']) retrieved from /home/dev/curso/ambientevirtual/lib/python3.9/site-packages/airflow/example_dags/example_branch_day_of_week_operator.py
+[2024-12-19 20:50:53,519] {logging_mixin.py:115} INFO - [2024-12-19 20:50:53,519] {dag.py:2379} INFO - Sync 1 DAGs
+[2024-12-19 20:50:53,541] {logging_mixin.py:115} INFO - [2024-12-19 20:50:53,541] {dag.py:2927} INFO - Setting next_dagrun for example_weekday_branch_operator to 2024-12-18T00:00:00+00:00, run_after=2024-12-19T00:00:00+00:00
+[2024-12-19 20:50:53,559] {processor.py:161} INFO - Processing /home/dev/curso/ambientevirtual/lib/python3.9/site-packages/airflow/example_dags/example_branch_day_of_week_operator.py took 0.074 seconds
+[2024-12-19 20:52:01,145] {processor.py:153} INFO - Started process (PID=4017) to work on /home/dev/curso/ambientevirtual/lib/python3.9/site-packages/airflow/example_dags/example_branch_day_of_week_operator.py
+[2024-12-19 20:52:01,146] {processor.py:641} INFO - Processing file /home/dev/curso/ambientevirtual/lib/python3.9/site-packages/airflow/example_dags/example_branch_day_of_week_operator.py for tasks to queue
+[2024-12-19 20:52:01,148] {logging_mixin.py:115} INFO - [2024-12-19 20:52:01,148] {dagbag.py:507} INFO - Filling up the DagBag from /home/dev/curso/ambientevirtual/lib/python3.9/site-packages/airflow/example_dags/example_branch_day_of_week_operator.py
+[2024-12-19 20:52:01,158] {processor.py:651} INFO - DAG(s) dict_keys(['example_weekday_branch_operator']) retrieved from /home/dev/curso/ambientevirtual/lib/python3.9/site-packages/airflow/example_dags/example_branch_day_of_week_operator.py
+[2024-12-19 20:52:01,177] {logging_mixin.py:115} INFO - [2024-12-19 20:52:01,177] {dag.py:2379} INFO - Sync 1 DAGs
+[2024-12-19 20:52:01,199] {logging_mixin.py:115} INFO - [2024-12-19 20:52:01,199] {dag.py:2927} INFO - Setting next_dagrun for example_weekday_branch_operator to 2024-12-18T00:00:00+00:00, run_after=2024-12-19T00:00:00+00:00
+[2024-12-19 20:52:01,217] {processor.py:161} INFO - Processing /home/dev/curso/ambientevirtual/lib/python3.9/site-packages/airflow/example_dags/example_branch_day_of_week_operator.py took 0.075 seconds

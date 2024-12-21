@@ -1,0 +1,7 @@
+[2024-12-19 20:51:07,997] {processor.py:153} INFO - Started process (PID=3569) to work on /home/dev/curso/ambientevirtual/lib/python3.9/site-packages/airflow/example_dags/example_branch_operator.py
+[2024-12-19 20:51:07,997] {processor.py:641} INFO - Processing file /home/dev/curso/ambientevirtual/lib/python3.9/site-packages/airflow/example_dags/example_branch_operator.py for tasks to queue
+[2024-12-19 20:51:07,998] {logging_mixin.py:115} INFO - [2024-12-19 20:51:07,998] {dagbag.py:507} INFO - Filling up the DagBag from /home/dev/curso/ambientevirtual/lib/python3.9/site-packages/airflow/example_dags/example_branch_operator.py
+[2024-12-19 20:51:08,011] {processor.py:651} INFO - DAG(s) dict_keys(['example_branch_operator']) retrieved from /home/dev/curso/ambientevirtual/lib/python3.9/site-packages/airflow/example_dags/example_branch_operator.py
+[2024-12-19 20:51:08,033] {logging_mixin.py:115} INFO - [2024-12-19 20:51:08,033] {dag.py:2379} INFO - Sync 1 DAGs
+[2024-12-19 20:51:08,059] {logging_mixin.py:115} INFO - [2024-12-19 20:51:08,059] {dag.py:2927} INFO - Setting next_dagrun for example_branch_operator to 2024-12-18T00:00:00+00:00, run_after=2024-12-19T00:00:00+00:00
+[2024-12-19 20:51:08,079] {processor.py:161} INFO - Processing /home/dev/curso/ambientevirtual/lib/python3.9/site-packages/airflow/example_dags/example_branch_operator.py took 0.086 seconds

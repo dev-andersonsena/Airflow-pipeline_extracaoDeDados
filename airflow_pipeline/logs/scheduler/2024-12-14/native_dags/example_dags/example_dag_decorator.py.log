@@ -1,0 +1,249 @@
+[2024-12-14 15:51:31,799] {processor.py:153} INFO - Started process (PID=47859) to work on /home/dev/curso/ambientevirtual/lib/python3.9/site-packages/airflow/example_dags/example_dag_decorator.py
+[2024-12-14 15:51:31,811] {processor.py:641} INFO - Processing file /home/dev/curso/ambientevirtual/lib/python3.9/site-packages/airflow/example_dags/example_dag_decorator.py for tasks to queue
+[2024-12-14 15:51:31,814] {logging_mixin.py:115} INFO - [2024-12-14 15:51:31,813] {dagbag.py:507} INFO - Filling up the DagBag from /home/dev/curso/ambientevirtual/lib/python3.9/site-packages/airflow/example_dags/example_dag_decorator.py
+[2024-12-14 15:51:31,927] {processor.py:651} INFO - DAG(s) dict_keys(['example_dag_decorator']) retrieved from /home/dev/curso/ambientevirtual/lib/python3.9/site-packages/airflow/example_dags/example_dag_decorator.py
+[2024-12-14 15:51:32,048] {logging_mixin.py:115} INFO - [2024-12-14 15:51:32,048] {manager.py:508} INFO - Created Permission View: can delete on DAG:example_dag_decorator
+[2024-12-14 15:51:32,072] {logging_mixin.py:115} INFO - [2024-12-14 15:51:32,072] {manager.py:508} INFO - Created Permission View: can edit on DAG:example_dag_decorator
+[2024-12-14 15:51:32,095] {logging_mixin.py:115} INFO - [2024-12-14 15:51:32,095] {manager.py:508} INFO - Created Permission View: can read on DAG:example_dag_decorator
+[2024-12-14 15:51:32,095] {logging_mixin.py:115} INFO - [2024-12-14 15:51:32,095] {dag.py:2379} INFO - Sync 1 DAGs
+[2024-12-14 15:51:32,115] {logging_mixin.py:115} INFO - [2024-12-14 15:51:32,115] {dag.py:2398} INFO - Creating ORM DAG for example_dag_decorator
+[2024-12-14 15:51:32,138] {logging_mixin.py:115} INFO - [2024-12-14 15:51:32,138] {dag.py:2927} INFO - Setting next_dagrun for example_dag_decorator to None, run_after=None
+[2024-12-14 15:51:32,166] {processor.py:161} INFO - Processing /home/dev/curso/ambientevirtual/lib/python3.9/site-packages/airflow/example_dags/example_dag_decorator.py took 0.372 seconds
+[2024-12-14 15:52:10,857] {processor.py:153} INFO - Started process (PID=48284) to work on /home/dev/curso/ambientevirtual/lib/python3.9/site-packages/airflow/example_dags/example_dag_decorator.py
+[2024-12-14 15:52:10,859] {processor.py:641} INFO - Processing file /home/dev/curso/ambientevirtual/lib/python3.9/site-packages/airflow/example_dags/example_dag_decorator.py for tasks to queue
+[2024-12-14 15:52:10,860] {logging_mixin.py:115} INFO - [2024-12-14 15:52:10,860] {dagbag.py:507} INFO - Filling up the DagBag from /home/dev/curso/ambientevirtual/lib/python3.9/site-packages/airflow/example_dags/example_dag_decorator.py
+[2024-12-14 15:52:10,891] {processor.py:651} INFO - DAG(s) dict_keys(['example_dag_decorator']) retrieved from /home/dev/curso/ambientevirtual/lib/python3.9/site-packages/airflow/example_dags/example_dag_decorator.py
+[2024-12-14 15:52:10,940] {logging_mixin.py:115} INFO - [2024-12-14 15:52:10,940] {dag.py:2379} INFO - Sync 1 DAGs
+[2024-12-14 15:52:10,956] {logging_mixin.py:115} INFO - [2024-12-14 15:52:10,956] {dag.py:2927} INFO - Setting next_dagrun for example_dag_decorator to None, run_after=None
+[2024-12-14 15:52:10,974] {processor.py:161} INFO - Processing /home/dev/curso/ambientevirtual/lib/python3.9/site-packages/airflow/example_dags/example_dag_decorator.py took 0.124 seconds
+[2024-12-14 15:52:47,055] {processor.py:153} INFO - Started process (PID=48414) to work on /home/dev/curso/ambientevirtual/lib/python3.9/site-packages/airflow/example_dags/example_dag_decorator.py
+[2024-12-14 15:52:47,056] {processor.py:641} INFO - Processing file /home/dev/curso/ambientevirtual/lib/python3.9/site-packages/airflow/example_dags/example_dag_decorator.py for tasks to queue
+[2024-12-14 15:52:47,057] {logging_mixin.py:115} INFO - [2024-12-14 15:52:47,057] {dagbag.py:507} INFO - Filling up the DagBag from /home/dev/curso/ambientevirtual/lib/python3.9/site-packages/airflow/example_dags/example_dag_decorator.py
+[2024-12-14 15:52:47,089] {processor.py:651} INFO - DAG(s) dict_keys(['example_dag_decorator']) retrieved from /home/dev/curso/ambientevirtual/lib/python3.9/site-packages/airflow/example_dags/example_dag_decorator.py
+[2024-12-14 15:52:47,137] {logging_mixin.py:115} INFO - [2024-12-14 15:52:47,137] {dag.py:2379} INFO - Sync 1 DAGs
+[2024-12-14 15:52:47,152] {logging_mixin.py:115} INFO - [2024-12-14 15:52:47,152] {dag.py:2927} INFO - Setting next_dagrun for example_dag_decorator to None, run_after=None
+[2024-12-14 15:52:47,169] {processor.py:161} INFO - Processing /home/dev/curso/ambientevirtual/lib/python3.9/site-packages/airflow/example_dags/example_dag_decorator.py took 0.120 seconds
+[2024-12-14 15:53:23,630] {processor.py:153} INFO - Started process (PID=48550) to work on /home/dev/curso/ambientevirtual/lib/python3.9/site-packages/airflow/example_dags/example_dag_decorator.py
+[2024-12-14 15:53:23,631] {processor.py:641} INFO - Processing file /home/dev/curso/ambientevirtual/lib/python3.9/site-packages/airflow/example_dags/example_dag_decorator.py for tasks to queue
+[2024-12-14 15:53:23,632] {logging_mixin.py:115} INFO - [2024-12-14 15:53:23,632] {dagbag.py:507} INFO - Filling up the DagBag from /home/dev/curso/ambientevirtual/lib/python3.9/site-packages/airflow/example_dags/example_dag_decorator.py
+[2024-12-14 15:53:23,662] {processor.py:651} INFO - DAG(s) dict_keys(['example_dag_decorator']) retrieved from /home/dev/curso/ambientevirtual/lib/python3.9/site-packages/airflow/example_dags/example_dag_decorator.py
+[2024-12-14 15:53:23,679] {logging_mixin.py:115} INFO - [2024-12-14 15:53:23,679] {dag.py:2379} INFO - Sync 1 DAGs
+[2024-12-14 15:53:23,696] {logging_mixin.py:115} INFO - [2024-12-14 15:53:23,696] {dag.py:2927} INFO - Setting next_dagrun for example_dag_decorator to None, run_after=None
+[2024-12-14 15:53:23,712] {processor.py:161} INFO - Processing /home/dev/curso/ambientevirtual/lib/python3.9/site-packages/airflow/example_dags/example_dag_decorator.py took 0.085 seconds
+[2024-12-14 15:53:58,509] {processor.py:153} INFO - Started process (PID=48679) to work on /home/dev/curso/ambientevirtual/lib/python3.9/site-packages/airflow/example_dags/example_dag_decorator.py
+[2024-12-14 15:53:58,510] {processor.py:641} INFO - Processing file /home/dev/curso/ambientevirtual/lib/python3.9/site-packages/airflow/example_dags/example_dag_decorator.py for tasks to queue
+[2024-12-14 15:53:58,511] {logging_mixin.py:115} INFO - [2024-12-14 15:53:58,510] {dagbag.py:507} INFO - Filling up the DagBag from /home/dev/curso/ambientevirtual/lib/python3.9/site-packages/airflow/example_dags/example_dag_decorator.py
+[2024-12-14 15:53:58,536] {processor.py:651} INFO - DAG(s) dict_keys(['example_dag_decorator']) retrieved from /home/dev/curso/ambientevirtual/lib/python3.9/site-packages/airflow/example_dags/example_dag_decorator.py
+[2024-12-14 15:53:58,584] {logging_mixin.py:115} INFO - [2024-12-14 15:53:58,583] {dag.py:2379} INFO - Sync 1 DAGs
+[2024-12-14 15:53:58,599] {logging_mixin.py:115} INFO - [2024-12-14 15:53:58,599] {dag.py:2927} INFO - Setting next_dagrun for example_dag_decorator to None, run_after=None
+[2024-12-14 15:53:58,617] {processor.py:161} INFO - Processing /home/dev/curso/ambientevirtual/lib/python3.9/site-packages/airflow/example_dags/example_dag_decorator.py took 0.111 seconds
+[2024-12-14 15:54:32,797] {processor.py:153} INFO - Started process (PID=48801) to work on /home/dev/curso/ambientevirtual/lib/python3.9/site-packages/airflow/example_dags/example_dag_decorator.py
+[2024-12-14 15:54:32,798] {processor.py:641} INFO - Processing file /home/dev/curso/ambientevirtual/lib/python3.9/site-packages/airflow/example_dags/example_dag_decorator.py for tasks to queue
+[2024-12-14 15:54:32,799] {logging_mixin.py:115} INFO - [2024-12-14 15:54:32,799] {dagbag.py:507} INFO - Filling up the DagBag from /home/dev/curso/ambientevirtual/lib/python3.9/site-packages/airflow/example_dags/example_dag_decorator.py
+[2024-12-14 15:54:32,836] {processor.py:651} INFO - DAG(s) dict_keys(['example_dag_decorator']) retrieved from /home/dev/curso/ambientevirtual/lib/python3.9/site-packages/airflow/example_dags/example_dag_decorator.py
+[2024-12-14 15:54:32,856] {logging_mixin.py:115} INFO - [2024-12-14 15:54:32,856] {dag.py:2379} INFO - Sync 1 DAGs
+[2024-12-14 15:54:32,873] {logging_mixin.py:115} INFO - [2024-12-14 15:54:32,873] {dag.py:2927} INFO - Setting next_dagrun for example_dag_decorator to None, run_after=None
+[2024-12-14 15:54:32,891] {processor.py:161} INFO - Processing /home/dev/curso/ambientevirtual/lib/python3.9/site-packages/airflow/example_dags/example_dag_decorator.py took 0.101 seconds
+[2024-12-14 15:55:07,150] {processor.py:153} INFO - Started process (PID=48929) to work on /home/dev/curso/ambientevirtual/lib/python3.9/site-packages/airflow/example_dags/example_dag_decorator.py
+[2024-12-14 15:55:07,152] {processor.py:641} INFO - Processing file /home/dev/curso/ambientevirtual/lib/python3.9/site-packages/airflow/example_dags/example_dag_decorator.py for tasks to queue
+[2024-12-14 15:55:07,153] {logging_mixin.py:115} INFO - [2024-12-14 15:55:07,153] {dagbag.py:507} INFO - Filling up the DagBag from /home/dev/curso/ambientevirtual/lib/python3.9/site-packages/airflow/example_dags/example_dag_decorator.py
+[2024-12-14 15:55:07,182] {processor.py:651} INFO - DAG(s) dict_keys(['example_dag_decorator']) retrieved from /home/dev/curso/ambientevirtual/lib/python3.9/site-packages/airflow/example_dags/example_dag_decorator.py
+[2024-12-14 15:55:07,237] {logging_mixin.py:115} INFO - [2024-12-14 15:55:07,237] {dag.py:2379} INFO - Sync 1 DAGs
+[2024-12-14 15:55:07,259] {logging_mixin.py:115} INFO - [2024-12-14 15:55:07,259] {dag.py:2927} INFO - Setting next_dagrun for example_dag_decorator to None, run_after=None
+[2024-12-14 15:55:07,280] {processor.py:161} INFO - Processing /home/dev/curso/ambientevirtual/lib/python3.9/site-packages/airflow/example_dags/example_dag_decorator.py took 0.134 seconds
+[2024-12-14 15:55:39,960] {processor.py:153} INFO - Started process (PID=49045) to work on /home/dev/curso/ambientevirtual/lib/python3.9/site-packages/airflow/example_dags/example_dag_decorator.py
+[2024-12-14 15:55:39,962] {processor.py:641} INFO - Processing file /home/dev/curso/ambientevirtual/lib/python3.9/site-packages/airflow/example_dags/example_dag_decorator.py for tasks to queue
+[2024-12-14 15:55:39,963] {logging_mixin.py:115} INFO - [2024-12-14 15:55:39,963] {dagbag.py:507} INFO - Filling up the DagBag from /home/dev/curso/ambientevirtual/lib/python3.9/site-packages/airflow/example_dags/example_dag_decorator.py
+[2024-12-14 15:55:39,998] {processor.py:651} INFO - DAG(s) dict_keys(['example_dag_decorator']) retrieved from /home/dev/curso/ambientevirtual/lib/python3.9/site-packages/airflow/example_dags/example_dag_decorator.py
+[2024-12-14 15:55:40,050] {logging_mixin.py:115} INFO - [2024-12-14 15:55:40,050] {dag.py:2379} INFO - Sync 1 DAGs
+[2024-12-14 15:55:40,066] {logging_mixin.py:115} INFO - [2024-12-14 15:55:40,066] {dag.py:2927} INFO - Setting next_dagrun for example_dag_decorator to None, run_after=None
+[2024-12-14 15:55:40,090] {processor.py:161} INFO - Processing /home/dev/curso/ambientevirtual/lib/python3.9/site-packages/airflow/example_dags/example_dag_decorator.py took 0.138 seconds
+[2024-12-14 15:56:14,730] {processor.py:153} INFO - Started process (PID=49174) to work on /home/dev/curso/ambientevirtual/lib/python3.9/site-packages/airflow/example_dags/example_dag_decorator.py
+[2024-12-14 15:56:14,731] {processor.py:641} INFO - Processing file /home/dev/curso/ambientevirtual/lib/python3.9/site-packages/airflow/example_dags/example_dag_decorator.py for tasks to queue
+[2024-12-14 15:56:14,731] {logging_mixin.py:115} INFO - [2024-12-14 15:56:14,731] {dagbag.py:507} INFO - Filling up the DagBag from /home/dev/curso/ambientevirtual/lib/python3.9/site-packages/airflow/example_dags/example_dag_decorator.py
+[2024-12-14 15:56:14,764] {processor.py:651} INFO - DAG(s) dict_keys(['example_dag_decorator']) retrieved from /home/dev/curso/ambientevirtual/lib/python3.9/site-packages/airflow/example_dags/example_dag_decorator.py
+[2024-12-14 15:56:14,786] {logging_mixin.py:115} INFO - [2024-12-14 15:56:14,786] {dag.py:2379} INFO - Sync 1 DAGs
+[2024-12-14 15:56:14,806] {logging_mixin.py:115} INFO - [2024-12-14 15:56:14,805] {dag.py:2927} INFO - Setting next_dagrun for example_dag_decorator to None, run_after=None
+[2024-12-14 15:56:14,826] {processor.py:161} INFO - Processing /home/dev/curso/ambientevirtual/lib/python3.9/site-packages/airflow/example_dags/example_dag_decorator.py took 0.100 seconds
+[2024-12-14 15:56:51,205] {processor.py:153} INFO - Started process (PID=49368) to work on /home/dev/curso/ambientevirtual/lib/python3.9/site-packages/airflow/example_dags/example_dag_decorator.py
+[2024-12-14 15:56:51,207] {processor.py:641} INFO - Processing file /home/dev/curso/ambientevirtual/lib/python3.9/site-packages/airflow/example_dags/example_dag_decorator.py for tasks to queue
+[2024-12-14 15:56:51,208] {logging_mixin.py:115} INFO - [2024-12-14 15:56:51,208] {dagbag.py:507} INFO - Filling up the DagBag from /home/dev/curso/ambientevirtual/lib/python3.9/site-packages/airflow/example_dags/example_dag_decorator.py
+[2024-12-14 15:56:51,247] {processor.py:651} INFO - DAG(s) dict_keys(['example_dag_decorator']) retrieved from /home/dev/curso/ambientevirtual/lib/python3.9/site-packages/airflow/example_dags/example_dag_decorator.py
+[2024-12-14 15:56:51,307] {logging_mixin.py:115} INFO - [2024-12-14 15:56:51,307] {dag.py:2379} INFO - Sync 1 DAGs
+[2024-12-14 15:56:51,330] {logging_mixin.py:115} INFO - [2024-12-14 15:56:51,330] {dag.py:2927} INFO - Setting next_dagrun for example_dag_decorator to None, run_after=None
+[2024-12-14 15:56:51,350] {processor.py:161} INFO - Processing /home/dev/curso/ambientevirtual/lib/python3.9/site-packages/airflow/example_dags/example_dag_decorator.py took 0.153 seconds
+[2024-12-14 15:57:27,017] {processor.py:153} INFO - Started process (PID=49497) to work on /home/dev/curso/ambientevirtual/lib/python3.9/site-packages/airflow/example_dags/example_dag_decorator.py
+[2024-12-14 15:57:27,018] {processor.py:641} INFO - Processing file /home/dev/curso/ambientevirtual/lib/python3.9/site-packages/airflow/example_dags/example_dag_decorator.py for tasks to queue
+[2024-12-14 15:57:27,019] {logging_mixin.py:115} INFO - [2024-12-14 15:57:27,019] {dagbag.py:507} INFO - Filling up the DagBag from /home/dev/curso/ambientevirtual/lib/python3.9/site-packages/airflow/example_dags/example_dag_decorator.py
+[2024-12-14 15:57:27,052] {processor.py:651} INFO - DAG(s) dict_keys(['example_dag_decorator']) retrieved from /home/dev/curso/ambientevirtual/lib/python3.9/site-packages/airflow/example_dags/example_dag_decorator.py
+[2024-12-14 15:57:27,076] {logging_mixin.py:115} INFO - [2024-12-14 15:57:27,076] {dag.py:2379} INFO - Sync 1 DAGs
+[2024-12-14 15:57:27,096] {logging_mixin.py:115} INFO - [2024-12-14 15:57:27,096] {dag.py:2927} INFO - Setting next_dagrun for example_dag_decorator to None, run_after=None
+[2024-12-14 15:57:27,115] {processor.py:161} INFO - Processing /home/dev/curso/ambientevirtual/lib/python3.9/site-packages/airflow/example_dags/example_dag_decorator.py took 0.105 seconds
+[2024-12-14 15:58:02,027] {processor.py:153} INFO - Started process (PID=49626) to work on /home/dev/curso/ambientevirtual/lib/python3.9/site-packages/airflow/example_dags/example_dag_decorator.py
+[2024-12-14 15:58:02,028] {processor.py:641} INFO - Processing file /home/dev/curso/ambientevirtual/lib/python3.9/site-packages/airflow/example_dags/example_dag_decorator.py for tasks to queue
+[2024-12-14 15:58:02,029] {logging_mixin.py:115} INFO - [2024-12-14 15:58:02,028] {dagbag.py:507} INFO - Filling up the DagBag from /home/dev/curso/ambientevirtual/lib/python3.9/site-packages/airflow/example_dags/example_dag_decorator.py
+[2024-12-14 15:58:02,061] {processor.py:651} INFO - DAG(s) dict_keys(['example_dag_decorator']) retrieved from /home/dev/curso/ambientevirtual/lib/python3.9/site-packages/airflow/example_dags/example_dag_decorator.py
+[2024-12-14 15:58:02,085] {logging_mixin.py:115} INFO - [2024-12-14 15:58:02,084] {dag.py:2379} INFO - Sync 1 DAGs
+[2024-12-14 15:58:02,107] {logging_mixin.py:115} INFO - [2024-12-14 15:58:02,107] {dag.py:2927} INFO - Setting next_dagrun for example_dag_decorator to None, run_after=None
+[2024-12-14 15:58:02,127] {processor.py:161} INFO - Processing /home/dev/curso/ambientevirtual/lib/python3.9/site-packages/airflow/example_dags/example_dag_decorator.py took 0.103 seconds
+[2024-12-14 15:58:37,501] {processor.py:153} INFO - Started process (PID=49755) to work on /home/dev/curso/ambientevirtual/lib/python3.9/site-packages/airflow/example_dags/example_dag_decorator.py
+[2024-12-14 15:58:37,502] {processor.py:641} INFO - Processing file /home/dev/curso/ambientevirtual/lib/python3.9/site-packages/airflow/example_dags/example_dag_decorator.py for tasks to queue
+[2024-12-14 15:58:37,503] {logging_mixin.py:115} INFO - [2024-12-14 15:58:37,503] {dagbag.py:507} INFO - Filling up the DagBag from /home/dev/curso/ambientevirtual/lib/python3.9/site-packages/airflow/example_dags/example_dag_decorator.py
+[2024-12-14 15:58:37,537] {processor.py:651} INFO - DAG(s) dict_keys(['example_dag_decorator']) retrieved from /home/dev/curso/ambientevirtual/lib/python3.9/site-packages/airflow/example_dags/example_dag_decorator.py
+[2024-12-14 15:58:37,561] {logging_mixin.py:115} INFO - [2024-12-14 15:58:37,561] {dag.py:2379} INFO - Sync 1 DAGs
+[2024-12-14 15:58:37,587] {logging_mixin.py:115} INFO - [2024-12-14 15:58:37,587] {dag.py:2927} INFO - Setting next_dagrun for example_dag_decorator to None, run_after=None
+[2024-12-14 15:58:37,610] {processor.py:161} INFO - Processing /home/dev/curso/ambientevirtual/lib/python3.9/site-packages/airflow/example_dags/example_dag_decorator.py took 0.113 seconds
+[2024-12-14 15:59:12,208] {processor.py:153} INFO - Started process (PID=49881) to work on /home/dev/curso/ambientevirtual/lib/python3.9/site-packages/airflow/example_dags/example_dag_decorator.py
+[2024-12-14 15:59:12,209] {processor.py:641} INFO - Processing file /home/dev/curso/ambientevirtual/lib/python3.9/site-packages/airflow/example_dags/example_dag_decorator.py for tasks to queue
+[2024-12-14 15:59:12,210] {logging_mixin.py:115} INFO - [2024-12-14 15:59:12,210] {dagbag.py:507} INFO - Filling up the DagBag from /home/dev/curso/ambientevirtual/lib/python3.9/site-packages/airflow/example_dags/example_dag_decorator.py
+[2024-12-14 15:59:12,240] {processor.py:651} INFO - DAG(s) dict_keys(['example_dag_decorator']) retrieved from /home/dev/curso/ambientevirtual/lib/python3.9/site-packages/airflow/example_dags/example_dag_decorator.py
+[2024-12-14 15:59:12,291] {logging_mixin.py:115} INFO - [2024-12-14 15:59:12,291] {dag.py:2379} INFO - Sync 1 DAGs
+[2024-12-14 15:59:12,309] {logging_mixin.py:115} INFO - [2024-12-14 15:59:12,309] {dag.py:2927} INFO - Setting next_dagrun for example_dag_decorator to None, run_after=None
+[2024-12-14 15:59:12,329] {processor.py:161} INFO - Processing /home/dev/curso/ambientevirtual/lib/python3.9/site-packages/airflow/example_dags/example_dag_decorator.py took 0.124 seconds
+[2024-12-14 15:59:46,098] {processor.py:153} INFO - Started process (PID=50005) to work on /home/dev/curso/ambientevirtual/lib/python3.9/site-packages/airflow/example_dags/example_dag_decorator.py
+[2024-12-14 15:59:46,100] {processor.py:641} INFO - Processing file /home/dev/curso/ambientevirtual/lib/python3.9/site-packages/airflow/example_dags/example_dag_decorator.py for tasks to queue
+[2024-12-14 15:59:46,101] {logging_mixin.py:115} INFO - [2024-12-14 15:59:46,101] {dagbag.py:507} INFO - Filling up the DagBag from /home/dev/curso/ambientevirtual/lib/python3.9/site-packages/airflow/example_dags/example_dag_decorator.py
+[2024-12-14 15:59:46,131] {processor.py:651} INFO - DAG(s) dict_keys(['example_dag_decorator']) retrieved from /home/dev/curso/ambientevirtual/lib/python3.9/site-packages/airflow/example_dags/example_dag_decorator.py
+[2024-12-14 15:59:46,149] {logging_mixin.py:115} INFO - [2024-12-14 15:59:46,149] {dag.py:2379} INFO - Sync 1 DAGs
+[2024-12-14 15:59:46,172] {logging_mixin.py:115} INFO - [2024-12-14 15:59:46,172] {dag.py:2927} INFO - Setting next_dagrun for example_dag_decorator to None, run_after=None
+[2024-12-14 15:59:46,190] {processor.py:161} INFO - Processing /home/dev/curso/ambientevirtual/lib/python3.9/site-packages/airflow/example_dags/example_dag_decorator.py took 0.098 seconds
+[2024-12-14 16:00:20,101] {processor.py:153} INFO - Started process (PID=50127) to work on /home/dev/curso/ambientevirtual/lib/python3.9/site-packages/airflow/example_dags/example_dag_decorator.py
+[2024-12-14 16:00:20,102] {processor.py:641} INFO - Processing file /home/dev/curso/ambientevirtual/lib/python3.9/site-packages/airflow/example_dags/example_dag_decorator.py for tasks to queue
+[2024-12-14 16:00:20,103] {logging_mixin.py:115} INFO - [2024-12-14 16:00:20,103] {dagbag.py:507} INFO - Filling up the DagBag from /home/dev/curso/ambientevirtual/lib/python3.9/site-packages/airflow/example_dags/example_dag_decorator.py
+[2024-12-14 16:00:20,135] {processor.py:651} INFO - DAG(s) dict_keys(['example_dag_decorator']) retrieved from /home/dev/curso/ambientevirtual/lib/python3.9/site-packages/airflow/example_dags/example_dag_decorator.py
+[2024-12-14 16:00:20,153] {logging_mixin.py:115} INFO - [2024-12-14 16:00:20,153] {dag.py:2379} INFO - Sync 1 DAGs
+[2024-12-14 16:00:20,171] {logging_mixin.py:115} INFO - [2024-12-14 16:00:20,171] {dag.py:2927} INFO - Setting next_dagrun for example_dag_decorator to None, run_after=None
+[2024-12-14 16:00:20,188] {processor.py:161} INFO - Processing /home/dev/curso/ambientevirtual/lib/python3.9/site-packages/airflow/example_dags/example_dag_decorator.py took 0.094 seconds
+[2024-12-14 16:00:53,323] {processor.py:153} INFO - Started process (PID=50306) to work on /home/dev/curso/ambientevirtual/lib/python3.9/site-packages/airflow/example_dags/example_dag_decorator.py
+[2024-12-14 16:00:53,324] {processor.py:641} INFO - Processing file /home/dev/curso/ambientevirtual/lib/python3.9/site-packages/airflow/example_dags/example_dag_decorator.py for tasks to queue
+[2024-12-14 16:00:53,325] {logging_mixin.py:115} INFO - [2024-12-14 16:00:53,325] {dagbag.py:507} INFO - Filling up the DagBag from /home/dev/curso/ambientevirtual/lib/python3.9/site-packages/airflow/example_dags/example_dag_decorator.py
+[2024-12-14 16:00:53,361] {processor.py:651} INFO - DAG(s) dict_keys(['example_dag_decorator']) retrieved from /home/dev/curso/ambientevirtual/lib/python3.9/site-packages/airflow/example_dags/example_dag_decorator.py
+[2024-12-14 16:00:53,381] {logging_mixin.py:115} INFO - [2024-12-14 16:00:53,381] {dag.py:2379} INFO - Sync 1 DAGs
+[2024-12-14 16:00:53,402] {logging_mixin.py:115} INFO - [2024-12-14 16:00:53,402] {dag.py:2927} INFO - Setting next_dagrun for example_dag_decorator to None, run_after=None
+[2024-12-14 16:00:53,420] {processor.py:161} INFO - Processing /home/dev/curso/ambientevirtual/lib/python3.9/site-packages/airflow/example_dags/example_dag_decorator.py took 0.101 seconds
+[2024-12-14 16:01:26,980] {processor.py:153} INFO - Started process (PID=50543) to work on /home/dev/curso/ambientevirtual/lib/python3.9/site-packages/airflow/example_dags/example_dag_decorator.py
+[2024-12-14 16:01:26,982] {processor.py:641} INFO - Processing file /home/dev/curso/ambientevirtual/lib/python3.9/site-packages/airflow/example_dags/example_dag_decorator.py for tasks to queue
+[2024-12-14 16:01:26,983] {logging_mixin.py:115} INFO - [2024-12-14 16:01:26,982] {dagbag.py:507} INFO - Filling up the DagBag from /home/dev/curso/ambientevirtual/lib/python3.9/site-packages/airflow/example_dags/example_dag_decorator.py
+[2024-12-14 16:01:27,015] {processor.py:651} INFO - DAG(s) dict_keys(['example_dag_decorator']) retrieved from /home/dev/curso/ambientevirtual/lib/python3.9/site-packages/airflow/example_dags/example_dag_decorator.py
+[2024-12-14 16:01:27,073] {logging_mixin.py:115} INFO - [2024-12-14 16:01:27,073] {dag.py:2379} INFO - Sync 1 DAGs
+[2024-12-14 16:01:27,094] {logging_mixin.py:115} INFO - [2024-12-14 16:01:27,093] {dag.py:2927} INFO - Setting next_dagrun for example_dag_decorator to None, run_after=None
+[2024-12-14 16:01:27,113] {processor.py:161} INFO - Processing /home/dev/curso/ambientevirtual/lib/python3.9/site-packages/airflow/example_dags/example_dag_decorator.py took 0.137 seconds
+[2024-12-14 16:02:04,801] {processor.py:153} INFO - Started process (PID=50737) to work on /home/dev/curso/ambientevirtual/lib/python3.9/site-packages/airflow/example_dags/example_dag_decorator.py
+[2024-12-14 16:02:04,803] {processor.py:641} INFO - Processing file /home/dev/curso/ambientevirtual/lib/python3.9/site-packages/airflow/example_dags/example_dag_decorator.py for tasks to queue
+[2024-12-14 16:02:04,804] {logging_mixin.py:115} INFO - [2024-12-14 16:02:04,803] {dagbag.py:507} INFO - Filling up the DagBag from /home/dev/curso/ambientevirtual/lib/python3.9/site-packages/airflow/example_dags/example_dag_decorator.py
+[2024-12-14 16:02:04,833] {processor.py:651} INFO - DAG(s) dict_keys(['example_dag_decorator']) retrieved from /home/dev/curso/ambientevirtual/lib/python3.9/site-packages/airflow/example_dags/example_dag_decorator.py
+[2024-12-14 16:02:04,857] {logging_mixin.py:115} INFO - [2024-12-14 16:02:04,857] {dag.py:2379} INFO - Sync 1 DAGs
+[2024-12-14 16:02:04,882] {logging_mixin.py:115} INFO - [2024-12-14 16:02:04,882] {dag.py:2927} INFO - Setting next_dagrun for example_dag_decorator to None, run_after=None
+[2024-12-14 16:02:04,903] {processor.py:161} INFO - Processing /home/dev/curso/ambientevirtual/lib/python3.9/site-packages/airflow/example_dags/example_dag_decorator.py took 0.105 seconds
+[2024-12-14 16:02:39,696] {processor.py:153} INFO - Started process (PID=50869) to work on /home/dev/curso/ambientevirtual/lib/python3.9/site-packages/airflow/example_dags/example_dag_decorator.py
+[2024-12-14 16:02:39,696] {processor.py:641} INFO - Processing file /home/dev/curso/ambientevirtual/lib/python3.9/site-packages/airflow/example_dags/example_dag_decorator.py for tasks to queue
+[2024-12-14 16:02:39,697] {logging_mixin.py:115} INFO - [2024-12-14 16:02:39,697] {dagbag.py:507} INFO - Filling up the DagBag from /home/dev/curso/ambientevirtual/lib/python3.9/site-packages/airflow/example_dags/example_dag_decorator.py
+[2024-12-14 16:02:39,729] {processor.py:651} INFO - DAG(s) dict_keys(['example_dag_decorator']) retrieved from /home/dev/curso/ambientevirtual/lib/python3.9/site-packages/airflow/example_dags/example_dag_decorator.py
+[2024-12-14 16:02:39,751] {logging_mixin.py:115} INFO - [2024-12-14 16:02:39,751] {dag.py:2379} INFO - Sync 1 DAGs
+[2024-12-14 16:02:39,772] {logging_mixin.py:115} INFO - [2024-12-14 16:02:39,772] {dag.py:2927} INFO - Setting next_dagrun for example_dag_decorator to None, run_after=None
+[2024-12-14 16:02:39,791] {processor.py:161} INFO - Processing /home/dev/curso/ambientevirtual/lib/python3.9/site-packages/airflow/example_dags/example_dag_decorator.py took 0.101 seconds
+[2024-12-14 16:03:12,658] {processor.py:153} INFO - Started process (PID=50991) to work on /home/dev/curso/ambientevirtual/lib/python3.9/site-packages/airflow/example_dags/example_dag_decorator.py
+[2024-12-14 16:03:12,660] {processor.py:641} INFO - Processing file /home/dev/curso/ambientevirtual/lib/python3.9/site-packages/airflow/example_dags/example_dag_decorator.py for tasks to queue
+[2024-12-14 16:03:12,661] {logging_mixin.py:115} INFO - [2024-12-14 16:03:12,661] {dagbag.py:507} INFO - Filling up the DagBag from /home/dev/curso/ambientevirtual/lib/python3.9/site-packages/airflow/example_dags/example_dag_decorator.py
+[2024-12-14 16:03:12,692] {processor.py:651} INFO - DAG(s) dict_keys(['example_dag_decorator']) retrieved from /home/dev/curso/ambientevirtual/lib/python3.9/site-packages/airflow/example_dags/example_dag_decorator.py
+[2024-12-14 16:03:12,711] {logging_mixin.py:115} INFO - [2024-12-14 16:03:12,711] {dag.py:2379} INFO - Sync 1 DAGs
+[2024-12-14 16:03:12,729] {logging_mixin.py:115} INFO - [2024-12-14 16:03:12,729] {dag.py:2927} INFO - Setting next_dagrun for example_dag_decorator to None, run_after=None
+[2024-12-14 16:03:12,747] {processor.py:161} INFO - Processing /home/dev/curso/ambientevirtual/lib/python3.9/site-packages/airflow/example_dags/example_dag_decorator.py took 0.096 seconds
+[2024-12-14 16:03:47,494] {processor.py:153} INFO - Started process (PID=51120) to work on /home/dev/curso/ambientevirtual/lib/python3.9/site-packages/airflow/example_dags/example_dag_decorator.py
+[2024-12-14 16:03:47,496] {processor.py:641} INFO - Processing file /home/dev/curso/ambientevirtual/lib/python3.9/site-packages/airflow/example_dags/example_dag_decorator.py for tasks to queue
+[2024-12-14 16:03:47,497] {logging_mixin.py:115} INFO - [2024-12-14 16:03:47,497] {dagbag.py:507} INFO - Filling up the DagBag from /home/dev/curso/ambientevirtual/lib/python3.9/site-packages/airflow/example_dags/example_dag_decorator.py
+[2024-12-14 16:03:47,529] {processor.py:651} INFO - DAG(s) dict_keys(['example_dag_decorator']) retrieved from /home/dev/curso/ambientevirtual/lib/python3.9/site-packages/airflow/example_dags/example_dag_decorator.py
+[2024-12-14 16:03:47,549] {logging_mixin.py:115} INFO - [2024-12-14 16:03:47,549] {dag.py:2379} INFO - Sync 1 DAGs
+[2024-12-14 16:03:47,568] {logging_mixin.py:115} INFO - [2024-12-14 16:03:47,568] {dag.py:2927} INFO - Setting next_dagrun for example_dag_decorator to None, run_after=None
+[2024-12-14 16:03:47,586] {processor.py:161} INFO - Processing /home/dev/curso/ambientevirtual/lib/python3.9/site-packages/airflow/example_dags/example_dag_decorator.py took 0.099 seconds
+[2024-12-14 16:04:23,405] {processor.py:153} INFO - Started process (PID=51249) to work on /home/dev/curso/ambientevirtual/lib/python3.9/site-packages/airflow/example_dags/example_dag_decorator.py
+[2024-12-14 16:04:23,407] {processor.py:641} INFO - Processing file /home/dev/curso/ambientevirtual/lib/python3.9/site-packages/airflow/example_dags/example_dag_decorator.py for tasks to queue
+[2024-12-14 16:04:23,407] {logging_mixin.py:115} INFO - [2024-12-14 16:04:23,407] {dagbag.py:507} INFO - Filling up the DagBag from /home/dev/curso/ambientevirtual/lib/python3.9/site-packages/airflow/example_dags/example_dag_decorator.py
+[2024-12-14 16:04:23,440] {processor.py:651} INFO - DAG(s) dict_keys(['example_dag_decorator']) retrieved from /home/dev/curso/ambientevirtual/lib/python3.9/site-packages/airflow/example_dags/example_dag_decorator.py
+[2024-12-14 16:04:23,492] {logging_mixin.py:115} INFO - [2024-12-14 16:04:23,492] {dag.py:2379} INFO - Sync 1 DAGs
+[2024-12-14 16:04:23,510] {logging_mixin.py:115} INFO - [2024-12-14 16:04:23,510] {dag.py:2927} INFO - Setting next_dagrun for example_dag_decorator to None, run_after=None
+[2024-12-14 16:04:23,529] {processor.py:161} INFO - Processing /home/dev/curso/ambientevirtual/lib/python3.9/site-packages/airflow/example_dags/example_dag_decorator.py took 0.129 seconds
+[2024-12-14 16:04:56,082] {processor.py:153} INFO - Started process (PID=51369) to work on /home/dev/curso/ambientevirtual/lib/python3.9/site-packages/airflow/example_dags/example_dag_decorator.py
+[2024-12-14 16:04:56,082] {processor.py:641} INFO - Processing file /home/dev/curso/ambientevirtual/lib/python3.9/site-packages/airflow/example_dags/example_dag_decorator.py for tasks to queue
+[2024-12-14 16:04:56,083] {logging_mixin.py:115} INFO - [2024-12-14 16:04:56,083] {dagbag.py:507} INFO - Filling up the DagBag from /home/dev/curso/ambientevirtual/lib/python3.9/site-packages/airflow/example_dags/example_dag_decorator.py
+[2024-12-14 16:04:56,111] {processor.py:651} INFO - DAG(s) dict_keys(['example_dag_decorator']) retrieved from /home/dev/curso/ambientevirtual/lib/python3.9/site-packages/airflow/example_dags/example_dag_decorator.py
+[2024-12-14 16:04:56,131] {logging_mixin.py:115} INFO - [2024-12-14 16:04:56,131] {dag.py:2379} INFO - Sync 1 DAGs
+[2024-12-14 16:04:56,150] {logging_mixin.py:115} INFO - [2024-12-14 16:04:56,150] {dag.py:2927} INFO - Setting next_dagrun for example_dag_decorator to None, run_after=None
+[2024-12-14 16:04:56,170] {processor.py:161} INFO - Processing /home/dev/curso/ambientevirtual/lib/python3.9/site-packages/airflow/example_dags/example_dag_decorator.py took 0.091 seconds
+[2024-12-14 16:05:30,727] {processor.py:153} INFO - Started process (PID=51493) to work on /home/dev/curso/ambientevirtual/lib/python3.9/site-packages/airflow/example_dags/example_dag_decorator.py
+[2024-12-14 16:05:30,728] {processor.py:641} INFO - Processing file /home/dev/curso/ambientevirtual/lib/python3.9/site-packages/airflow/example_dags/example_dag_decorator.py for tasks to queue
+[2024-12-14 16:05:30,729] {logging_mixin.py:115} INFO - [2024-12-14 16:05:30,729] {dagbag.py:507} INFO - Filling up the DagBag from /home/dev/curso/ambientevirtual/lib/python3.9/site-packages/airflow/example_dags/example_dag_decorator.py
+[2024-12-14 16:05:30,762] {processor.py:651} INFO - DAG(s) dict_keys(['example_dag_decorator']) retrieved from /home/dev/curso/ambientevirtual/lib/python3.9/site-packages/airflow/example_dags/example_dag_decorator.py
+[2024-12-14 16:05:30,782] {logging_mixin.py:115} INFO - [2024-12-14 16:05:30,781] {dag.py:2379} INFO - Sync 1 DAGs
+[2024-12-14 16:05:30,801] {logging_mixin.py:115} INFO - [2024-12-14 16:05:30,801] {dag.py:2927} INFO - Setting next_dagrun for example_dag_decorator to None, run_after=None
+[2024-12-14 16:05:30,821] {processor.py:161} INFO - Processing /home/dev/curso/ambientevirtual/lib/python3.9/site-packages/airflow/example_dags/example_dag_decorator.py took 0.100 seconds
+[2024-12-14 16:06:03,794] {processor.py:153} INFO - Started process (PID=51613) to work on /home/dev/curso/ambientevirtual/lib/python3.9/site-packages/airflow/example_dags/example_dag_decorator.py
+[2024-12-14 16:06:03,795] {processor.py:641} INFO - Processing file /home/dev/curso/ambientevirtual/lib/python3.9/site-packages/airflow/example_dags/example_dag_decorator.py for tasks to queue
+[2024-12-14 16:06:03,796] {logging_mixin.py:115} INFO - [2024-12-14 16:06:03,796] {dagbag.py:507} INFO - Filling up the DagBag from /home/dev/curso/ambientevirtual/lib/python3.9/site-packages/airflow/example_dags/example_dag_decorator.py
+[2024-12-14 16:06:03,833] {processor.py:651} INFO - DAG(s) dict_keys(['example_dag_decorator']) retrieved from /home/dev/curso/ambientevirtual/lib/python3.9/site-packages/airflow/example_dags/example_dag_decorator.py
+[2024-12-14 16:06:03,851] {logging_mixin.py:115} INFO - [2024-12-14 16:06:03,851] {dag.py:2379} INFO - Sync 1 DAGs
+[2024-12-14 16:06:03,869] {logging_mixin.py:115} INFO - [2024-12-14 16:06:03,869] {dag.py:2927} INFO - Setting next_dagrun for example_dag_decorator to None, run_after=None
+[2024-12-14 16:06:03,887] {processor.py:161} INFO - Processing /home/dev/curso/ambientevirtual/lib/python3.9/site-packages/airflow/example_dags/example_dag_decorator.py took 0.100 seconds
+[2024-12-14 16:06:36,765] {processor.py:153} INFO - Started process (PID=51793) to work on /home/dev/curso/ambientevirtual/lib/python3.9/site-packages/airflow/example_dags/example_dag_decorator.py
+[2024-12-14 16:06:36,766] {processor.py:641} INFO - Processing file /home/dev/curso/ambientevirtual/lib/python3.9/site-packages/airflow/example_dags/example_dag_decorator.py for tasks to queue
+[2024-12-14 16:06:36,768] {logging_mixin.py:115} INFO - [2024-12-14 16:06:36,767] {dagbag.py:507} INFO - Filling up the DagBag from /home/dev/curso/ambientevirtual/lib/python3.9/site-packages/airflow/example_dags/example_dag_decorator.py
+[2024-12-14 16:06:36,802] {processor.py:651} INFO - DAG(s) dict_keys(['example_dag_decorator']) retrieved from /home/dev/curso/ambientevirtual/lib/python3.9/site-packages/airflow/example_dags/example_dag_decorator.py
+[2024-12-14 16:06:36,863] {logging_mixin.py:115} INFO - [2024-12-14 16:06:36,863] {dag.py:2379} INFO - Sync 1 DAGs
+[2024-12-14 16:06:36,883] {logging_mixin.py:115} INFO - [2024-12-14 16:06:36,883] {dag.py:2927} INFO - Setting next_dagrun for example_dag_decorator to None, run_after=None
+[2024-12-14 16:06:36,902] {processor.py:161} INFO - Processing /home/dev/curso/ambientevirtual/lib/python3.9/site-packages/airflow/example_dags/example_dag_decorator.py took 0.144 seconds
+[2024-12-14 16:07:15,168] {processor.py:153} INFO - Started process (PID=51931) to work on /home/dev/curso/ambientevirtual/lib/python3.9/site-packages/airflow/example_dags/example_dag_decorator.py
+[2024-12-14 16:07:15,169] {processor.py:641} INFO - Processing file /home/dev/curso/ambientevirtual/lib/python3.9/site-packages/airflow/example_dags/example_dag_decorator.py for tasks to queue
+[2024-12-14 16:07:15,170] {logging_mixin.py:115} INFO - [2024-12-14 16:07:15,170] {dagbag.py:507} INFO - Filling up the DagBag from /home/dev/curso/ambientevirtual/lib/python3.9/site-packages/airflow/example_dags/example_dag_decorator.py
+[2024-12-14 16:07:15,204] {processor.py:651} INFO - DAG(s) dict_keys(['example_dag_decorator']) retrieved from /home/dev/curso/ambientevirtual/lib/python3.9/site-packages/airflow/example_dags/example_dag_decorator.py
+[2024-12-14 16:07:15,262] {logging_mixin.py:115} INFO - [2024-12-14 16:07:15,262] {dag.py:2379} INFO - Sync 1 DAGs
+[2024-12-14 16:07:15,279] {logging_mixin.py:115} INFO - [2024-12-14 16:07:15,279] {dag.py:2927} INFO - Setting next_dagrun for example_dag_decorator to None, run_after=None
+[2024-12-14 16:07:15,303] {processor.py:161} INFO - Processing /home/dev/curso/ambientevirtual/lib/python3.9/site-packages/airflow/example_dags/example_dag_decorator.py took 0.140 seconds
+[2024-12-14 16:07:51,224] {processor.py:153} INFO - Started process (PID=52126) to work on /home/dev/curso/ambientevirtual/lib/python3.9/site-packages/airflow/example_dags/example_dag_decorator.py
+[2024-12-14 16:07:51,225] {processor.py:641} INFO - Processing file /home/dev/curso/ambientevirtual/lib/python3.9/site-packages/airflow/example_dags/example_dag_decorator.py for tasks to queue
+[2024-12-14 16:07:51,225] {logging_mixin.py:115} INFO - [2024-12-14 16:07:51,225] {dagbag.py:507} INFO - Filling up the DagBag from /home/dev/curso/ambientevirtual/lib/python3.9/site-packages/airflow/example_dags/example_dag_decorator.py
+[2024-12-14 16:07:51,258] {processor.py:651} INFO - DAG(s) dict_keys(['example_dag_decorator']) retrieved from /home/dev/curso/ambientevirtual/lib/python3.9/site-packages/airflow/example_dags/example_dag_decorator.py
+[2024-12-14 16:07:51,284] {logging_mixin.py:115} INFO - [2024-12-14 16:07:51,284] {dag.py:2379} INFO - Sync 1 DAGs
+[2024-12-14 16:07:51,308] {logging_mixin.py:115} INFO - [2024-12-14 16:07:51,308] {dag.py:2927} INFO - Setting next_dagrun for example_dag_decorator to None, run_after=None
+[2024-12-14 16:07:51,336] {processor.py:161} INFO - Processing /home/dev/curso/ambientevirtual/lib/python3.9/site-packages/airflow/example_dags/example_dag_decorator.py took 0.116 seconds
+[2024-12-14 16:08:25,360] {processor.py:153} INFO - Started process (PID=52364) to work on /home/dev/curso/ambientevirtual/lib/python3.9/site-packages/airflow/example_dags/example_dag_decorator.py
+[2024-12-14 16:08:25,362] {processor.py:641} INFO - Processing file /home/dev/curso/ambientevirtual/lib/python3.9/site-packages/airflow/example_dags/example_dag_decorator.py for tasks to queue
+[2024-12-14 16:08:25,362] {logging_mixin.py:115} INFO - [2024-12-14 16:08:25,362] {dagbag.py:507} INFO - Filling up the DagBag from /home/dev/curso/ambientevirtual/lib/python3.9/site-packages/airflow/example_dags/example_dag_decorator.py
+[2024-12-14 16:08:25,397] {processor.py:651} INFO - DAG(s) dict_keys(['example_dag_decorator']) retrieved from /home/dev/curso/ambientevirtual/lib/python3.9/site-packages/airflow/example_dags/example_dag_decorator.py
+[2024-12-14 16:08:25,419] {logging_mixin.py:115} INFO - [2024-12-14 16:08:25,419] {dag.py:2379} INFO - Sync 1 DAGs
+[2024-12-14 16:08:25,443] {logging_mixin.py:115} INFO - [2024-12-14 16:08:25,443] {dag.py:2927} INFO - Setting next_dagrun for example_dag_decorator to None, run_after=None
+[2024-12-14 16:08:25,464] {processor.py:161} INFO - Processing /home/dev/curso/ambientevirtual/lib/python3.9/site-packages/airflow/example_dags/example_dag_decorator.py took 0.108 seconds
+[2024-12-14 16:09:00,672] {processor.py:153} INFO - Started process (PID=52610) to work on /home/dev/curso/ambientevirtual/lib/python3.9/site-packages/airflow/example_dags/example_dag_decorator.py
+[2024-12-14 16:09:00,672] {processor.py:641} INFO - Processing file /home/dev/curso/ambientevirtual/lib/python3.9/site-packages/airflow/example_dags/example_dag_decorator.py for tasks to queue
+[2024-12-14 16:09:00,673] {logging_mixin.py:115} INFO - [2024-12-14 16:09:00,673] {dagbag.py:507} INFO - Filling up the DagBag from /home/dev/curso/ambientevirtual/lib/python3.9/site-packages/airflow/example_dags/example_dag_decorator.py
+[2024-12-14 16:09:00,707] {processor.py:651} INFO - DAG(s) dict_keys(['example_dag_decorator']) retrieved from /home/dev/curso/ambientevirtual/lib/python3.9/site-packages/airflow/example_dags/example_dag_decorator.py
+[2024-12-14 16:09:00,771] {logging_mixin.py:115} INFO - [2024-12-14 16:09:00,771] {dag.py:2379} INFO - Sync 1 DAGs
+[2024-12-14 16:09:00,794] {logging_mixin.py:115} INFO - [2024-12-14 16:09:00,794] {dag.py:2927} INFO - Setting next_dagrun for example_dag_decorator to None, run_after=None
+[2024-12-14 16:09:00,818] {processor.py:161} INFO - Processing /home/dev/curso/ambientevirtual/lib/python3.9/site-packages/airflow/example_dags/example_dag_decorator.py took 0.151 seconds
+[2024-12-14 16:09:37,645] {processor.py:153} INFO - Started process (PID=52745) to work on /home/dev/curso/ambientevirtual/lib/python3.9/site-packages/airflow/example_dags/example_dag_decorator.py
+[2024-12-14 16:09:37,646] {processor.py:641} INFO - Processing file /home/dev/curso/ambientevirtual/lib/python3.9/site-packages/airflow/example_dags/example_dag_decorator.py for tasks to queue
+[2024-12-14 16:09:37,647] {logging_mixin.py:115} INFO - [2024-12-14 16:09:37,647] {dagbag.py:507} INFO - Filling up the DagBag from /home/dev/curso/ambientevirtual/lib/python3.9/site-packages/airflow/example_dags/example_dag_decorator.py
+[2024-12-14 16:09:37,681] {processor.py:651} INFO - DAG(s) dict_keys(['example_dag_decorator']) retrieved from /home/dev/curso/ambientevirtual/lib/python3.9/site-packages/airflow/example_dags/example_dag_decorator.py
+[2024-12-14 16:09:37,755] {logging_mixin.py:115} INFO - [2024-12-14 16:09:37,754] {dag.py:2379} INFO - Sync 1 DAGs
+[2024-12-14 16:09:37,773] {logging_mixin.py:115} INFO - [2024-12-14 16:09:37,773] {dag.py:2927} INFO - Setting next_dagrun for example_dag_decorator to None, run_after=None
+[2024-12-14 16:09:37,791] {processor.py:161} INFO - Processing /home/dev/curso/ambientevirtual/lib/python3.9/site-packages/airflow/example_dags/example_dag_decorator.py took 0.151 seconds
+[2024-12-14 16:10:12,450] {processor.py:153} INFO - Started process (PID=52869) to work on /home/dev/curso/ambientevirtual/lib/python3.9/site-packages/airflow/example_dags/example_dag_decorator.py
+[2024-12-14 16:10:12,452] {processor.py:641} INFO - Processing file /home/dev/curso/ambientevirtual/lib/python3.9/site-packages/airflow/example_dags/example_dag_decorator.py for tasks to queue
+[2024-12-14 16:10:12,453] {logging_mixin.py:115} INFO - [2024-12-14 16:10:12,453] {dagbag.py:507} INFO - Filling up the DagBag from /home/dev/curso/ambientevirtual/lib/python3.9/site-packages/airflow/example_dags/example_dag_decorator.py
+[2024-12-14 16:10:12,482] {processor.py:651} INFO - DAG(s) dict_keys(['example_dag_decorator']) retrieved from /home/dev/curso/ambientevirtual/lib/python3.9/site-packages/airflow/example_dags/example_dag_decorator.py
+[2024-12-14 16:10:12,532] {logging_mixin.py:115} INFO - [2024-12-14 16:10:12,532] {dag.py:2379} INFO - Sync 1 DAGs
+[2024-12-14 16:10:12,548] {logging_mixin.py:115} INFO - [2024-12-14 16:10:12,547] {dag.py:2927} INFO - Setting next_dagrun for example_dag_decorator to None, run_after=None
+[2024-12-14 16:10:12,565] {processor.py:161} INFO - Processing /home/dev/curso/ambientevirtual/lib/python3.9/site-packages/airflow/example_dags/example_dag_decorator.py took 0.122 seconds
+[2024-12-14 16:10:44,262] {processor.py:153} INFO - Started process (PID=53070) to work on /home/dev/curso/ambientevirtual/lib/python3.9/site-packages/airflow/example_dags/example_dag_decorator.py
+[2024-12-14 16:10:44,263] {processor.py:641} INFO - Processing file /home/dev/curso/ambientevirtual/lib/python3.9/site-packages/airflow/example_dags/example_dag_decorator.py for tasks to queue
+[2024-12-14 16:10:44,264] {logging_mixin.py:115} INFO - [2024-12-14 16:10:44,264] {dagbag.py:507} INFO - Filling up the DagBag from /home/dev/curso/ambientevirtual/lib/python3.9/site-packages/airflow/example_dags/example_dag_decorator.py
+[2024-12-14 16:10:44,295] {processor.py:651} INFO - DAG(s) dict_keys(['example_dag_decorator']) retrieved from /home/dev/curso/ambientevirtual/lib/python3.9/site-packages/airflow/example_dags/example_dag_decorator.py
+[2024-12-14 16:10:44,314] {logging_mixin.py:115} INFO - [2024-12-14 16:10:44,314] {dag.py:2379} INFO - Sync 1 DAGs
+[2024-12-14 16:10:44,333] {logging_mixin.py:115} INFO - [2024-12-14 16:10:44,333] {dag.py:2927} INFO - Setting next_dagrun for example_dag_decorator to None, run_after=None
+[2024-12-14 16:10:44,352] {processor.py:161} INFO - Processing /home/dev/curso/ambientevirtual/lib/python3.9/site-packages/airflow/example_dags/example_dag_decorator.py took 0.096 seconds
+[2024-12-14 16:11:18,386] {processor.py:153} INFO - Started process (PID=53227) to work on /home/dev/curso/ambientevirtual/lib/python3.9/site-packages/airflow/example_dags/example_dag_decorator.py
+[2024-12-14 16:11:18,388] {processor.py:641} INFO - Processing file /home/dev/curso/ambientevirtual/lib/python3.9/site-packages/airflow/example_dags/example_dag_decorator.py for tasks to queue
+[2024-12-14 16:11:18,389] {logging_mixin.py:115} INFO - [2024-12-14 16:11:18,389] {dagbag.py:507} INFO - Filling up the DagBag from /home/dev/curso/ambientevirtual/lib/python3.9/site-packages/airflow/example_dags/example_dag_decorator.py
+[2024-12-14 16:11:18,416] {processor.py:651} INFO - DAG(s) dict_keys(['example_dag_decorator']) retrieved from /home/dev/curso/ambientevirtual/lib/python3.9/site-packages/airflow/example_dags/example_dag_decorator.py
+[2024-12-14 16:11:18,434] {logging_mixin.py:115} INFO - [2024-12-14 16:11:18,434] {dag.py:2379} INFO - Sync 1 DAGs
+[2024-12-14 16:11:18,451] {logging_mixin.py:115} INFO - [2024-12-14 16:11:18,451] {dag.py:2927} INFO - Setting next_dagrun for example_dag_decorator to None, run_after=None
+[2024-12-14 16:11:18,468] {processor.py:161} INFO - Processing /home/dev/curso/ambientevirtual/lib/python3.9/site-packages/airflow/example_dags/example_dag_decorator.py took 0.088 seconds

@@ -1,0 +1,228 @@
+[2024-12-14 15:51:50,488] {processor.py:153} INFO - Started process (PID=48096) to work on /home/dev/curso/ambientevirtual/lib/python3.9/site-packages/airflow/example_dags/example_skip_dag.py
+[2024-12-14 15:51:50,489] {processor.py:641} INFO - Processing file /home/dev/curso/ambientevirtual/lib/python3.9/site-packages/airflow/example_dags/example_skip_dag.py for tasks to queue
+[2024-12-14 15:51:50,490] {logging_mixin.py:115} INFO - [2024-12-14 15:51:50,490] {dagbag.py:507} INFO - Filling up the DagBag from /home/dev/curso/ambientevirtual/lib/python3.9/site-packages/airflow/example_dags/example_skip_dag.py
+[2024-12-14 15:51:50,502] {processor.py:651} INFO - DAG(s) dict_keys(['example_skip_dag']) retrieved from /home/dev/curso/ambientevirtual/lib/python3.9/site-packages/airflow/example_dags/example_skip_dag.py
+[2024-12-14 15:51:50,585] {logging_mixin.py:115} INFO - [2024-12-14 15:51:50,585] {manager.py:508} INFO - Created Permission View: can delete on DAG:example_skip_dag
+[2024-12-14 15:51:50,596] {logging_mixin.py:115} INFO - [2024-12-14 15:51:50,596] {manager.py:508} INFO - Created Permission View: can edit on DAG:example_skip_dag
+[2024-12-14 15:51:50,607] {logging_mixin.py:115} INFO - [2024-12-14 15:51:50,607] {manager.py:508} INFO - Created Permission View: can read on DAG:example_skip_dag
+[2024-12-14 15:51:50,608] {logging_mixin.py:115} INFO - [2024-12-14 15:51:50,607] {dag.py:2379} INFO - Sync 1 DAGs
+[2024-12-14 15:51:50,616] {logging_mixin.py:115} INFO - [2024-12-14 15:51:50,615] {dag.py:2398} INFO - Creating ORM DAG for example_skip_dag
+[2024-12-14 15:51:50,625] {logging_mixin.py:115} INFO - [2024-12-14 15:51:50,625] {dag.py:2927} INFO - Setting next_dagrun for example_skip_dag to 2024-12-13T18:51:50.625185+00:00, run_after=2024-12-14T18:51:50.625185+00:00
+[2024-12-14 15:51:50,644] {processor.py:161} INFO - Processing /home/dev/curso/ambientevirtual/lib/python3.9/site-packages/airflow/example_dags/example_skip_dag.py took 0.162 seconds
+[2024-12-14 15:52:27,110] {processor.py:153} INFO - Started process (PID=48348) to work on /home/dev/curso/ambientevirtual/lib/python3.9/site-packages/airflow/example_dags/example_skip_dag.py
+[2024-12-14 15:52:27,111] {processor.py:641} INFO - Processing file /home/dev/curso/ambientevirtual/lib/python3.9/site-packages/airflow/example_dags/example_skip_dag.py for tasks to queue
+[2024-12-14 15:52:27,112] {logging_mixin.py:115} INFO - [2024-12-14 15:52:27,112] {dagbag.py:507} INFO - Filling up the DagBag from /home/dev/curso/ambientevirtual/lib/python3.9/site-packages/airflow/example_dags/example_skip_dag.py
+[2024-12-14 15:52:27,123] {processor.py:651} INFO - DAG(s) dict_keys(['example_skip_dag']) retrieved from /home/dev/curso/ambientevirtual/lib/python3.9/site-packages/airflow/example_dags/example_skip_dag.py
+[2024-12-14 15:52:27,145] {logging_mixin.py:115} INFO - [2024-12-14 15:52:27,145] {dag.py:2379} INFO - Sync 1 DAGs
+[2024-12-14 15:52:27,165] {logging_mixin.py:115} INFO - [2024-12-14 15:52:27,165] {dag.py:2927} INFO - Setting next_dagrun for example_skip_dag to 2024-12-13T18:52:27.165262+00:00, run_after=2024-12-14T18:52:27.165262+00:00
+[2024-12-14 15:52:27,183] {processor.py:161} INFO - Processing /home/dev/curso/ambientevirtual/lib/python3.9/site-packages/airflow/example_dags/example_skip_dag.py took 0.080 seconds
+[2024-12-14 15:53:03,655] {processor.py:153} INFO - Started process (PID=48478) to work on /home/dev/curso/ambientevirtual/lib/python3.9/site-packages/airflow/example_dags/example_skip_dag.py
+[2024-12-14 15:53:03,657] {processor.py:641} INFO - Processing file /home/dev/curso/ambientevirtual/lib/python3.9/site-packages/airflow/example_dags/example_skip_dag.py for tasks to queue
+[2024-12-14 15:53:03,658] {logging_mixin.py:115} INFO - [2024-12-14 15:53:03,658] {dagbag.py:507} INFO - Filling up the DagBag from /home/dev/curso/ambientevirtual/lib/python3.9/site-packages/airflow/example_dags/example_skip_dag.py
+[2024-12-14 15:53:03,668] {processor.py:651} INFO - DAG(s) dict_keys(['example_skip_dag']) retrieved from /home/dev/curso/ambientevirtual/lib/python3.9/site-packages/airflow/example_dags/example_skip_dag.py
+[2024-12-14 15:53:03,695] {logging_mixin.py:115} INFO - [2024-12-14 15:53:03,695] {dag.py:2379} INFO - Sync 1 DAGs
+[2024-12-14 15:53:03,714] {logging_mixin.py:115} INFO - [2024-12-14 15:53:03,714] {dag.py:2927} INFO - Setting next_dagrun for example_skip_dag to 2024-12-13T18:53:03.713727+00:00, run_after=2024-12-14T18:53:03.713727+00:00
+[2024-12-14 15:53:03,732] {processor.py:161} INFO - Processing /home/dev/curso/ambientevirtual/lib/python3.9/site-packages/airflow/example_dags/example_skip_dag.py took 0.083 seconds
+[2024-12-14 15:53:39,374] {processor.py:153} INFO - Started process (PID=48611) to work on /home/dev/curso/ambientevirtual/lib/python3.9/site-packages/airflow/example_dags/example_skip_dag.py
+[2024-12-14 15:53:39,374] {processor.py:641} INFO - Processing file /home/dev/curso/ambientevirtual/lib/python3.9/site-packages/airflow/example_dags/example_skip_dag.py for tasks to queue
+[2024-12-14 15:53:39,375] {logging_mixin.py:115} INFO - [2024-12-14 15:53:39,375] {dagbag.py:507} INFO - Filling up the DagBag from /home/dev/curso/ambientevirtual/lib/python3.9/site-packages/airflow/example_dags/example_skip_dag.py
+[2024-12-14 15:53:39,382] {processor.py:651} INFO - DAG(s) dict_keys(['example_skip_dag']) retrieved from /home/dev/curso/ambientevirtual/lib/python3.9/site-packages/airflow/example_dags/example_skip_dag.py
+[2024-12-14 15:53:39,404] {logging_mixin.py:115} INFO - [2024-12-14 15:53:39,404] {dag.py:2379} INFO - Sync 1 DAGs
+[2024-12-14 15:53:39,424] {logging_mixin.py:115} INFO - [2024-12-14 15:53:39,424] {dag.py:2927} INFO - Setting next_dagrun for example_skip_dag to 2024-12-13T18:53:39.424486+00:00, run_after=2024-12-14T18:53:39.424486+00:00
+[2024-12-14 15:53:39,441] {processor.py:161} INFO - Processing /home/dev/curso/ambientevirtual/lib/python3.9/site-packages/airflow/example_dags/example_skip_dag.py took 0.071 seconds
+[2024-12-14 15:54:15,159] {processor.py:153} INFO - Started process (PID=48744) to work on /home/dev/curso/ambientevirtual/lib/python3.9/site-packages/airflow/example_dags/example_skip_dag.py
+[2024-12-14 15:54:15,161] {processor.py:641} INFO - Processing file /home/dev/curso/ambientevirtual/lib/python3.9/site-packages/airflow/example_dags/example_skip_dag.py for tasks to queue
+[2024-12-14 15:54:15,162] {logging_mixin.py:115} INFO - [2024-12-14 15:54:15,162] {dagbag.py:507} INFO - Filling up the DagBag from /home/dev/curso/ambientevirtual/lib/python3.9/site-packages/airflow/example_dags/example_skip_dag.py
+[2024-12-14 15:54:15,173] {processor.py:651} INFO - DAG(s) dict_keys(['example_skip_dag']) retrieved from /home/dev/curso/ambientevirtual/lib/python3.9/site-packages/airflow/example_dags/example_skip_dag.py
+[2024-12-14 15:54:15,194] {logging_mixin.py:115} INFO - [2024-12-14 15:54:15,194] {dag.py:2379} INFO - Sync 1 DAGs
+[2024-12-14 15:54:15,213] {logging_mixin.py:115} INFO - [2024-12-14 15:54:15,213] {dag.py:2927} INFO - Setting next_dagrun for example_skip_dag to 2024-12-13T18:54:15.213401+00:00, run_after=2024-12-14T18:54:15.213401+00:00
+[2024-12-14 15:54:15,230] {processor.py:161} INFO - Processing /home/dev/curso/ambientevirtual/lib/python3.9/site-packages/airflow/example_dags/example_skip_dag.py took 0.078 seconds
+[2024-12-14 15:54:54,705] {processor.py:153} INFO - Started process (PID=48889) to work on /home/dev/curso/ambientevirtual/lib/python3.9/site-packages/airflow/example_dags/example_skip_dag.py
+[2024-12-14 15:54:54,707] {processor.py:641} INFO - Processing file /home/dev/curso/ambientevirtual/lib/python3.9/site-packages/airflow/example_dags/example_skip_dag.py for tasks to queue
+[2024-12-14 15:54:54,708] {logging_mixin.py:115} INFO - [2024-12-14 15:54:54,708] {dagbag.py:507} INFO - Filling up the DagBag from /home/dev/curso/ambientevirtual/lib/python3.9/site-packages/airflow/example_dags/example_skip_dag.py
+[2024-12-14 15:54:54,718] {processor.py:651} INFO - DAG(s) dict_keys(['example_skip_dag']) retrieved from /home/dev/curso/ambientevirtual/lib/python3.9/site-packages/airflow/example_dags/example_skip_dag.py
+[2024-12-14 15:54:54,744] {logging_mixin.py:115} INFO - [2024-12-14 15:54:54,744] {dag.py:2379} INFO - Sync 1 DAGs
+[2024-12-14 15:54:54,764] {logging_mixin.py:115} INFO - [2024-12-14 15:54:54,764] {dag.py:2927} INFO - Setting next_dagrun for example_skip_dag to 2024-12-13T18:54:54.763829+00:00, run_after=2024-12-14T18:54:54.763829+00:00
+[2024-12-14 15:54:54,787] {processor.py:161} INFO - Processing /home/dev/curso/ambientevirtual/lib/python3.9/site-packages/airflow/example_dags/example_skip_dag.py took 0.089 seconds
+[2024-12-14 15:55:31,642] {processor.py:153} INFO - Started process (PID=49021) to work on /home/dev/curso/ambientevirtual/lib/python3.9/site-packages/airflow/example_dags/example_skip_dag.py
+[2024-12-14 15:55:31,644] {processor.py:641} INFO - Processing file /home/dev/curso/ambientevirtual/lib/python3.9/site-packages/airflow/example_dags/example_skip_dag.py for tasks to queue
+[2024-12-14 15:55:31,645] {logging_mixin.py:115} INFO - [2024-12-14 15:55:31,645] {dagbag.py:507} INFO - Filling up the DagBag from /home/dev/curso/ambientevirtual/lib/python3.9/site-packages/airflow/example_dags/example_skip_dag.py
+[2024-12-14 15:55:31,655] {processor.py:651} INFO - DAG(s) dict_keys(['example_skip_dag']) retrieved from /home/dev/curso/ambientevirtual/lib/python3.9/site-packages/airflow/example_dags/example_skip_dag.py
+[2024-12-14 15:55:31,676] {logging_mixin.py:115} INFO - [2024-12-14 15:55:31,676] {dag.py:2379} INFO - Sync 1 DAGs
+[2024-12-14 15:55:31,696] {logging_mixin.py:115} INFO - [2024-12-14 15:55:31,696] {dag.py:2927} INFO - Setting next_dagrun for example_skip_dag to 2024-12-13T18:55:31.695944+00:00, run_after=2024-12-14T18:55:31.695944+00:00
+[2024-12-14 15:55:31,712] {processor.py:161} INFO - Processing /home/dev/curso/ambientevirtual/lib/python3.9/site-packages/airflow/example_dags/example_skip_dag.py took 0.076 seconds
+[2024-12-14 15:56:08,391] {processor.py:153} INFO - Started process (PID=49157) to work on /home/dev/curso/ambientevirtual/lib/python3.9/site-packages/airflow/example_dags/example_skip_dag.py
+[2024-12-14 15:56:08,392] {processor.py:641} INFO - Processing file /home/dev/curso/ambientevirtual/lib/python3.9/site-packages/airflow/example_dags/example_skip_dag.py for tasks to queue
+[2024-12-14 15:56:08,393] {logging_mixin.py:115} INFO - [2024-12-14 15:56:08,393] {dagbag.py:507} INFO - Filling up the DagBag from /home/dev/curso/ambientevirtual/lib/python3.9/site-packages/airflow/example_dags/example_skip_dag.py
+[2024-12-14 15:56:08,402] {processor.py:651} INFO - DAG(s) dict_keys(['example_skip_dag']) retrieved from /home/dev/curso/ambientevirtual/lib/python3.9/site-packages/airflow/example_dags/example_skip_dag.py
+[2024-12-14 15:56:08,432] {logging_mixin.py:115} INFO - [2024-12-14 15:56:08,432] {dag.py:2379} INFO - Sync 1 DAGs
+[2024-12-14 15:56:08,464] {logging_mixin.py:115} INFO - [2024-12-14 15:56:08,464] {dag.py:2927} INFO - Setting next_dagrun for example_skip_dag to 2024-12-13T18:56:08.463857+00:00, run_after=2024-12-14T18:56:08.463857+00:00
+[2024-12-14 15:56:08,488] {processor.py:161} INFO - Processing /home/dev/curso/ambientevirtual/lib/python3.9/site-packages/airflow/example_dags/example_skip_dag.py took 0.100 seconds
+[2024-12-14 15:56:48,187] {processor.py:153} INFO - Started process (PID=49353) to work on /home/dev/curso/ambientevirtual/lib/python3.9/site-packages/airflow/example_dags/example_skip_dag.py
+[2024-12-14 15:56:48,188] {processor.py:641} INFO - Processing file /home/dev/curso/ambientevirtual/lib/python3.9/site-packages/airflow/example_dags/example_skip_dag.py for tasks to queue
+[2024-12-14 15:56:48,189] {logging_mixin.py:115} INFO - [2024-12-14 15:56:48,189] {dagbag.py:507} INFO - Filling up the DagBag from /home/dev/curso/ambientevirtual/lib/python3.9/site-packages/airflow/example_dags/example_skip_dag.py
+[2024-12-14 15:56:48,195] {processor.py:651} INFO - DAG(s) dict_keys(['example_skip_dag']) retrieved from /home/dev/curso/ambientevirtual/lib/python3.9/site-packages/airflow/example_dags/example_skip_dag.py
+[2024-12-14 15:56:48,220] {logging_mixin.py:115} INFO - [2024-12-14 15:56:48,220] {dag.py:2379} INFO - Sync 1 DAGs
+[2024-12-14 15:56:48,246] {logging_mixin.py:115} INFO - [2024-12-14 15:56:48,246] {dag.py:2927} INFO - Setting next_dagrun for example_skip_dag to 2024-12-13T18:56:48.245774+00:00, run_after=2024-12-14T18:56:48.245774+00:00
+[2024-12-14 15:56:48,263] {processor.py:161} INFO - Processing /home/dev/curso/ambientevirtual/lib/python3.9/site-packages/airflow/example_dags/example_skip_dag.py took 0.080 seconds
+[2024-12-14 15:57:24,243] {processor.py:153} INFO - Started process (PID=49488) to work on /home/dev/curso/ambientevirtual/lib/python3.9/site-packages/airflow/example_dags/example_skip_dag.py
+[2024-12-14 15:57:24,244] {processor.py:641} INFO - Processing file /home/dev/curso/ambientevirtual/lib/python3.9/site-packages/airflow/example_dags/example_skip_dag.py for tasks to queue
+[2024-12-14 15:57:24,245] {logging_mixin.py:115} INFO - [2024-12-14 15:57:24,245] {dagbag.py:507} INFO - Filling up the DagBag from /home/dev/curso/ambientevirtual/lib/python3.9/site-packages/airflow/example_dags/example_skip_dag.py
+[2024-12-14 15:57:24,251] {processor.py:651} INFO - DAG(s) dict_keys(['example_skip_dag']) retrieved from /home/dev/curso/ambientevirtual/lib/python3.9/site-packages/airflow/example_dags/example_skip_dag.py
+[2024-12-14 15:57:24,276] {logging_mixin.py:115} INFO - [2024-12-14 15:57:24,276] {dag.py:2379} INFO - Sync 1 DAGs
+[2024-12-14 15:57:24,296] {logging_mixin.py:115} INFO - [2024-12-14 15:57:24,296] {dag.py:2927} INFO - Setting next_dagrun for example_skip_dag to 2024-12-13T18:57:24.296541+00:00, run_after=2024-12-14T18:57:24.296541+00:00
+[2024-12-14 15:57:24,318] {processor.py:161} INFO - Processing /home/dev/curso/ambientevirtual/lib/python3.9/site-packages/airflow/example_dags/example_skip_dag.py took 0.080 seconds
+[2024-12-14 15:58:00,049] {processor.py:153} INFO - Started process (PID=49618) to work on /home/dev/curso/ambientevirtual/lib/python3.9/site-packages/airflow/example_dags/example_skip_dag.py
+[2024-12-14 15:58:00,051] {processor.py:641} INFO - Processing file /home/dev/curso/ambientevirtual/lib/python3.9/site-packages/airflow/example_dags/example_skip_dag.py for tasks to queue
+[2024-12-14 15:58:00,052] {logging_mixin.py:115} INFO - [2024-12-14 15:58:00,052] {dagbag.py:507} INFO - Filling up the DagBag from /home/dev/curso/ambientevirtual/lib/python3.9/site-packages/airflow/example_dags/example_skip_dag.py
+[2024-12-14 15:58:00,059] {processor.py:651} INFO - DAG(s) dict_keys(['example_skip_dag']) retrieved from /home/dev/curso/ambientevirtual/lib/python3.9/site-packages/airflow/example_dags/example_skip_dag.py
+[2024-12-14 15:58:00,085] {logging_mixin.py:115} INFO - [2024-12-14 15:58:00,085] {dag.py:2379} INFO - Sync 1 DAGs
+[2024-12-14 15:58:00,109] {logging_mixin.py:115} INFO - [2024-12-14 15:58:00,109] {dag.py:2927} INFO - Setting next_dagrun for example_skip_dag to 2024-12-13T18:58:00.109501+00:00, run_after=2024-12-14T18:58:00.109501+00:00
+[2024-12-14 15:58:00,130] {processor.py:161} INFO - Processing /home/dev/curso/ambientevirtual/lib/python3.9/site-packages/airflow/example_dags/example_skip_dag.py took 0.088 seconds
+[2024-12-14 15:58:37,036] {processor.py:153} INFO - Started process (PID=49754) to work on /home/dev/curso/ambientevirtual/lib/python3.9/site-packages/airflow/example_dags/example_skip_dag.py
+[2024-12-14 15:58:37,037] {processor.py:641} INFO - Processing file /home/dev/curso/ambientevirtual/lib/python3.9/site-packages/airflow/example_dags/example_skip_dag.py for tasks to queue
+[2024-12-14 15:58:37,039] {logging_mixin.py:115} INFO - [2024-12-14 15:58:37,039] {dagbag.py:507} INFO - Filling up the DagBag from /home/dev/curso/ambientevirtual/lib/python3.9/site-packages/airflow/example_dags/example_skip_dag.py
+[2024-12-14 15:58:37,049] {processor.py:651} INFO - DAG(s) dict_keys(['example_skip_dag']) retrieved from /home/dev/curso/ambientevirtual/lib/python3.9/site-packages/airflow/example_dags/example_skip_dag.py
+[2024-12-14 15:58:37,075] {logging_mixin.py:115} INFO - [2024-12-14 15:58:37,075] {dag.py:2379} INFO - Sync 1 DAGs
+[2024-12-14 15:58:37,101] {logging_mixin.py:115} INFO - [2024-12-14 15:58:37,100] {dag.py:2927} INFO - Setting next_dagrun for example_skip_dag to 2024-12-13T18:58:37.100226+00:00, run_after=2024-12-14T18:58:37.100226+00:00
+[2024-12-14 15:58:37,121] {processor.py:161} INFO - Processing /home/dev/curso/ambientevirtual/lib/python3.9/site-packages/airflow/example_dags/example_skip_dag.py took 0.090 seconds
+[2024-12-14 15:59:16,214] {processor.py:153} INFO - Started process (PID=49894) to work on /home/dev/curso/ambientevirtual/lib/python3.9/site-packages/airflow/example_dags/example_skip_dag.py
+[2024-12-14 15:59:16,216] {processor.py:641} INFO - Processing file /home/dev/curso/ambientevirtual/lib/python3.9/site-packages/airflow/example_dags/example_skip_dag.py for tasks to queue
+[2024-12-14 15:59:16,217] {logging_mixin.py:115} INFO - [2024-12-14 15:59:16,217] {dagbag.py:507} INFO - Filling up the DagBag from /home/dev/curso/ambientevirtual/lib/python3.9/site-packages/airflow/example_dags/example_skip_dag.py
+[2024-12-14 15:59:16,225] {processor.py:651} INFO - DAG(s) dict_keys(['example_skip_dag']) retrieved from /home/dev/curso/ambientevirtual/lib/python3.9/site-packages/airflow/example_dags/example_skip_dag.py
+[2024-12-14 15:59:16,246] {logging_mixin.py:115} INFO - [2024-12-14 15:59:16,246] {dag.py:2379} INFO - Sync 1 DAGs
+[2024-12-14 15:59:16,266] {logging_mixin.py:115} INFO - [2024-12-14 15:59:16,266] {dag.py:2927} INFO - Setting next_dagrun for example_skip_dag to 2024-12-13T18:59:16.265818+00:00, run_after=2024-12-14T18:59:16.265818+00:00
+[2024-12-14 15:59:16,282] {processor.py:161} INFO - Processing /home/dev/curso/ambientevirtual/lib/python3.9/site-packages/airflow/example_dags/example_skip_dag.py took 0.075 seconds
+[2024-12-14 15:59:57,041] {processor.py:153} INFO - Started process (PID=50046) to work on /home/dev/curso/ambientevirtual/lib/python3.9/site-packages/airflow/example_dags/example_skip_dag.py
+[2024-12-14 15:59:57,043] {processor.py:641} INFO - Processing file /home/dev/curso/ambientevirtual/lib/python3.9/site-packages/airflow/example_dags/example_skip_dag.py for tasks to queue
+[2024-12-14 15:59:57,044] {logging_mixin.py:115} INFO - [2024-12-14 15:59:57,044] {dagbag.py:507} INFO - Filling up the DagBag from /home/dev/curso/ambientevirtual/lib/python3.9/site-packages/airflow/example_dags/example_skip_dag.py
+[2024-12-14 15:59:57,055] {processor.py:651} INFO - DAG(s) dict_keys(['example_skip_dag']) retrieved from /home/dev/curso/ambientevirtual/lib/python3.9/site-packages/airflow/example_dags/example_skip_dag.py
+[2024-12-14 15:59:57,079] {logging_mixin.py:115} INFO - [2024-12-14 15:59:57,079] {dag.py:2379} INFO - Sync 1 DAGs
+[2024-12-14 15:59:57,099] {logging_mixin.py:115} INFO - [2024-12-14 15:59:57,099] {dag.py:2927} INFO - Setting next_dagrun for example_skip_dag to 2024-12-13T18:59:57.098733+00:00, run_after=2024-12-14T18:59:57.098733+00:00
+[2024-12-14 15:59:57,114] {processor.py:161} INFO - Processing /home/dev/curso/ambientevirtual/lib/python3.9/site-packages/airflow/example_dags/example_skip_dag.py took 0.080 seconds
+[2024-12-14 16:00:36,995] {processor.py:153} INFO - Started process (PID=50191) to work on /home/dev/curso/ambientevirtual/lib/python3.9/site-packages/airflow/example_dags/example_skip_dag.py
+[2024-12-14 16:00:36,996] {processor.py:641} INFO - Processing file /home/dev/curso/ambientevirtual/lib/python3.9/site-packages/airflow/example_dags/example_skip_dag.py for tasks to queue
+[2024-12-14 16:00:36,997] {logging_mixin.py:115} INFO - [2024-12-14 16:00:36,997] {dagbag.py:507} INFO - Filling up the DagBag from /home/dev/curso/ambientevirtual/lib/python3.9/site-packages/airflow/example_dags/example_skip_dag.py
+[2024-12-14 16:00:37,003] {processor.py:651} INFO - DAG(s) dict_keys(['example_skip_dag']) retrieved from /home/dev/curso/ambientevirtual/lib/python3.9/site-packages/airflow/example_dags/example_skip_dag.py
+[2024-12-14 16:00:37,029] {logging_mixin.py:115} INFO - [2024-12-14 16:00:37,029] {dag.py:2379} INFO - Sync 1 DAGs
+[2024-12-14 16:00:37,053] {logging_mixin.py:115} INFO - [2024-12-14 16:00:37,052] {dag.py:2927} INFO - Setting next_dagrun for example_skip_dag to 2024-12-13T19:00:37.052674+00:00, run_after=2024-12-14T19:00:37.052674+00:00
+[2024-12-14 16:00:37,070] {processor.py:161} INFO - Processing /home/dev/curso/ambientevirtual/lib/python3.9/site-packages/airflow/example_dags/example_skip_dag.py took 0.079 seconds
+[2024-12-14 16:01:14,053] {processor.py:153} INFO - Started process (PID=50502) to work on /home/dev/curso/ambientevirtual/lib/python3.9/site-packages/airflow/example_dags/example_skip_dag.py
+[2024-12-14 16:01:14,056] {processor.py:641} INFO - Processing file /home/dev/curso/ambientevirtual/lib/python3.9/site-packages/airflow/example_dags/example_skip_dag.py for tasks to queue
+[2024-12-14 16:01:14,057] {logging_mixin.py:115} INFO - [2024-12-14 16:01:14,057] {dagbag.py:507} INFO - Filling up the DagBag from /home/dev/curso/ambientevirtual/lib/python3.9/site-packages/airflow/example_dags/example_skip_dag.py
+[2024-12-14 16:01:14,069] {processor.py:651} INFO - DAG(s) dict_keys(['example_skip_dag']) retrieved from /home/dev/curso/ambientevirtual/lib/python3.9/site-packages/airflow/example_dags/example_skip_dag.py
+[2024-12-14 16:01:14,095] {logging_mixin.py:115} INFO - [2024-12-14 16:01:14,095] {dag.py:2379} INFO - Sync 1 DAGs
+[2024-12-14 16:01:14,117] {logging_mixin.py:115} INFO - [2024-12-14 16:01:14,117] {dag.py:2927} INFO - Setting next_dagrun for example_skip_dag to 2024-12-13T19:01:14.116873+00:00, run_after=2024-12-14T19:01:14.116873+00:00
+[2024-12-14 16:01:14,141] {processor.py:161} INFO - Processing /home/dev/curso/ambientevirtual/lib/python3.9/site-packages/airflow/example_dags/example_skip_dag.py took 0.095 seconds
+[2024-12-14 16:01:52,433] {processor.py:153} INFO - Started process (PID=50639) to work on /home/dev/curso/ambientevirtual/lib/python3.9/site-packages/airflow/example_dags/example_skip_dag.py
+[2024-12-14 16:01:52,434] {processor.py:641} INFO - Processing file /home/dev/curso/ambientevirtual/lib/python3.9/site-packages/airflow/example_dags/example_skip_dag.py for tasks to queue
+[2024-12-14 16:01:52,435] {logging_mixin.py:115} INFO - [2024-12-14 16:01:52,434] {dagbag.py:507} INFO - Filling up the DagBag from /home/dev/curso/ambientevirtual/lib/python3.9/site-packages/airflow/example_dags/example_skip_dag.py
+[2024-12-14 16:01:52,440] {processor.py:651} INFO - DAG(s) dict_keys(['example_skip_dag']) retrieved from /home/dev/curso/ambientevirtual/lib/python3.9/site-packages/airflow/example_dags/example_skip_dag.py
+[2024-12-14 16:01:52,465] {logging_mixin.py:115} INFO - [2024-12-14 16:01:52,465] {dag.py:2379} INFO - Sync 1 DAGs
+[2024-12-14 16:01:52,486] {logging_mixin.py:115} INFO - [2024-12-14 16:01:52,486] {dag.py:2927} INFO - Setting next_dagrun for example_skip_dag to 2024-12-13T19:01:52.485680+00:00, run_after=2024-12-14T19:01:52.485680+00:00
+[2024-12-14 16:01:52,502] {processor.py:161} INFO - Processing /home/dev/curso/ambientevirtual/lib/python3.9/site-packages/airflow/example_dags/example_skip_dag.py took 0.073 seconds
+[2024-12-14 16:02:32,122] {processor.py:153} INFO - Started process (PID=50843) to work on /home/dev/curso/ambientevirtual/lib/python3.9/site-packages/airflow/example_dags/example_skip_dag.py
+[2024-12-14 16:02:32,124] {processor.py:641} INFO - Processing file /home/dev/curso/ambientevirtual/lib/python3.9/site-packages/airflow/example_dags/example_skip_dag.py for tasks to queue
+[2024-12-14 16:02:32,124] {logging_mixin.py:115} INFO - [2024-12-14 16:02:32,124] {dagbag.py:507} INFO - Filling up the DagBag from /home/dev/curso/ambientevirtual/lib/python3.9/site-packages/airflow/example_dags/example_skip_dag.py
+[2024-12-14 16:02:32,130] {processor.py:651} INFO - DAG(s) dict_keys(['example_skip_dag']) retrieved from /home/dev/curso/ambientevirtual/lib/python3.9/site-packages/airflow/example_dags/example_skip_dag.py
+[2024-12-14 16:02:32,153] {logging_mixin.py:115} INFO - [2024-12-14 16:02:32,153] {dag.py:2379} INFO - Sync 1 DAGs
+[2024-12-14 16:02:32,173] {logging_mixin.py:115} INFO - [2024-12-14 16:02:32,173] {dag.py:2927} INFO - Setting next_dagrun for example_skip_dag to 2024-12-13T19:02:32.173468+00:00, run_after=2024-12-14T19:02:32.173468+00:00
+[2024-12-14 16:02:32,191] {processor.py:161} INFO - Processing /home/dev/curso/ambientevirtual/lib/python3.9/site-packages/airflow/example_dags/example_skip_dag.py took 0.072 seconds
+[2024-12-14 16:03:11,022] {processor.py:153} INFO - Started process (PID=50982) to work on /home/dev/curso/ambientevirtual/lib/python3.9/site-packages/airflow/example_dags/example_skip_dag.py
+[2024-12-14 16:03:11,024] {processor.py:641} INFO - Processing file /home/dev/curso/ambientevirtual/lib/python3.9/site-packages/airflow/example_dags/example_skip_dag.py for tasks to queue
+[2024-12-14 16:03:11,025] {logging_mixin.py:115} INFO - [2024-12-14 16:03:11,025] {dagbag.py:507} INFO - Filling up the DagBag from /home/dev/curso/ambientevirtual/lib/python3.9/site-packages/airflow/example_dags/example_skip_dag.py
+[2024-12-14 16:03:11,036] {processor.py:651} INFO - DAG(s) dict_keys(['example_skip_dag']) retrieved from /home/dev/curso/ambientevirtual/lib/python3.9/site-packages/airflow/example_dags/example_skip_dag.py
+[2024-12-14 16:03:11,056] {logging_mixin.py:115} INFO - [2024-12-14 16:03:11,056] {dag.py:2379} INFO - Sync 1 DAGs
+[2024-12-14 16:03:11,076] {logging_mixin.py:115} INFO - [2024-12-14 16:03:11,076] {dag.py:2927} INFO - Setting next_dagrun for example_skip_dag to 2024-12-13T19:03:11.076417+00:00, run_after=2024-12-14T19:03:11.076417+00:00
+[2024-12-14 16:03:11,093] {processor.py:161} INFO - Processing /home/dev/curso/ambientevirtual/lib/python3.9/site-packages/airflow/example_dags/example_skip_dag.py took 0.077 seconds
+[2024-12-14 16:03:44,741] {processor.py:153} INFO - Started process (PID=51105) to work on /home/dev/curso/ambientevirtual/lib/python3.9/site-packages/airflow/example_dags/example_skip_dag.py
+[2024-12-14 16:03:44,742] {processor.py:641} INFO - Processing file /home/dev/curso/ambientevirtual/lib/python3.9/site-packages/airflow/example_dags/example_skip_dag.py for tasks to queue
+[2024-12-14 16:03:44,743] {logging_mixin.py:115} INFO - [2024-12-14 16:03:44,742] {dagbag.py:507} INFO - Filling up the DagBag from /home/dev/curso/ambientevirtual/lib/python3.9/site-packages/airflow/example_dags/example_skip_dag.py
+[2024-12-14 16:03:44,751] {processor.py:651} INFO - DAG(s) dict_keys(['example_skip_dag']) retrieved from /home/dev/curso/ambientevirtual/lib/python3.9/site-packages/airflow/example_dags/example_skip_dag.py
+[2024-12-14 16:03:44,775] {logging_mixin.py:115} INFO - [2024-12-14 16:03:44,774] {dag.py:2379} INFO - Sync 1 DAGs
+[2024-12-14 16:03:44,797] {logging_mixin.py:115} INFO - [2024-12-14 16:03:44,797] {dag.py:2927} INFO - Setting next_dagrun for example_skip_dag to 2024-12-13T19:03:44.796764+00:00, run_after=2024-12-14T19:03:44.796764+00:00
+[2024-12-14 16:03:44,816] {processor.py:161} INFO - Processing /home/dev/curso/ambientevirtual/lib/python3.9/site-packages/airflow/example_dags/example_skip_dag.py took 0.079 seconds
+[2024-12-14 16:04:20,005] {processor.py:153} INFO - Started process (PID=51234) to work on /home/dev/curso/ambientevirtual/lib/python3.9/site-packages/airflow/example_dags/example_skip_dag.py
+[2024-12-14 16:04:20,006] {processor.py:641} INFO - Processing file /home/dev/curso/ambientevirtual/lib/python3.9/site-packages/airflow/example_dags/example_skip_dag.py for tasks to queue
+[2024-12-14 16:04:20,007] {logging_mixin.py:115} INFO - [2024-12-14 16:04:20,007] {dagbag.py:507} INFO - Filling up the DagBag from /home/dev/curso/ambientevirtual/lib/python3.9/site-packages/airflow/example_dags/example_skip_dag.py
+[2024-12-14 16:04:20,014] {processor.py:651} INFO - DAG(s) dict_keys(['example_skip_dag']) retrieved from /home/dev/curso/ambientevirtual/lib/python3.9/site-packages/airflow/example_dags/example_skip_dag.py
+[2024-12-14 16:04:20,037] {logging_mixin.py:115} INFO - [2024-12-14 16:04:20,037] {dag.py:2379} INFO - Sync 1 DAGs
+[2024-12-14 16:04:20,058] {logging_mixin.py:115} INFO - [2024-12-14 16:04:20,057] {dag.py:2927} INFO - Setting next_dagrun for example_skip_dag to 2024-12-13T19:04:20.057639+00:00, run_after=2024-12-14T19:04:20.057639+00:00
+[2024-12-14 16:04:20,075] {processor.py:161} INFO - Processing /home/dev/curso/ambientevirtual/lib/python3.9/site-packages/airflow/example_dags/example_skip_dag.py took 0.075 seconds
+[2024-12-14 16:04:57,490] {processor.py:153} INFO - Started process (PID=51371) to work on /home/dev/curso/ambientevirtual/lib/python3.9/site-packages/airflow/example_dags/example_skip_dag.py
+[2024-12-14 16:04:57,491] {processor.py:641} INFO - Processing file /home/dev/curso/ambientevirtual/lib/python3.9/site-packages/airflow/example_dags/example_skip_dag.py for tasks to queue
+[2024-12-14 16:04:57,492] {logging_mixin.py:115} INFO - [2024-12-14 16:04:57,492] {dagbag.py:507} INFO - Filling up the DagBag from /home/dev/curso/ambientevirtual/lib/python3.9/site-packages/airflow/example_dags/example_skip_dag.py
+[2024-12-14 16:04:57,500] {processor.py:651} INFO - DAG(s) dict_keys(['example_skip_dag']) retrieved from /home/dev/curso/ambientevirtual/lib/python3.9/site-packages/airflow/example_dags/example_skip_dag.py
+[2024-12-14 16:04:57,522] {logging_mixin.py:115} INFO - [2024-12-14 16:04:57,521] {dag.py:2379} INFO - Sync 1 DAGs
+[2024-12-14 16:04:57,546] {logging_mixin.py:115} INFO - [2024-12-14 16:04:57,546] {dag.py:2927} INFO - Setting next_dagrun for example_skip_dag to 2024-12-13T19:04:57.546255+00:00, run_after=2024-12-14T19:04:57.546255+00:00
+[2024-12-14 16:04:57,564] {processor.py:161} INFO - Processing /home/dev/curso/ambientevirtual/lib/python3.9/site-packages/airflow/example_dags/example_skip_dag.py took 0.079 seconds
+[2024-12-14 16:05:33,121] {processor.py:153} INFO - Started process (PID=51501) to work on /home/dev/curso/ambientevirtual/lib/python3.9/site-packages/airflow/example_dags/example_skip_dag.py
+[2024-12-14 16:05:33,123] {processor.py:641} INFO - Processing file /home/dev/curso/ambientevirtual/lib/python3.9/site-packages/airflow/example_dags/example_skip_dag.py for tasks to queue
+[2024-12-14 16:05:33,124] {logging_mixin.py:115} INFO - [2024-12-14 16:05:33,124] {dagbag.py:507} INFO - Filling up the DagBag from /home/dev/curso/ambientevirtual/lib/python3.9/site-packages/airflow/example_dags/example_skip_dag.py
+[2024-12-14 16:05:33,133] {processor.py:651} INFO - DAG(s) dict_keys(['example_skip_dag']) retrieved from /home/dev/curso/ambientevirtual/lib/python3.9/site-packages/airflow/example_dags/example_skip_dag.py
+[2024-12-14 16:05:33,157] {logging_mixin.py:115} INFO - [2024-12-14 16:05:33,157] {dag.py:2379} INFO - Sync 1 DAGs
+[2024-12-14 16:05:33,178] {logging_mixin.py:115} INFO - [2024-12-14 16:05:33,178] {dag.py:2927} INFO - Setting next_dagrun for example_skip_dag to 2024-12-13T19:05:33.177728+00:00, run_after=2024-12-14T19:05:33.177728+00:00
+[2024-12-14 16:05:33,194] {processor.py:161} INFO - Processing /home/dev/curso/ambientevirtual/lib/python3.9/site-packages/airflow/example_dags/example_skip_dag.py took 0.080 seconds
+[2024-12-14 16:06:12,667] {processor.py:153} INFO - Started process (PID=51646) to work on /home/dev/curso/ambientevirtual/lib/python3.9/site-packages/airflow/example_dags/example_skip_dag.py
+[2024-12-14 16:06:12,670] {processor.py:641} INFO - Processing file /home/dev/curso/ambientevirtual/lib/python3.9/site-packages/airflow/example_dags/example_skip_dag.py for tasks to queue
+[2024-12-14 16:06:12,671] {logging_mixin.py:115} INFO - [2024-12-14 16:06:12,671] {dagbag.py:507} INFO - Filling up the DagBag from /home/dev/curso/ambientevirtual/lib/python3.9/site-packages/airflow/example_dags/example_skip_dag.py
+[2024-12-14 16:06:12,678] {processor.py:651} INFO - DAG(s) dict_keys(['example_skip_dag']) retrieved from /home/dev/curso/ambientevirtual/lib/python3.9/site-packages/airflow/example_dags/example_skip_dag.py
+[2024-12-14 16:06:12,706] {logging_mixin.py:115} INFO - [2024-12-14 16:06:12,706] {dag.py:2379} INFO - Sync 1 DAGs
+[2024-12-14 16:06:12,729] {logging_mixin.py:115} INFO - [2024-12-14 16:06:12,728] {dag.py:2927} INFO - Setting next_dagrun for example_skip_dag to 2024-12-13T19:06:12.727810+00:00, run_after=2024-12-14T19:06:12.727810+00:00
+[2024-12-14 16:06:12,749] {processor.py:161} INFO - Processing /home/dev/curso/ambientevirtual/lib/python3.9/site-packages/airflow/example_dags/example_skip_dag.py took 0.089 seconds
+[2024-12-14 16:06:50,607] {processor.py:153} INFO - Started process (PID=51843) to work on /home/dev/curso/ambientevirtual/lib/python3.9/site-packages/airflow/example_dags/example_skip_dag.py
+[2024-12-14 16:06:50,610] {processor.py:641} INFO - Processing file /home/dev/curso/ambientevirtual/lib/python3.9/site-packages/airflow/example_dags/example_skip_dag.py for tasks to queue
+[2024-12-14 16:06:50,610] {logging_mixin.py:115} INFO - [2024-12-14 16:06:50,610] {dagbag.py:507} INFO - Filling up the DagBag from /home/dev/curso/ambientevirtual/lib/python3.9/site-packages/airflow/example_dags/example_skip_dag.py
+[2024-12-14 16:06:50,626] {processor.py:651} INFO - DAG(s) dict_keys(['example_skip_dag']) retrieved from /home/dev/curso/ambientevirtual/lib/python3.9/site-packages/airflow/example_dags/example_skip_dag.py
+[2024-12-14 16:06:50,654] {logging_mixin.py:115} INFO - [2024-12-14 16:06:50,654] {dag.py:2379} INFO - Sync 1 DAGs
+[2024-12-14 16:06:50,679] {logging_mixin.py:115} INFO - [2024-12-14 16:06:50,679] {dag.py:2927} INFO - Setting next_dagrun for example_skip_dag to 2024-12-13T19:06:50.679190+00:00, run_after=2024-12-14T19:06:50.679190+00:00
+[2024-12-14 16:06:50,704] {processor.py:161} INFO - Processing /home/dev/curso/ambientevirtual/lib/python3.9/site-packages/airflow/example_dags/example_skip_dag.py took 0.112 seconds
+[2024-12-14 16:07:31,432] {processor.py:153} INFO - Started process (PID=52054) to work on /home/dev/curso/ambientevirtual/lib/python3.9/site-packages/airflow/example_dags/example_skip_dag.py
+[2024-12-14 16:07:31,433] {processor.py:641} INFO - Processing file /home/dev/curso/ambientevirtual/lib/python3.9/site-packages/airflow/example_dags/example_skip_dag.py for tasks to queue
+[2024-12-14 16:07:31,434] {logging_mixin.py:115} INFO - [2024-12-14 16:07:31,434] {dagbag.py:507} INFO - Filling up the DagBag from /home/dev/curso/ambientevirtual/lib/python3.9/site-packages/airflow/example_dags/example_skip_dag.py
+[2024-12-14 16:07:31,444] {processor.py:651} INFO - DAG(s) dict_keys(['example_skip_dag']) retrieved from /home/dev/curso/ambientevirtual/lib/python3.9/site-packages/airflow/example_dags/example_skip_dag.py
+[2024-12-14 16:07:31,467] {logging_mixin.py:115} INFO - [2024-12-14 16:07:31,467] {dag.py:2379} INFO - Sync 1 DAGs
+[2024-12-14 16:07:31,507] {logging_mixin.py:115} INFO - [2024-12-14 16:07:31,507] {dag.py:2927} INFO - Setting next_dagrun for example_skip_dag to 2024-12-13T19:07:31.506999+00:00, run_after=2024-12-14T19:07:31.506999+00:00
+[2024-12-14 16:07:31,550] {processor.py:161} INFO - Processing /home/dev/curso/ambientevirtual/lib/python3.9/site-packages/airflow/example_dags/example_skip_dag.py took 0.122 seconds
+[2024-12-14 16:08:10,118] {processor.py:153} INFO - Started process (PID=52191) to work on /home/dev/curso/ambientevirtual/lib/python3.9/site-packages/airflow/example_dags/example_skip_dag.py
+[2024-12-14 16:08:10,119] {processor.py:641} INFO - Processing file /home/dev/curso/ambientevirtual/lib/python3.9/site-packages/airflow/example_dags/example_skip_dag.py for tasks to queue
+[2024-12-14 16:08:10,119] {logging_mixin.py:115} INFO - [2024-12-14 16:08:10,119] {dagbag.py:507} INFO - Filling up the DagBag from /home/dev/curso/ambientevirtual/lib/python3.9/site-packages/airflow/example_dags/example_skip_dag.py
+[2024-12-14 16:08:10,125] {processor.py:651} INFO - DAG(s) dict_keys(['example_skip_dag']) retrieved from /home/dev/curso/ambientevirtual/lib/python3.9/site-packages/airflow/example_dags/example_skip_dag.py
+[2024-12-14 16:08:10,151] {logging_mixin.py:115} INFO - [2024-12-14 16:08:10,151] {dag.py:2379} INFO - Sync 1 DAGs
+[2024-12-14 16:08:10,178] {logging_mixin.py:115} INFO - [2024-12-14 16:08:10,177] {dag.py:2927} INFO - Setting next_dagrun for example_skip_dag to 2024-12-13T19:08:10.177583+00:00, run_after=2024-12-14T19:08:10.177583+00:00
+[2024-12-14 16:08:10,199] {processor.py:161} INFO - Processing /home/dev/curso/ambientevirtual/lib/python3.9/site-packages/airflow/example_dags/example_skip_dag.py took 0.085 seconds
+[2024-12-14 16:08:50,533] {processor.py:153} INFO - Started process (PID=52570) to work on /home/dev/curso/ambientevirtual/lib/python3.9/site-packages/airflow/example_dags/example_skip_dag.py
+[2024-12-14 16:08:50,535] {processor.py:641} INFO - Processing file /home/dev/curso/ambientevirtual/lib/python3.9/site-packages/airflow/example_dags/example_skip_dag.py for tasks to queue
+[2024-12-14 16:08:50,536] {logging_mixin.py:115} INFO - [2024-12-14 16:08:50,535] {dagbag.py:507} INFO - Filling up the DagBag from /home/dev/curso/ambientevirtual/lib/python3.9/site-packages/airflow/example_dags/example_skip_dag.py
+[2024-12-14 16:08:50,542] {processor.py:651} INFO - DAG(s) dict_keys(['example_skip_dag']) retrieved from /home/dev/curso/ambientevirtual/lib/python3.9/site-packages/airflow/example_dags/example_skip_dag.py
+[2024-12-14 16:08:50,564] {logging_mixin.py:115} INFO - [2024-12-14 16:08:50,564] {dag.py:2379} INFO - Sync 1 DAGs
+[2024-12-14 16:08:50,586] {logging_mixin.py:115} INFO - [2024-12-14 16:08:50,586] {dag.py:2927} INFO - Setting next_dagrun for example_skip_dag to 2024-12-13T19:08:50.586378+00:00, run_after=2024-12-14T19:08:50.586378+00:00
+[2024-12-14 16:08:50,603] {processor.py:161} INFO - Processing /home/dev/curso/ambientevirtual/lib/python3.9/site-packages/airflow/example_dags/example_skip_dag.py took 0.074 seconds
+[2024-12-14 16:09:27,974] {processor.py:153} INFO - Started process (PID=52706) to work on /home/dev/curso/ambientevirtual/lib/python3.9/site-packages/airflow/example_dags/example_skip_dag.py
+[2024-12-14 16:09:27,975] {processor.py:641} INFO - Processing file /home/dev/curso/ambientevirtual/lib/python3.9/site-packages/airflow/example_dags/example_skip_dag.py for tasks to queue
+[2024-12-14 16:09:27,976] {logging_mixin.py:115} INFO - [2024-12-14 16:09:27,976] {dagbag.py:507} INFO - Filling up the DagBag from /home/dev/curso/ambientevirtual/lib/python3.9/site-packages/airflow/example_dags/example_skip_dag.py
+[2024-12-14 16:09:27,982] {processor.py:651} INFO - DAG(s) dict_keys(['example_skip_dag']) retrieved from /home/dev/curso/ambientevirtual/lib/python3.9/site-packages/airflow/example_dags/example_skip_dag.py
+[2024-12-14 16:09:28,008] {logging_mixin.py:115} INFO - [2024-12-14 16:09:28,008] {dag.py:2379} INFO - Sync 1 DAGs
+[2024-12-14 16:09:28,034] {logging_mixin.py:115} INFO - [2024-12-14 16:09:28,034] {dag.py:2927} INFO - Setting next_dagrun for example_skip_dag to 2024-12-13T19:09:28.033735+00:00, run_after=2024-12-14T19:09:28.033735+00:00
+[2024-12-14 16:09:28,055] {processor.py:161} INFO - Processing /home/dev/curso/ambientevirtual/lib/python3.9/site-packages/airflow/example_dags/example_skip_dag.py took 0.084 seconds
+[2024-12-14 16:10:05,578] {processor.py:153} INFO - Started process (PID=52844) to work on /home/dev/curso/ambientevirtual/lib/python3.9/site-packages/airflow/example_dags/example_skip_dag.py
+[2024-12-14 16:10:05,579] {processor.py:641} INFO - Processing file /home/dev/curso/ambientevirtual/lib/python3.9/site-packages/airflow/example_dags/example_skip_dag.py for tasks to queue
+[2024-12-14 16:10:05,580] {logging_mixin.py:115} INFO - [2024-12-14 16:10:05,580] {dagbag.py:507} INFO - Filling up the DagBag from /home/dev/curso/ambientevirtual/lib/python3.9/site-packages/airflow/example_dags/example_skip_dag.py
+[2024-12-14 16:10:05,586] {processor.py:651} INFO - DAG(s) dict_keys(['example_skip_dag']) retrieved from /home/dev/curso/ambientevirtual/lib/python3.9/site-packages/airflow/example_dags/example_skip_dag.py
+[2024-12-14 16:10:05,608] {logging_mixin.py:115} INFO - [2024-12-14 16:10:05,608] {dag.py:2379} INFO - Sync 1 DAGs
+[2024-12-14 16:10:05,628] {logging_mixin.py:115} INFO - [2024-12-14 16:10:05,628] {dag.py:2927} INFO - Setting next_dagrun for example_skip_dag to 2024-12-13T19:10:05.628223+00:00, run_after=2024-12-14T19:10:05.628223+00:00
+[2024-12-14 16:10:05,646] {processor.py:161} INFO - Processing /home/dev/curso/ambientevirtual/lib/python3.9/site-packages/airflow/example_dags/example_skip_dag.py took 0.072 seconds
+[2024-12-14 16:10:41,394] {processor.py:153} INFO - Started process (PID=53030) to work on /home/dev/curso/ambientevirtual/lib/python3.9/site-packages/airflow/example_dags/example_skip_dag.py
+[2024-12-14 16:10:41,396] {processor.py:641} INFO - Processing file /home/dev/curso/ambientevirtual/lib/python3.9/site-packages/airflow/example_dags/example_skip_dag.py for tasks to queue
+[2024-12-14 16:10:41,397] {logging_mixin.py:115} INFO - [2024-12-14 16:10:41,396] {dagbag.py:507} INFO - Filling up the DagBag from /home/dev/curso/ambientevirtual/lib/python3.9/site-packages/airflow/example_dags/example_skip_dag.py
+[2024-12-14 16:10:41,408] {processor.py:651} INFO - DAG(s) dict_keys(['example_skip_dag']) retrieved from /home/dev/curso/ambientevirtual/lib/python3.9/site-packages/airflow/example_dags/example_skip_dag.py
+[2024-12-14 16:10:41,429] {logging_mixin.py:115} INFO - [2024-12-14 16:10:41,429] {dag.py:2379} INFO - Sync 1 DAGs
+[2024-12-14 16:10:41,448] {logging_mixin.py:115} INFO - [2024-12-14 16:10:41,448] {dag.py:2927} INFO - Setting next_dagrun for example_skip_dag to 2024-12-13T19:10:41.447904+00:00, run_after=2024-12-14T19:10:41.447904+00:00
+[2024-12-14 16:10:41,464] {processor.py:161} INFO - Processing /home/dev/curso/ambientevirtual/lib/python3.9/site-packages/airflow/example_dags/example_skip_dag.py took 0.077 seconds
+[2024-12-14 16:11:17,094] {processor.py:153} INFO - Started process (PID=53219) to work on /home/dev/curso/ambientevirtual/lib/python3.9/site-packages/airflow/example_dags/example_skip_dag.py
+[2024-12-14 16:11:17,096] {processor.py:641} INFO - Processing file /home/dev/curso/ambientevirtual/lib/python3.9/site-packages/airflow/example_dags/example_skip_dag.py for tasks to queue
+[2024-12-14 16:11:17,097] {logging_mixin.py:115} INFO - [2024-12-14 16:11:17,097] {dagbag.py:507} INFO - Filling up the DagBag from /home/dev/curso/ambientevirtual/lib/python3.9/site-packages/airflow/example_dags/example_skip_dag.py
+[2024-12-14 16:11:17,105] {processor.py:651} INFO - DAG(s) dict_keys(['example_skip_dag']) retrieved from /home/dev/curso/ambientevirtual/lib/python3.9/site-packages/airflow/example_dags/example_skip_dag.py
+[2024-12-14 16:11:17,125] {logging_mixin.py:115} INFO - [2024-12-14 16:11:17,125] {dag.py:2379} INFO - Sync 1 DAGs
+[2024-12-14 16:11:17,143] {logging_mixin.py:115} INFO - [2024-12-14 16:11:17,143] {dag.py:2927} INFO - Setting next_dagrun for example_skip_dag to 2024-12-13T19:11:17.143494+00:00, run_after=2024-12-14T19:11:17.143494+00:00
+[2024-12-14 16:11:17,162] {processor.py:161} INFO - Processing /home/dev/curso/ambientevirtual/lib/python3.9/site-packages/airflow/example_dags/example_skip_dag.py took 0.074 seconds

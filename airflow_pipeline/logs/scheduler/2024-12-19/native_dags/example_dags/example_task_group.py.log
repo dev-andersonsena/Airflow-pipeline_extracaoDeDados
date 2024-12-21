@@ -1,0 +1,14 @@
+[2024-12-19 20:50:52,604] {processor.py:153} INFO - Started process (PID=3408) to work on /home/dev/curso/ambientevirtual/lib/python3.9/site-packages/airflow/example_dags/example_task_group.py
+[2024-12-19 20:50:52,605] {processor.py:641} INFO - Processing file /home/dev/curso/ambientevirtual/lib/python3.9/site-packages/airflow/example_dags/example_task_group.py for tasks to queue
+[2024-12-19 20:50:52,605] {logging_mixin.py:115} INFO - [2024-12-19 20:50:52,605] {dagbag.py:507} INFO - Filling up the DagBag from /home/dev/curso/ambientevirtual/lib/python3.9/site-packages/airflow/example_dags/example_task_group.py
+[2024-12-19 20:50:52,616] {processor.py:651} INFO - DAG(s) dict_keys(['example_task_group']) retrieved from /home/dev/curso/ambientevirtual/lib/python3.9/site-packages/airflow/example_dags/example_task_group.py
+[2024-12-19 20:50:52,644] {logging_mixin.py:115} INFO - [2024-12-19 20:50:52,644] {dag.py:2379} INFO - Sync 1 DAGs
+[2024-12-19 20:50:52,670] {logging_mixin.py:115} INFO - [2024-12-19 20:50:52,670] {dag.py:2927} INFO - Setting next_dagrun for example_task_group to 2024-12-18T23:50:52.670438+00:00, run_after=2024-12-19T23:50:52.670438+00:00
+[2024-12-19 20:50:52,689] {processor.py:161} INFO - Processing /home/dev/curso/ambientevirtual/lib/python3.9/site-packages/airflow/example_dags/example_task_group.py took 0.088 seconds
+[2024-12-19 20:52:00,004] {processor.py:153} INFO - Started process (PID=4007) to work on /home/dev/curso/ambientevirtual/lib/python3.9/site-packages/airflow/example_dags/example_task_group.py
+[2024-12-19 20:52:00,005] {processor.py:641} INFO - Processing file /home/dev/curso/ambientevirtual/lib/python3.9/site-packages/airflow/example_dags/example_task_group.py for tasks to queue
+[2024-12-19 20:52:00,006] {logging_mixin.py:115} INFO - [2024-12-19 20:52:00,006] {dagbag.py:507} INFO - Filling up the DagBag from /home/dev/curso/ambientevirtual/lib/python3.9/site-packages/airflow/example_dags/example_task_group.py
+[2024-12-19 20:52:00,016] {processor.py:651} INFO - DAG(s) dict_keys(['example_task_group']) retrieved from /home/dev/curso/ambientevirtual/lib/python3.9/site-packages/airflow/example_dags/example_task_group.py
+[2024-12-19 20:52:00,038] {logging_mixin.py:115} INFO - [2024-12-19 20:52:00,038] {dag.py:2379} INFO - Sync 1 DAGs
+[2024-12-19 20:52:00,065] {logging_mixin.py:115} INFO - [2024-12-19 20:52:00,065] {dag.py:2927} INFO - Setting next_dagrun for example_task_group to 2024-12-18T23:52:00.065260+00:00, run_after=2024-12-19T23:52:00.065260+00:00
+[2024-12-19 20:52:00,084] {processor.py:161} INFO - Processing /home/dev/curso/ambientevirtual/lib/python3.9/site-packages/airflow/example_dags/example_task_group.py took 0.084 seconds

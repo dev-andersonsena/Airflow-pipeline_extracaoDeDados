@@ -1,0 +1,228 @@
+[2024-12-14 15:51:54,662] {processor.py:153} INFO - Started process (PID=48112) to work on /home/dev/curso/ambientevirtual/lib/python3.9/site-packages/airflow/example_dags/tutorial_taskflow_api_etl.py
+[2024-12-14 15:51:54,663] {processor.py:641} INFO - Processing file /home/dev/curso/ambientevirtual/lib/python3.9/site-packages/airflow/example_dags/tutorial_taskflow_api_etl.py for tasks to queue
+[2024-12-14 15:51:54,663] {logging_mixin.py:115} INFO - [2024-12-14 15:51:54,663] {dagbag.py:507} INFO - Filling up the DagBag from /home/dev/curso/ambientevirtual/lib/python3.9/site-packages/airflow/example_dags/tutorial_taskflow_api_etl.py
+[2024-12-14 15:51:54,683] {processor.py:651} INFO - DAG(s) dict_keys(['tutorial_taskflow_api_etl']) retrieved from /home/dev/curso/ambientevirtual/lib/python3.9/site-packages/airflow/example_dags/tutorial_taskflow_api_etl.py
+[2024-12-14 15:51:54,757] {logging_mixin.py:115} INFO - [2024-12-14 15:51:54,757] {manager.py:508} INFO - Created Permission View: can delete on DAG:tutorial_taskflow_api_etl
+[2024-12-14 15:51:54,769] {logging_mixin.py:115} INFO - [2024-12-14 15:51:54,769] {manager.py:508} INFO - Created Permission View: can edit on DAG:tutorial_taskflow_api_etl
+[2024-12-14 15:51:54,780] {logging_mixin.py:115} INFO - [2024-12-14 15:51:54,780] {manager.py:508} INFO - Created Permission View: can read on DAG:tutorial_taskflow_api_etl
+[2024-12-14 15:51:54,780] {logging_mixin.py:115} INFO - [2024-12-14 15:51:54,780] {dag.py:2379} INFO - Sync 1 DAGs
+[2024-12-14 15:51:54,789] {logging_mixin.py:115} INFO - [2024-12-14 15:51:54,789] {dag.py:2398} INFO - Creating ORM DAG for tutorial_taskflow_api_etl
+[2024-12-14 15:51:54,798] {logging_mixin.py:115} INFO - [2024-12-14 15:51:54,798] {dag.py:2927} INFO - Setting next_dagrun for tutorial_taskflow_api_etl to None, run_after=None
+[2024-12-14 15:51:54,818] {processor.py:161} INFO - Processing /home/dev/curso/ambientevirtual/lib/python3.9/site-packages/airflow/example_dags/tutorial_taskflow_api_etl.py took 0.159 seconds
+[2024-12-14 15:52:30,584] {processor.py:153} INFO - Started process (PID=48358) to work on /home/dev/curso/ambientevirtual/lib/python3.9/site-packages/airflow/example_dags/tutorial_taskflow_api_etl.py
+[2024-12-14 15:52:30,587] {processor.py:641} INFO - Processing file /home/dev/curso/ambientevirtual/lib/python3.9/site-packages/airflow/example_dags/tutorial_taskflow_api_etl.py for tasks to queue
+[2024-12-14 15:52:30,587] {logging_mixin.py:115} INFO - [2024-12-14 15:52:30,587] {dagbag.py:507} INFO - Filling up the DagBag from /home/dev/curso/ambientevirtual/lib/python3.9/site-packages/airflow/example_dags/tutorial_taskflow_api_etl.py
+[2024-12-14 15:52:30,613] {processor.py:651} INFO - DAG(s) dict_keys(['tutorial_taskflow_api_etl']) retrieved from /home/dev/curso/ambientevirtual/lib/python3.9/site-packages/airflow/example_dags/tutorial_taskflow_api_etl.py
+[2024-12-14 15:52:30,670] {logging_mixin.py:115} INFO - [2024-12-14 15:52:30,670] {dag.py:2379} INFO - Sync 1 DAGs
+[2024-12-14 15:52:30,691] {logging_mixin.py:115} INFO - [2024-12-14 15:52:30,691] {dag.py:2927} INFO - Setting next_dagrun for tutorial_taskflow_api_etl to None, run_after=None
+[2024-12-14 15:52:30,709] {processor.py:161} INFO - Processing /home/dev/curso/ambientevirtual/lib/python3.9/site-packages/airflow/example_dags/tutorial_taskflow_api_etl.py took 0.132 seconds
+[2024-12-14 15:53:10,350] {processor.py:153} INFO - Started process (PID=48509) to work on /home/dev/curso/ambientevirtual/lib/python3.9/site-packages/airflow/example_dags/tutorial_taskflow_api_etl.py
+[2024-12-14 15:53:10,352] {processor.py:641} INFO - Processing file /home/dev/curso/ambientevirtual/lib/python3.9/site-packages/airflow/example_dags/tutorial_taskflow_api_etl.py for tasks to queue
+[2024-12-14 15:53:10,353] {logging_mixin.py:115} INFO - [2024-12-14 15:53:10,353] {dagbag.py:507} INFO - Filling up the DagBag from /home/dev/curso/ambientevirtual/lib/python3.9/site-packages/airflow/example_dags/tutorial_taskflow_api_etl.py
+[2024-12-14 15:53:10,378] {processor.py:651} INFO - DAG(s) dict_keys(['tutorial_taskflow_api_etl']) retrieved from /home/dev/curso/ambientevirtual/lib/python3.9/site-packages/airflow/example_dags/tutorial_taskflow_api_etl.py
+[2024-12-14 15:53:10,398] {logging_mixin.py:115} INFO - [2024-12-14 15:53:10,398] {dag.py:2379} INFO - Sync 1 DAGs
+[2024-12-14 15:53:10,416] {logging_mixin.py:115} INFO - [2024-12-14 15:53:10,416] {dag.py:2927} INFO - Setting next_dagrun for tutorial_taskflow_api_etl to None, run_after=None
+[2024-12-14 15:53:10,433] {processor.py:161} INFO - Processing /home/dev/curso/ambientevirtual/lib/python3.9/site-packages/airflow/example_dags/tutorial_taskflow_api_etl.py took 0.089 seconds
+[2024-12-14 15:53:46,056] {processor.py:153} INFO - Started process (PID=48639) to work on /home/dev/curso/ambientevirtual/lib/python3.9/site-packages/airflow/example_dags/tutorial_taskflow_api_etl.py
+[2024-12-14 15:53:46,058] {processor.py:641} INFO - Processing file /home/dev/curso/ambientevirtual/lib/python3.9/site-packages/airflow/example_dags/tutorial_taskflow_api_etl.py for tasks to queue
+[2024-12-14 15:53:46,059] {logging_mixin.py:115} INFO - [2024-12-14 15:53:46,059] {dagbag.py:507} INFO - Filling up the DagBag from /home/dev/curso/ambientevirtual/lib/python3.9/site-packages/airflow/example_dags/tutorial_taskflow_api_etl.py
+[2024-12-14 15:53:46,082] {processor.py:651} INFO - DAG(s) dict_keys(['tutorial_taskflow_api_etl']) retrieved from /home/dev/curso/ambientevirtual/lib/python3.9/site-packages/airflow/example_dags/tutorial_taskflow_api_etl.py
+[2024-12-14 15:53:46,132] {logging_mixin.py:115} INFO - [2024-12-14 15:53:46,132] {dag.py:2379} INFO - Sync 1 DAGs
+[2024-12-14 15:53:46,151] {logging_mixin.py:115} INFO - [2024-12-14 15:53:46,151] {dag.py:2927} INFO - Setting next_dagrun for tutorial_taskflow_api_etl to None, run_after=None
+[2024-12-14 15:53:46,170] {processor.py:161} INFO - Processing /home/dev/curso/ambientevirtual/lib/python3.9/site-packages/airflow/example_dags/tutorial_taskflow_api_etl.py took 0.121 seconds
+[2024-12-14 15:54:21,940] {processor.py:153} INFO - Started process (PID=48769) to work on /home/dev/curso/ambientevirtual/lib/python3.9/site-packages/airflow/example_dags/tutorial_taskflow_api_etl.py
+[2024-12-14 15:54:21,941] {processor.py:641} INFO - Processing file /home/dev/curso/ambientevirtual/lib/python3.9/site-packages/airflow/example_dags/tutorial_taskflow_api_etl.py for tasks to queue
+[2024-12-14 15:54:21,942] {logging_mixin.py:115} INFO - [2024-12-14 15:54:21,942] {dagbag.py:507} INFO - Filling up the DagBag from /home/dev/curso/ambientevirtual/lib/python3.9/site-packages/airflow/example_dags/tutorial_taskflow_api_etl.py
+[2024-12-14 15:54:21,973] {processor.py:651} INFO - DAG(s) dict_keys(['tutorial_taskflow_api_etl']) retrieved from /home/dev/curso/ambientevirtual/lib/python3.9/site-packages/airflow/example_dags/tutorial_taskflow_api_etl.py
+[2024-12-14 15:54:21,994] {logging_mixin.py:115} INFO - [2024-12-14 15:54:21,994] {dag.py:2379} INFO - Sync 1 DAGs
+[2024-12-14 15:54:22,016] {logging_mixin.py:115} INFO - [2024-12-14 15:54:22,015] {dag.py:2927} INFO - Setting next_dagrun for tutorial_taskflow_api_etl to None, run_after=None
+[2024-12-14 15:54:22,037] {processor.py:161} INFO - Processing /home/dev/curso/ambientevirtual/lib/python3.9/site-packages/airflow/example_dags/tutorial_taskflow_api_etl.py took 0.104 seconds
+[2024-12-14 15:55:02,371] {processor.py:153} INFO - Started process (PID=48907) to work on /home/dev/curso/ambientevirtual/lib/python3.9/site-packages/airflow/example_dags/tutorial_taskflow_api_etl.py
+[2024-12-14 15:55:02,373] {processor.py:641} INFO - Processing file /home/dev/curso/ambientevirtual/lib/python3.9/site-packages/airflow/example_dags/tutorial_taskflow_api_etl.py for tasks to queue
+[2024-12-14 15:55:02,374] {logging_mixin.py:115} INFO - [2024-12-14 15:55:02,373] {dagbag.py:507} INFO - Filling up the DagBag from /home/dev/curso/ambientevirtual/lib/python3.9/site-packages/airflow/example_dags/tutorial_taskflow_api_etl.py
+[2024-12-14 15:55:02,401] {processor.py:651} INFO - DAG(s) dict_keys(['tutorial_taskflow_api_etl']) retrieved from /home/dev/curso/ambientevirtual/lib/python3.9/site-packages/airflow/example_dags/tutorial_taskflow_api_etl.py
+[2024-12-14 15:55:02,460] {logging_mixin.py:115} INFO - [2024-12-14 15:55:02,460] {dag.py:2379} INFO - Sync 1 DAGs
+[2024-12-14 15:55:02,480] {logging_mixin.py:115} INFO - [2024-12-14 15:55:02,480] {dag.py:2927} INFO - Setting next_dagrun for tutorial_taskflow_api_etl to None, run_after=None
+[2024-12-14 15:55:02,510] {processor.py:161} INFO - Processing /home/dev/curso/ambientevirtual/lib/python3.9/site-packages/airflow/example_dags/tutorial_taskflow_api_etl.py took 0.146 seconds
+[2024-12-14 15:55:41,197] {processor.py:153} INFO - Started process (PID=49052) to work on /home/dev/curso/ambientevirtual/lib/python3.9/site-packages/airflow/example_dags/tutorial_taskflow_api_etl.py
+[2024-12-14 15:55:41,198] {processor.py:641} INFO - Processing file /home/dev/curso/ambientevirtual/lib/python3.9/site-packages/airflow/example_dags/tutorial_taskflow_api_etl.py for tasks to queue
+[2024-12-14 15:55:41,198] {logging_mixin.py:115} INFO - [2024-12-14 15:55:41,198] {dagbag.py:507} INFO - Filling up the DagBag from /home/dev/curso/ambientevirtual/lib/python3.9/site-packages/airflow/example_dags/tutorial_taskflow_api_etl.py
+[2024-12-14 15:55:41,218] {processor.py:651} INFO - DAG(s) dict_keys(['tutorial_taskflow_api_etl']) retrieved from /home/dev/curso/ambientevirtual/lib/python3.9/site-packages/airflow/example_dags/tutorial_taskflow_api_etl.py
+[2024-12-14 15:55:41,268] {logging_mixin.py:115} INFO - [2024-12-14 15:55:41,268] {dag.py:2379} INFO - Sync 1 DAGs
+[2024-12-14 15:55:41,287] {logging_mixin.py:115} INFO - [2024-12-14 15:55:41,287] {dag.py:2927} INFO - Setting next_dagrun for tutorial_taskflow_api_etl to None, run_after=None
+[2024-12-14 15:55:41,305] {processor.py:161} INFO - Processing /home/dev/curso/ambientevirtual/lib/python3.9/site-packages/airflow/example_dags/tutorial_taskflow_api_etl.py took 0.111 seconds
+[2024-12-14 15:56:18,206] {processor.py:153} INFO - Started process (PID=49189) to work on /home/dev/curso/ambientevirtual/lib/python3.9/site-packages/airflow/example_dags/tutorial_taskflow_api_etl.py
+[2024-12-14 15:56:18,209] {processor.py:641} INFO - Processing file /home/dev/curso/ambientevirtual/lib/python3.9/site-packages/airflow/example_dags/tutorial_taskflow_api_etl.py for tasks to queue
+[2024-12-14 15:56:18,209] {logging_mixin.py:115} INFO - [2024-12-14 15:56:18,209] {dagbag.py:507} INFO - Filling up the DagBag from /home/dev/curso/ambientevirtual/lib/python3.9/site-packages/airflow/example_dags/tutorial_taskflow_api_etl.py
+[2024-12-14 15:56:18,234] {processor.py:651} INFO - DAG(s) dict_keys(['tutorial_taskflow_api_etl']) retrieved from /home/dev/curso/ambientevirtual/lib/python3.9/site-packages/airflow/example_dags/tutorial_taskflow_api_etl.py
+[2024-12-14 15:56:18,256] {logging_mixin.py:115} INFO - [2024-12-14 15:56:18,256] {dag.py:2379} INFO - Sync 1 DAGs
+[2024-12-14 15:56:18,280] {logging_mixin.py:115} INFO - [2024-12-14 15:56:18,280] {dag.py:2927} INFO - Setting next_dagrun for tutorial_taskflow_api_etl to None, run_after=None
+[2024-12-14 15:56:18,300] {processor.py:161} INFO - Processing /home/dev/curso/ambientevirtual/lib/python3.9/site-packages/airflow/example_dags/tutorial_taskflow_api_etl.py took 0.099 seconds
+[2024-12-14 15:56:56,438] {processor.py:153} INFO - Started process (PID=49385) to work on /home/dev/curso/ambientevirtual/lib/python3.9/site-packages/airflow/example_dags/tutorial_taskflow_api_etl.py
+[2024-12-14 15:56:56,439] {processor.py:641} INFO - Processing file /home/dev/curso/ambientevirtual/lib/python3.9/site-packages/airflow/example_dags/tutorial_taskflow_api_etl.py for tasks to queue
+[2024-12-14 15:56:56,440] {logging_mixin.py:115} INFO - [2024-12-14 15:56:56,440] {dagbag.py:507} INFO - Filling up the DagBag from /home/dev/curso/ambientevirtual/lib/python3.9/site-packages/airflow/example_dags/tutorial_taskflow_api_etl.py
+[2024-12-14 15:56:56,465] {processor.py:651} INFO - DAG(s) dict_keys(['tutorial_taskflow_api_etl']) retrieved from /home/dev/curso/ambientevirtual/lib/python3.9/site-packages/airflow/example_dags/tutorial_taskflow_api_etl.py
+[2024-12-14 15:56:56,533] {logging_mixin.py:115} INFO - [2024-12-14 15:56:56,533] {dag.py:2379} INFO - Sync 1 DAGs
+[2024-12-14 15:56:56,564] {logging_mixin.py:115} INFO - [2024-12-14 15:56:56,563] {dag.py:2927} INFO - Setting next_dagrun for tutorial_taskflow_api_etl to None, run_after=None
+[2024-12-14 15:56:56,598] {processor.py:161} INFO - Processing /home/dev/curso/ambientevirtual/lib/python3.9/site-packages/airflow/example_dags/tutorial_taskflow_api_etl.py took 0.164 seconds
+[2024-12-14 15:57:33,014] {processor.py:153} INFO - Started process (PID=49521) to work on /home/dev/curso/ambientevirtual/lib/python3.9/site-packages/airflow/example_dags/tutorial_taskflow_api_etl.py
+[2024-12-14 15:57:33,016] {processor.py:641} INFO - Processing file /home/dev/curso/ambientevirtual/lib/python3.9/site-packages/airflow/example_dags/tutorial_taskflow_api_etl.py for tasks to queue
+[2024-12-14 15:57:33,017] {logging_mixin.py:115} INFO - [2024-12-14 15:57:33,016] {dagbag.py:507} INFO - Filling up the DagBag from /home/dev/curso/ambientevirtual/lib/python3.9/site-packages/airflow/example_dags/tutorial_taskflow_api_etl.py
+[2024-12-14 15:57:33,044] {processor.py:651} INFO - DAG(s) dict_keys(['tutorial_taskflow_api_etl']) retrieved from /home/dev/curso/ambientevirtual/lib/python3.9/site-packages/airflow/example_dags/tutorial_taskflow_api_etl.py
+[2024-12-14 15:57:33,067] {logging_mixin.py:115} INFO - [2024-12-14 15:57:33,067] {dag.py:2379} INFO - Sync 1 DAGs
+[2024-12-14 15:57:33,089] {logging_mixin.py:115} INFO - [2024-12-14 15:57:33,089] {dag.py:2927} INFO - Setting next_dagrun for tutorial_taskflow_api_etl to None, run_after=None
+[2024-12-14 15:57:33,109] {processor.py:161} INFO - Processing /home/dev/curso/ambientevirtual/lib/python3.9/site-packages/airflow/example_dags/tutorial_taskflow_api_etl.py took 0.102 seconds
+[2024-12-14 15:58:13,509] {processor.py:153} INFO - Started process (PID=49667) to work on /home/dev/curso/ambientevirtual/lib/python3.9/site-packages/airflow/example_dags/tutorial_taskflow_api_etl.py
+[2024-12-14 15:58:13,511] {processor.py:641} INFO - Processing file /home/dev/curso/ambientevirtual/lib/python3.9/site-packages/airflow/example_dags/tutorial_taskflow_api_etl.py for tasks to queue
+[2024-12-14 15:58:13,511] {logging_mixin.py:115} INFO - [2024-12-14 15:58:13,511] {dagbag.py:507} INFO - Filling up the DagBag from /home/dev/curso/ambientevirtual/lib/python3.9/site-packages/airflow/example_dags/tutorial_taskflow_api_etl.py
+[2024-12-14 15:58:13,539] {processor.py:651} INFO - DAG(s) dict_keys(['tutorial_taskflow_api_etl']) retrieved from /home/dev/curso/ambientevirtual/lib/python3.9/site-packages/airflow/example_dags/tutorial_taskflow_api_etl.py
+[2024-12-14 15:58:13,562] {logging_mixin.py:115} INFO - [2024-12-14 15:58:13,562] {dag.py:2379} INFO - Sync 1 DAGs
+[2024-12-14 15:58:13,582] {logging_mixin.py:115} INFO - [2024-12-14 15:58:13,582] {dag.py:2927} INFO - Setting next_dagrun for tutorial_taskflow_api_etl to None, run_after=None
+[2024-12-14 15:58:13,603] {processor.py:161} INFO - Processing /home/dev/curso/ambientevirtual/lib/python3.9/site-packages/airflow/example_dags/tutorial_taskflow_api_etl.py took 0.099 seconds
+[2024-12-14 15:58:53,562] {processor.py:153} INFO - Started process (PID=49813) to work on /home/dev/curso/ambientevirtual/lib/python3.9/site-packages/airflow/example_dags/tutorial_taskflow_api_etl.py
+[2024-12-14 15:58:53,564] {processor.py:641} INFO - Processing file /home/dev/curso/ambientevirtual/lib/python3.9/site-packages/airflow/example_dags/tutorial_taskflow_api_etl.py for tasks to queue
+[2024-12-14 15:58:53,565] {logging_mixin.py:115} INFO - [2024-12-14 15:58:53,565] {dagbag.py:507} INFO - Filling up the DagBag from /home/dev/curso/ambientevirtual/lib/python3.9/site-packages/airflow/example_dags/tutorial_taskflow_api_etl.py
+[2024-12-14 15:58:53,586] {processor.py:651} INFO - DAG(s) dict_keys(['tutorial_taskflow_api_etl']) retrieved from /home/dev/curso/ambientevirtual/lib/python3.9/site-packages/airflow/example_dags/tutorial_taskflow_api_etl.py
+[2024-12-14 15:58:53,640] {logging_mixin.py:115} INFO - [2024-12-14 15:58:53,640] {dag.py:2379} INFO - Sync 1 DAGs
+[2024-12-14 15:58:53,660] {logging_mixin.py:115} INFO - [2024-12-14 15:58:53,660] {dag.py:2927} INFO - Setting next_dagrun for tutorial_taskflow_api_etl to None, run_after=None
+[2024-12-14 15:58:53,679] {processor.py:161} INFO - Processing /home/dev/curso/ambientevirtual/lib/python3.9/site-packages/airflow/example_dags/tutorial_taskflow_api_etl.py took 0.124 seconds
+[2024-12-14 15:59:28,730] {processor.py:153} INFO - Started process (PID=49942) to work on /home/dev/curso/ambientevirtual/lib/python3.9/site-packages/airflow/example_dags/tutorial_taskflow_api_etl.py
+[2024-12-14 15:59:28,731] {processor.py:641} INFO - Processing file /home/dev/curso/ambientevirtual/lib/python3.9/site-packages/airflow/example_dags/tutorial_taskflow_api_etl.py for tasks to queue
+[2024-12-14 15:59:28,732] {logging_mixin.py:115} INFO - [2024-12-14 15:59:28,731] {dagbag.py:507} INFO - Filling up the DagBag from /home/dev/curso/ambientevirtual/lib/python3.9/site-packages/airflow/example_dags/tutorial_taskflow_api_etl.py
+[2024-12-14 15:59:28,753] {processor.py:651} INFO - DAG(s) dict_keys(['tutorial_taskflow_api_etl']) retrieved from /home/dev/curso/ambientevirtual/lib/python3.9/site-packages/airflow/example_dags/tutorial_taskflow_api_etl.py
+[2024-12-14 15:59:28,804] {logging_mixin.py:115} INFO - [2024-12-14 15:59:28,804] {dag.py:2379} INFO - Sync 1 DAGs
+[2024-12-14 15:59:28,824] {logging_mixin.py:115} INFO - [2024-12-14 15:59:28,824] {dag.py:2927} INFO - Setting next_dagrun for tutorial_taskflow_api_etl to None, run_after=None
+[2024-12-14 15:59:28,851] {processor.py:161} INFO - Processing /home/dev/curso/ambientevirtual/lib/python3.9/site-packages/airflow/example_dags/tutorial_taskflow_api_etl.py took 0.126 seconds
+[2024-12-14 16:00:05,639] {processor.py:153} INFO - Started process (PID=50078) to work on /home/dev/curso/ambientevirtual/lib/python3.9/site-packages/airflow/example_dags/tutorial_taskflow_api_etl.py
+[2024-12-14 16:00:05,641] {processor.py:641} INFO - Processing file /home/dev/curso/ambientevirtual/lib/python3.9/site-packages/airflow/example_dags/tutorial_taskflow_api_etl.py for tasks to queue
+[2024-12-14 16:00:05,641] {logging_mixin.py:115} INFO - [2024-12-14 16:00:05,641] {dagbag.py:507} INFO - Filling up the DagBag from /home/dev/curso/ambientevirtual/lib/python3.9/site-packages/airflow/example_dags/tutorial_taskflow_api_etl.py
+[2024-12-14 16:00:05,662] {processor.py:651} INFO - DAG(s) dict_keys(['tutorial_taskflow_api_etl']) retrieved from /home/dev/curso/ambientevirtual/lib/python3.9/site-packages/airflow/example_dags/tutorial_taskflow_api_etl.py
+[2024-12-14 16:00:05,680] {logging_mixin.py:115} INFO - [2024-12-14 16:00:05,680] {dag.py:2379} INFO - Sync 1 DAGs
+[2024-12-14 16:00:05,699] {logging_mixin.py:115} INFO - [2024-12-14 16:00:05,699] {dag.py:2927} INFO - Setting next_dagrun for tutorial_taskflow_api_etl to None, run_after=None
+[2024-12-14 16:00:05,715] {processor.py:161} INFO - Processing /home/dev/curso/ambientevirtual/lib/python3.9/site-packages/airflow/example_dags/tutorial_taskflow_api_etl.py took 0.083 seconds
+[2024-12-14 16:00:44,435] {processor.py:153} INFO - Started process (PID=50215) to work on /home/dev/curso/ambientevirtual/lib/python3.9/site-packages/airflow/example_dags/tutorial_taskflow_api_etl.py
+[2024-12-14 16:00:44,437] {processor.py:641} INFO - Processing file /home/dev/curso/ambientevirtual/lib/python3.9/site-packages/airflow/example_dags/tutorial_taskflow_api_etl.py for tasks to queue
+[2024-12-14 16:00:44,438] {logging_mixin.py:115} INFO - [2024-12-14 16:00:44,438] {dagbag.py:507} INFO - Filling up the DagBag from /home/dev/curso/ambientevirtual/lib/python3.9/site-packages/airflow/example_dags/tutorial_taskflow_api_etl.py
+[2024-12-14 16:00:44,465] {processor.py:651} INFO - DAG(s) dict_keys(['tutorial_taskflow_api_etl']) retrieved from /home/dev/curso/ambientevirtual/lib/python3.9/site-packages/airflow/example_dags/tutorial_taskflow_api_etl.py
+[2024-12-14 16:00:44,520] {logging_mixin.py:115} INFO - [2024-12-14 16:00:44,520] {dag.py:2379} INFO - Sync 1 DAGs
+[2024-12-14 16:00:44,536] {logging_mixin.py:115} INFO - [2024-12-14 16:00:44,536] {dag.py:2927} INFO - Setting next_dagrun for tutorial_taskflow_api_etl to None, run_after=None
+[2024-12-14 16:00:44,553] {processor.py:161} INFO - Processing /home/dev/curso/ambientevirtual/lib/python3.9/site-packages/airflow/example_dags/tutorial_taskflow_api_etl.py took 0.124 seconds
+[2024-12-14 16:01:25,365] {processor.py:153} INFO - Started process (PID=50541) to work on /home/dev/curso/ambientevirtual/lib/python3.9/site-packages/airflow/example_dags/tutorial_taskflow_api_etl.py
+[2024-12-14 16:01:25,367] {processor.py:641} INFO - Processing file /home/dev/curso/ambientevirtual/lib/python3.9/site-packages/airflow/example_dags/tutorial_taskflow_api_etl.py for tasks to queue
+[2024-12-14 16:01:25,367] {logging_mixin.py:115} INFO - [2024-12-14 16:01:25,367] {dagbag.py:507} INFO - Filling up the DagBag from /home/dev/curso/ambientevirtual/lib/python3.9/site-packages/airflow/example_dags/tutorial_taskflow_api_etl.py
+[2024-12-14 16:01:25,390] {processor.py:651} INFO - DAG(s) dict_keys(['tutorial_taskflow_api_etl']) retrieved from /home/dev/curso/ambientevirtual/lib/python3.9/site-packages/airflow/example_dags/tutorial_taskflow_api_etl.py
+[2024-12-14 16:01:25,465] {logging_mixin.py:115} INFO - [2024-12-14 16:01:25,465] {dag.py:2379} INFO - Sync 1 DAGs
+[2024-12-14 16:01:25,483] {logging_mixin.py:115} INFO - [2024-12-14 16:01:25,483] {dag.py:2927} INFO - Setting next_dagrun for tutorial_taskflow_api_etl to None, run_after=None
+[2024-12-14 16:01:25,506] {processor.py:161} INFO - Processing /home/dev/curso/ambientevirtual/lib/python3.9/site-packages/airflow/example_dags/tutorial_taskflow_api_etl.py took 0.147 seconds
+[2024-12-14 16:02:02,335] {processor.py:153} INFO - Started process (PID=50696) to work on /home/dev/curso/ambientevirtual/lib/python3.9/site-packages/airflow/example_dags/tutorial_taskflow_api_etl.py
+[2024-12-14 16:02:02,336] {processor.py:641} INFO - Processing file /home/dev/curso/ambientevirtual/lib/python3.9/site-packages/airflow/example_dags/tutorial_taskflow_api_etl.py for tasks to queue
+[2024-12-14 16:02:02,336] {logging_mixin.py:115} INFO - [2024-12-14 16:02:02,336] {dagbag.py:507} INFO - Filling up the DagBag from /home/dev/curso/ambientevirtual/lib/python3.9/site-packages/airflow/example_dags/tutorial_taskflow_api_etl.py
+[2024-12-14 16:02:02,363] {processor.py:651} INFO - DAG(s) dict_keys(['tutorial_taskflow_api_etl']) retrieved from /home/dev/curso/ambientevirtual/lib/python3.9/site-packages/airflow/example_dags/tutorial_taskflow_api_etl.py
+[2024-12-14 16:02:02,387] {logging_mixin.py:115} INFO - [2024-12-14 16:02:02,387] {dag.py:2379} INFO - Sync 1 DAGs
+[2024-12-14 16:02:02,409] {logging_mixin.py:115} INFO - [2024-12-14 16:02:02,409] {dag.py:2927} INFO - Setting next_dagrun for tutorial_taskflow_api_etl to None, run_after=None
+[2024-12-14 16:02:02,438] {processor.py:161} INFO - Processing /home/dev/curso/ambientevirtual/lib/python3.9/site-packages/airflow/example_dags/tutorial_taskflow_api_etl.py took 0.108 seconds
+[2024-12-14 16:02:38,786] {processor.py:153} INFO - Started process (PID=50868) to work on /home/dev/curso/ambientevirtual/lib/python3.9/site-packages/airflow/example_dags/tutorial_taskflow_api_etl.py
+[2024-12-14 16:02:38,789] {processor.py:641} INFO - Processing file /home/dev/curso/ambientevirtual/lib/python3.9/site-packages/airflow/example_dags/tutorial_taskflow_api_etl.py for tasks to queue
+[2024-12-14 16:02:38,790] {logging_mixin.py:115} INFO - [2024-12-14 16:02:38,789] {dagbag.py:507} INFO - Filling up the DagBag from /home/dev/curso/ambientevirtual/lib/python3.9/site-packages/airflow/example_dags/tutorial_taskflow_api_etl.py
+[2024-12-14 16:02:38,819] {processor.py:651} INFO - DAG(s) dict_keys(['tutorial_taskflow_api_etl']) retrieved from /home/dev/curso/ambientevirtual/lib/python3.9/site-packages/airflow/example_dags/tutorial_taskflow_api_etl.py
+[2024-12-14 16:02:38,852] {logging_mixin.py:115} INFO - [2024-12-14 16:02:38,852] {dag.py:2379} INFO - Sync 1 DAGs
+[2024-12-14 16:02:38,875] {logging_mixin.py:115} INFO - [2024-12-14 16:02:38,875] {dag.py:2927} INFO - Setting next_dagrun for tutorial_taskflow_api_etl to None, run_after=None
+[2024-12-14 16:02:38,891] {processor.py:161} INFO - Processing /home/dev/curso/ambientevirtual/lib/python3.9/site-packages/airflow/example_dags/tutorial_taskflow_api_etl.py took 0.111 seconds
+[2024-12-14 16:03:17,909] {processor.py:153} INFO - Started process (PID=51014) to work on /home/dev/curso/ambientevirtual/lib/python3.9/site-packages/airflow/example_dags/tutorial_taskflow_api_etl.py
+[2024-12-14 16:03:17,910] {processor.py:641} INFO - Processing file /home/dev/curso/ambientevirtual/lib/python3.9/site-packages/airflow/example_dags/tutorial_taskflow_api_etl.py for tasks to queue
+[2024-12-14 16:03:17,911] {logging_mixin.py:115} INFO - [2024-12-14 16:03:17,910] {dagbag.py:507} INFO - Filling up the DagBag from /home/dev/curso/ambientevirtual/lib/python3.9/site-packages/airflow/example_dags/tutorial_taskflow_api_etl.py
+[2024-12-14 16:03:17,931] {processor.py:651} INFO - DAG(s) dict_keys(['tutorial_taskflow_api_etl']) retrieved from /home/dev/curso/ambientevirtual/lib/python3.9/site-packages/airflow/example_dags/tutorial_taskflow_api_etl.py
+[2024-12-14 16:03:17,950] {logging_mixin.py:115} INFO - [2024-12-14 16:03:17,950] {dag.py:2379} INFO - Sync 1 DAGs
+[2024-12-14 16:03:17,972] {logging_mixin.py:115} INFO - [2024-12-14 16:03:17,971] {dag.py:2927} INFO - Setting next_dagrun for tutorial_taskflow_api_etl to None, run_after=None
+[2024-12-14 16:03:17,994] {processor.py:161} INFO - Processing /home/dev/curso/ambientevirtual/lib/python3.9/site-packages/airflow/example_dags/tutorial_taskflow_api_etl.py took 0.089 seconds
+[2024-12-14 16:03:57,731] {processor.py:153} INFO - Started process (PID=51160) to work on /home/dev/curso/ambientevirtual/lib/python3.9/site-packages/airflow/example_dags/tutorial_taskflow_api_etl.py
+[2024-12-14 16:03:57,733] {processor.py:641} INFO - Processing file /home/dev/curso/ambientevirtual/lib/python3.9/site-packages/airflow/example_dags/tutorial_taskflow_api_etl.py for tasks to queue
+[2024-12-14 16:03:57,733] {logging_mixin.py:115} INFO - [2024-12-14 16:03:57,733] {dagbag.py:507} INFO - Filling up the DagBag from /home/dev/curso/ambientevirtual/lib/python3.9/site-packages/airflow/example_dags/tutorial_taskflow_api_etl.py
+[2024-12-14 16:03:57,754] {processor.py:651} INFO - DAG(s) dict_keys(['tutorial_taskflow_api_etl']) retrieved from /home/dev/curso/ambientevirtual/lib/python3.9/site-packages/airflow/example_dags/tutorial_taskflow_api_etl.py
+[2024-12-14 16:03:57,772] {logging_mixin.py:115} INFO - [2024-12-14 16:03:57,772] {dag.py:2379} INFO - Sync 1 DAGs
+[2024-12-14 16:03:57,795] {logging_mixin.py:115} INFO - [2024-12-14 16:03:57,795] {dag.py:2927} INFO - Setting next_dagrun for tutorial_taskflow_api_etl to None, run_after=None
+[2024-12-14 16:03:57,814] {processor.py:161} INFO - Processing /home/dev/curso/ambientevirtual/lib/python3.9/site-packages/airflow/example_dags/tutorial_taskflow_api_etl.py took 0.086 seconds
+[2024-12-14 16:04:34,522] {processor.py:153} INFO - Started process (PID=51290) to work on /home/dev/curso/ambientevirtual/lib/python3.9/site-packages/airflow/example_dags/tutorial_taskflow_api_etl.py
+[2024-12-14 16:04:34,524] {processor.py:641} INFO - Processing file /home/dev/curso/ambientevirtual/lib/python3.9/site-packages/airflow/example_dags/tutorial_taskflow_api_etl.py for tasks to queue
+[2024-12-14 16:04:34,525] {logging_mixin.py:115} INFO - [2024-12-14 16:04:34,525] {dagbag.py:507} INFO - Filling up the DagBag from /home/dev/curso/ambientevirtual/lib/python3.9/site-packages/airflow/example_dags/tutorial_taskflow_api_etl.py
+[2024-12-14 16:04:34,546] {processor.py:651} INFO - DAG(s) dict_keys(['tutorial_taskflow_api_etl']) retrieved from /home/dev/curso/ambientevirtual/lib/python3.9/site-packages/airflow/example_dags/tutorial_taskflow_api_etl.py
+[2024-12-14 16:04:34,598] {logging_mixin.py:115} INFO - [2024-12-14 16:04:34,598] {dag.py:2379} INFO - Sync 1 DAGs
+[2024-12-14 16:04:34,616] {logging_mixin.py:115} INFO - [2024-12-14 16:04:34,616] {dag.py:2927} INFO - Setting next_dagrun for tutorial_taskflow_api_etl to None, run_after=None
+[2024-12-14 16:04:34,634] {processor.py:161} INFO - Processing /home/dev/curso/ambientevirtual/lib/python3.9/site-packages/airflow/example_dags/tutorial_taskflow_api_etl.py took 0.119 seconds
+[2024-12-14 16:05:12,516] {processor.py:153} INFO - Started process (PID=51430) to work on /home/dev/curso/ambientevirtual/lib/python3.9/site-packages/airflow/example_dags/tutorial_taskflow_api_etl.py
+[2024-12-14 16:05:12,518] {processor.py:641} INFO - Processing file /home/dev/curso/ambientevirtual/lib/python3.9/site-packages/airflow/example_dags/tutorial_taskflow_api_etl.py for tasks to queue
+[2024-12-14 16:05:12,518] {logging_mixin.py:115} INFO - [2024-12-14 16:05:12,518] {dagbag.py:507} INFO - Filling up the DagBag from /home/dev/curso/ambientevirtual/lib/python3.9/site-packages/airflow/example_dags/tutorial_taskflow_api_etl.py
+[2024-12-14 16:05:12,550] {processor.py:651} INFO - DAG(s) dict_keys(['tutorial_taskflow_api_etl']) retrieved from /home/dev/curso/ambientevirtual/lib/python3.9/site-packages/airflow/example_dags/tutorial_taskflow_api_etl.py
+[2024-12-14 16:05:12,573] {logging_mixin.py:115} INFO - [2024-12-14 16:05:12,573] {dag.py:2379} INFO - Sync 1 DAGs
+[2024-12-14 16:05:12,595] {logging_mixin.py:115} INFO - [2024-12-14 16:05:12,595] {dag.py:2927} INFO - Setting next_dagrun for tutorial_taskflow_api_etl to None, run_after=None
+[2024-12-14 16:05:12,613] {processor.py:161} INFO - Processing /home/dev/curso/ambientevirtual/lib/python3.9/site-packages/airflow/example_dags/tutorial_taskflow_api_etl.py took 0.102 seconds
+[2024-12-14 16:05:52,902] {processor.py:153} INFO - Started process (PID=51572) to work on /home/dev/curso/ambientevirtual/lib/python3.9/site-packages/airflow/example_dags/tutorial_taskflow_api_etl.py
+[2024-12-14 16:05:52,904] {processor.py:641} INFO - Processing file /home/dev/curso/ambientevirtual/lib/python3.9/site-packages/airflow/example_dags/tutorial_taskflow_api_etl.py for tasks to queue
+[2024-12-14 16:05:52,905] {logging_mixin.py:115} INFO - [2024-12-14 16:05:52,905] {dagbag.py:507} INFO - Filling up the DagBag from /home/dev/curso/ambientevirtual/lib/python3.9/site-packages/airflow/example_dags/tutorial_taskflow_api_etl.py
+[2024-12-14 16:05:52,932] {processor.py:651} INFO - DAG(s) dict_keys(['tutorial_taskflow_api_etl']) retrieved from /home/dev/curso/ambientevirtual/lib/python3.9/site-packages/airflow/example_dags/tutorial_taskflow_api_etl.py
+[2024-12-14 16:05:52,956] {logging_mixin.py:115} INFO - [2024-12-14 16:05:52,956] {dag.py:2379} INFO - Sync 1 DAGs
+[2024-12-14 16:05:52,978] {logging_mixin.py:115} INFO - [2024-12-14 16:05:52,978] {dag.py:2927} INFO - Setting next_dagrun for tutorial_taskflow_api_etl to None, run_after=None
+[2024-12-14 16:05:53,002] {processor.py:161} INFO - Processing /home/dev/curso/ambientevirtual/lib/python3.9/site-packages/airflow/example_dags/tutorial_taskflow_api_etl.py took 0.107 seconds
+[2024-12-14 16:06:32,003] {processor.py:153} INFO - Started process (PID=51777) to work on /home/dev/curso/ambientevirtual/lib/python3.9/site-packages/airflow/example_dags/tutorial_taskflow_api_etl.py
+[2024-12-14 16:06:32,007] {processor.py:641} INFO - Processing file /home/dev/curso/ambientevirtual/lib/python3.9/site-packages/airflow/example_dags/tutorial_taskflow_api_etl.py for tasks to queue
+[2024-12-14 16:06:32,008] {logging_mixin.py:115} INFO - [2024-12-14 16:06:32,008] {dagbag.py:507} INFO - Filling up the DagBag from /home/dev/curso/ambientevirtual/lib/python3.9/site-packages/airflow/example_dags/tutorial_taskflow_api_etl.py
+[2024-12-14 16:06:32,038] {processor.py:651} INFO - DAG(s) dict_keys(['tutorial_taskflow_api_etl']) retrieved from /home/dev/curso/ambientevirtual/lib/python3.9/site-packages/airflow/example_dags/tutorial_taskflow_api_etl.py
+[2024-12-14 16:06:32,111] {logging_mixin.py:115} INFO - [2024-12-14 16:06:32,111] {dag.py:2379} INFO - Sync 1 DAGs
+[2024-12-14 16:06:32,135] {logging_mixin.py:115} INFO - [2024-12-14 16:06:32,135] {dag.py:2927} INFO - Setting next_dagrun for tutorial_taskflow_api_etl to None, run_after=None
+[2024-12-14 16:06:32,161] {processor.py:161} INFO - Processing /home/dev/curso/ambientevirtual/lib/python3.9/site-packages/airflow/example_dags/tutorial_taskflow_api_etl.py took 0.163 seconds
+[2024-12-14 16:07:09,174] {processor.py:153} INFO - Started process (PID=51906) to work on /home/dev/curso/ambientevirtual/lib/python3.9/site-packages/airflow/example_dags/tutorial_taskflow_api_etl.py
+[2024-12-14 16:07:09,176] {processor.py:641} INFO - Processing file /home/dev/curso/ambientevirtual/lib/python3.9/site-packages/airflow/example_dags/tutorial_taskflow_api_etl.py for tasks to queue
+[2024-12-14 16:07:09,177] {logging_mixin.py:115} INFO - [2024-12-14 16:07:09,177] {dagbag.py:507} INFO - Filling up the DagBag from /home/dev/curso/ambientevirtual/lib/python3.9/site-packages/airflow/example_dags/tutorial_taskflow_api_etl.py
+[2024-12-14 16:07:09,198] {processor.py:651} INFO - DAG(s) dict_keys(['tutorial_taskflow_api_etl']) retrieved from /home/dev/curso/ambientevirtual/lib/python3.9/site-packages/airflow/example_dags/tutorial_taskflow_api_etl.py
+[2024-12-14 16:07:09,262] {logging_mixin.py:115} INFO - [2024-12-14 16:07:09,262] {dag.py:2379} INFO - Sync 1 DAGs
+[2024-12-14 16:07:09,285] {logging_mixin.py:115} INFO - [2024-12-14 16:07:09,285] {dag.py:2927} INFO - Setting next_dagrun for tutorial_taskflow_api_etl to None, run_after=None
+[2024-12-14 16:07:09,308] {processor.py:161} INFO - Processing /home/dev/curso/ambientevirtual/lib/python3.9/site-packages/airflow/example_dags/tutorial_taskflow_api_etl.py took 0.145 seconds
+[2024-12-14 16:07:46,576] {processor.py:153} INFO - Started process (PID=52104) to work on /home/dev/curso/ambientevirtual/lib/python3.9/site-packages/airflow/example_dags/tutorial_taskflow_api_etl.py
+[2024-12-14 16:07:46,577] {processor.py:641} INFO - Processing file /home/dev/curso/ambientevirtual/lib/python3.9/site-packages/airflow/example_dags/tutorial_taskflow_api_etl.py for tasks to queue
+[2024-12-14 16:07:46,577] {logging_mixin.py:115} INFO - [2024-12-14 16:07:46,577] {dagbag.py:507} INFO - Filling up the DagBag from /home/dev/curso/ambientevirtual/lib/python3.9/site-packages/airflow/example_dags/tutorial_taskflow_api_etl.py
+[2024-12-14 16:07:46,599] {processor.py:651} INFO - DAG(s) dict_keys(['tutorial_taskflow_api_etl']) retrieved from /home/dev/curso/ambientevirtual/lib/python3.9/site-packages/airflow/example_dags/tutorial_taskflow_api_etl.py
+[2024-12-14 16:07:46,618] {logging_mixin.py:115} INFO - [2024-12-14 16:07:46,618] {dag.py:2379} INFO - Sync 1 DAGs
+[2024-12-14 16:07:46,640] {logging_mixin.py:115} INFO - [2024-12-14 16:07:46,640] {dag.py:2927} INFO - Setting next_dagrun for tutorial_taskflow_api_etl to None, run_after=None
+[2024-12-14 16:07:46,656] {processor.py:161} INFO - Processing /home/dev/curso/ambientevirtual/lib/python3.9/site-packages/airflow/example_dags/tutorial_taskflow_api_etl.py took 0.084 seconds
+[2024-12-14 16:08:22,887] {processor.py:153} INFO - Started process (PID=52323) to work on /home/dev/curso/ambientevirtual/lib/python3.9/site-packages/airflow/example_dags/tutorial_taskflow_api_etl.py
+[2024-12-14 16:08:22,889] {processor.py:641} INFO - Processing file /home/dev/curso/ambientevirtual/lib/python3.9/site-packages/airflow/example_dags/tutorial_taskflow_api_etl.py for tasks to queue
+[2024-12-14 16:08:22,890] {logging_mixin.py:115} INFO - [2024-12-14 16:08:22,890] {dagbag.py:507} INFO - Filling up the DagBag from /home/dev/curso/ambientevirtual/lib/python3.9/site-packages/airflow/example_dags/tutorial_taskflow_api_etl.py
+[2024-12-14 16:08:22,921] {processor.py:651} INFO - DAG(s) dict_keys(['tutorial_taskflow_api_etl']) retrieved from /home/dev/curso/ambientevirtual/lib/python3.9/site-packages/airflow/example_dags/tutorial_taskflow_api_etl.py
+[2024-12-14 16:08:22,944] {logging_mixin.py:115} INFO - [2024-12-14 16:08:22,944] {dag.py:2379} INFO - Sync 1 DAGs
+[2024-12-14 16:08:22,964] {logging_mixin.py:115} INFO - [2024-12-14 16:08:22,964] {dag.py:2927} INFO - Setting next_dagrun for tutorial_taskflow_api_etl to None, run_after=None
+[2024-12-14 16:08:22,981] {processor.py:161} INFO - Processing /home/dev/curso/ambientevirtual/lib/python3.9/site-packages/airflow/example_dags/tutorial_taskflow_api_etl.py took 0.102 seconds
+[2024-12-14 16:08:59,431] {processor.py:153} INFO - Started process (PID=52602) to work on /home/dev/curso/ambientevirtual/lib/python3.9/site-packages/airflow/example_dags/tutorial_taskflow_api_etl.py
+[2024-12-14 16:08:59,432] {processor.py:641} INFO - Processing file /home/dev/curso/ambientevirtual/lib/python3.9/site-packages/airflow/example_dags/tutorial_taskflow_api_etl.py for tasks to queue
+[2024-12-14 16:08:59,434] {logging_mixin.py:115} INFO - [2024-12-14 16:08:59,433] {dagbag.py:507} INFO - Filling up the DagBag from /home/dev/curso/ambientevirtual/lib/python3.9/site-packages/airflow/example_dags/tutorial_taskflow_api_etl.py
+[2024-12-14 16:08:59,505] {processor.py:651} INFO - DAG(s) dict_keys(['tutorial_taskflow_api_etl']) retrieved from /home/dev/curso/ambientevirtual/lib/python3.9/site-packages/airflow/example_dags/tutorial_taskflow_api_etl.py
+[2024-12-14 16:08:59,699] {logging_mixin.py:115} INFO - [2024-12-14 16:08:59,699] {dag.py:2379} INFO - Sync 1 DAGs
+[2024-12-14 16:08:59,722] {logging_mixin.py:115} INFO - [2024-12-14 16:08:59,721] {dag.py:2927} INFO - Setting next_dagrun for tutorial_taskflow_api_etl to None, run_after=None
+[2024-12-14 16:08:59,739] {processor.py:161} INFO - Processing /home/dev/curso/ambientevirtual/lib/python3.9/site-packages/airflow/example_dags/tutorial_taskflow_api_etl.py took 0.312 seconds
+[2024-12-14 16:09:39,498] {processor.py:153} INFO - Started process (PID=52747) to work on /home/dev/curso/ambientevirtual/lib/python3.9/site-packages/airflow/example_dags/tutorial_taskflow_api_etl.py
+[2024-12-14 16:09:39,500] {processor.py:641} INFO - Processing file /home/dev/curso/ambientevirtual/lib/python3.9/site-packages/airflow/example_dags/tutorial_taskflow_api_etl.py for tasks to queue
+[2024-12-14 16:09:39,500] {logging_mixin.py:115} INFO - [2024-12-14 16:09:39,500] {dagbag.py:507} INFO - Filling up the DagBag from /home/dev/curso/ambientevirtual/lib/python3.9/site-packages/airflow/example_dags/tutorial_taskflow_api_etl.py
+[2024-12-14 16:09:39,521] {processor.py:651} INFO - DAG(s) dict_keys(['tutorial_taskflow_api_etl']) retrieved from /home/dev/curso/ambientevirtual/lib/python3.9/site-packages/airflow/example_dags/tutorial_taskflow_api_etl.py
+[2024-12-14 16:09:39,573] {logging_mixin.py:115} INFO - [2024-12-14 16:09:39,573] {dag.py:2379} INFO - Sync 1 DAGs
+[2024-12-14 16:09:39,592] {logging_mixin.py:115} INFO - [2024-12-14 16:09:39,592] {dag.py:2927} INFO - Setting next_dagrun for tutorial_taskflow_api_etl to None, run_after=None
+[2024-12-14 16:09:39,609] {processor.py:161} INFO - Processing /home/dev/curso/ambientevirtual/lib/python3.9/site-packages/airflow/example_dags/tutorial_taskflow_api_etl.py took 0.115 seconds
+[2024-12-14 16:10:14,813] {processor.py:153} INFO - Started process (PID=52877) to work on /home/dev/curso/ambientevirtual/lib/python3.9/site-packages/airflow/example_dags/tutorial_taskflow_api_etl.py
+[2024-12-14 16:10:14,815] {processor.py:641} INFO - Processing file /home/dev/curso/ambientevirtual/lib/python3.9/site-packages/airflow/example_dags/tutorial_taskflow_api_etl.py for tasks to queue
+[2024-12-14 16:10:14,816] {logging_mixin.py:115} INFO - [2024-12-14 16:10:14,815] {dagbag.py:507} INFO - Filling up the DagBag from /home/dev/curso/ambientevirtual/lib/python3.9/site-packages/airflow/example_dags/tutorial_taskflow_api_etl.py
+[2024-12-14 16:10:14,847] {processor.py:651} INFO - DAG(s) dict_keys(['tutorial_taskflow_api_etl']) retrieved from /home/dev/curso/ambientevirtual/lib/python3.9/site-packages/airflow/example_dags/tutorial_taskflow_api_etl.py
+[2024-12-14 16:10:14,899] {logging_mixin.py:115} INFO - [2024-12-14 16:10:14,899] {dag.py:2379} INFO - Sync 1 DAGs
+[2024-12-14 16:10:14,919] {logging_mixin.py:115} INFO - [2024-12-14 16:10:14,919] {dag.py:2927} INFO - Setting next_dagrun for tutorial_taskflow_api_etl to None, run_after=None
+[2024-12-14 16:10:14,946] {processor.py:161} INFO - Processing /home/dev/curso/ambientevirtual/lib/python3.9/site-packages/airflow/example_dags/tutorial_taskflow_api_etl.py took 0.139 seconds
+[2024-12-14 16:10:55,711] {processor.py:153} INFO - Started process (PID=53145) to work on /home/dev/curso/ambientevirtual/lib/python3.9/site-packages/airflow/example_dags/tutorial_taskflow_api_etl.py
+[2024-12-14 16:10:55,713] {processor.py:641} INFO - Processing file /home/dev/curso/ambientevirtual/lib/python3.9/site-packages/airflow/example_dags/tutorial_taskflow_api_etl.py for tasks to queue
+[2024-12-14 16:10:55,714] {logging_mixin.py:115} INFO - [2024-12-14 16:10:55,714] {dagbag.py:507} INFO - Filling up the DagBag from /home/dev/curso/ambientevirtual/lib/python3.9/site-packages/airflow/example_dags/tutorial_taskflow_api_etl.py
+[2024-12-14 16:10:55,738] {processor.py:651} INFO - DAG(s) dict_keys(['tutorial_taskflow_api_etl']) retrieved from /home/dev/curso/ambientevirtual/lib/python3.9/site-packages/airflow/example_dags/tutorial_taskflow_api_etl.py
+[2024-12-14 16:10:55,757] {logging_mixin.py:115} INFO - [2024-12-14 16:10:55,757] {dag.py:2379} INFO - Sync 1 DAGs
+[2024-12-14 16:10:55,776] {logging_mixin.py:115} INFO - [2024-12-14 16:10:55,776] {dag.py:2927} INFO - Setting next_dagrun for tutorial_taskflow_api_etl to None, run_after=None
+[2024-12-14 16:10:55,792] {processor.py:161} INFO - Processing /home/dev/curso/ambientevirtual/lib/python3.9/site-packages/airflow/example_dags/tutorial_taskflow_api_etl.py took 0.087 seconds
+[2024-12-14 16:11:29,913] {processor.py:153} INFO - Started process (PID=53269) to work on /home/dev/curso/ambientevirtual/lib/python3.9/site-packages/airflow/example_dags/tutorial_taskflow_api_etl.py
+[2024-12-14 16:11:29,913] {processor.py:641} INFO - Processing file /home/dev/curso/ambientevirtual/lib/python3.9/site-packages/airflow/example_dags/tutorial_taskflow_api_etl.py for tasks to queue
+[2024-12-14 16:11:29,914] {logging_mixin.py:115} INFO - [2024-12-14 16:11:29,914] {dagbag.py:507} INFO - Filling up the DagBag from /home/dev/curso/ambientevirtual/lib/python3.9/site-packages/airflow/example_dags/tutorial_taskflow_api_etl.py
+[2024-12-14 16:11:29,938] {processor.py:651} INFO - DAG(s) dict_keys(['tutorial_taskflow_api_etl']) retrieved from /home/dev/curso/ambientevirtual/lib/python3.9/site-packages/airflow/example_dags/tutorial_taskflow_api_etl.py
+[2024-12-14 16:11:30,033] {logging_mixin.py:115} INFO - [2024-12-14 16:11:30,033] {dag.py:2379} INFO - Sync 1 DAGs
+[2024-12-14 16:11:30,083] {logging_mixin.py:115} INFO - [2024-12-14 16:11:30,082] {dag.py:2927} INFO - Setting next_dagrun for tutorial_taskflow_api_etl to None, run_after=None
+[2024-12-14 16:11:30,104] {processor.py:161} INFO - Processing /home/dev/curso/ambientevirtual/lib/python3.9/site-packages/airflow/example_dags/tutorial_taskflow_api_etl.py took 0.197 seconds

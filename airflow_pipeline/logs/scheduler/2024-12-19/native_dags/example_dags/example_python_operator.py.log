@@ -1,0 +1,8 @@
+[2024-12-19 20:51:02,865] {processor.py:153} INFO - Started process (PID=3552) to work on /home/dev/curso/ambientevirtual/lib/python3.9/site-packages/airflow/example_dags/example_python_operator.py
+[2024-12-19 20:51:02,866] {processor.py:641} INFO - Processing file /home/dev/curso/ambientevirtual/lib/python3.9/site-packages/airflow/example_dags/example_python_operator.py for tasks to queue
+[2024-12-19 20:51:02,866] {logging_mixin.py:115} INFO - [2024-12-19 20:51:02,866] {dagbag.py:507} INFO - Filling up the DagBag from /home/dev/curso/ambientevirtual/lib/python3.9/site-packages/airflow/example_dags/example_python_operator.py
+[2024-12-19 20:51:02,918] {logging_mixin.py:115} INFO - [2024-12-19 20:51:02,918] {example_python_operator.py:68} WARNING - The virtalenv_python example task requires virtualenv, please install it.
+[2024-12-19 20:51:02,919] {processor.py:651} INFO - DAG(s) dict_keys(['example_python_operator']) retrieved from /home/dev/curso/ambientevirtual/lib/python3.9/site-packages/airflow/example_dags/example_python_operator.py
+[2024-12-19 20:51:02,941] {logging_mixin.py:115} INFO - [2024-12-19 20:51:02,940] {dag.py:2379} INFO - Sync 1 DAGs
+[2024-12-19 20:51:02,965] {logging_mixin.py:115} INFO - [2024-12-19 20:51:02,965] {dag.py:2927} INFO - Setting next_dagrun for example_python_operator to None, run_after=None
+[2024-12-19 20:51:02,984] {processor.py:161} INFO - Processing /home/dev/curso/ambientevirtual/lib/python3.9/site-packages/airflow/example_dags/example_python_operator.py took 0.122 seconds

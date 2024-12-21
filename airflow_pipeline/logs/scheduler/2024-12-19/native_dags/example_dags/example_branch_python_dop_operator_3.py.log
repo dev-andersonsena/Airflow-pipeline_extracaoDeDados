@@ -1,0 +1,14 @@
+[2024-12-19 20:50:45,757] {processor.py:153} INFO - Started process (PID=3340) to work on /home/dev/curso/ambientevirtual/lib/python3.9/site-packages/airflow/example_dags/example_branch_python_dop_operator_3.py
+[2024-12-19 20:50:45,758] {processor.py:641} INFO - Processing file /home/dev/curso/ambientevirtual/lib/python3.9/site-packages/airflow/example_dags/example_branch_python_dop_operator_3.py for tasks to queue
+[2024-12-19 20:50:45,760] {logging_mixin.py:115} INFO - [2024-12-19 20:50:45,759] {dagbag.py:507} INFO - Filling up the DagBag from /home/dev/curso/ambientevirtual/lib/python3.9/site-packages/airflow/example_dags/example_branch_python_dop_operator_3.py
+[2024-12-19 20:50:45,778] {processor.py:651} INFO - DAG(s) dict_keys(['example_branch_dop_operator_v3']) retrieved from /home/dev/curso/ambientevirtual/lib/python3.9/site-packages/airflow/example_dags/example_branch_python_dop_operator_3.py
+[2024-12-19 20:50:45,811] {logging_mixin.py:115} INFO - [2024-12-19 20:50:45,811] {dag.py:2379} INFO - Sync 1 DAGs
+[2024-12-19 20:50:45,854] {logging_mixin.py:115} INFO - [2024-12-19 20:50:45,854] {dag.py:2927} INFO - Setting next_dagrun for example_branch_dop_operator_v3 to 2024-12-19T23:49:00+00:00, run_after=2024-12-19T23:50:00+00:00
+[2024-12-19 20:50:45,875] {processor.py:161} INFO - Processing /home/dev/curso/ambientevirtual/lib/python3.9/site-packages/airflow/example_dags/example_branch_python_dop_operator_3.py took 0.122 seconds
+[2024-12-19 20:51:53,109] {processor.py:153} INFO - Started process (PID=3969) to work on /home/dev/curso/ambientevirtual/lib/python3.9/site-packages/airflow/example_dags/example_branch_python_dop_operator_3.py
+[2024-12-19 20:51:53,110] {processor.py:641} INFO - Processing file /home/dev/curso/ambientevirtual/lib/python3.9/site-packages/airflow/example_dags/example_branch_python_dop_operator_3.py for tasks to queue
+[2024-12-19 20:51:53,111] {logging_mixin.py:115} INFO - [2024-12-19 20:51:53,110] {dagbag.py:507} INFO - Filling up the DagBag from /home/dev/curso/ambientevirtual/lib/python3.9/site-packages/airflow/example_dags/example_branch_python_dop_operator_3.py
+[2024-12-19 20:51:53,123] {processor.py:651} INFO - DAG(s) dict_keys(['example_branch_dop_operator_v3']) retrieved from /home/dev/curso/ambientevirtual/lib/python3.9/site-packages/airflow/example_dags/example_branch_python_dop_operator_3.py
+[2024-12-19 20:51:53,146] {logging_mixin.py:115} INFO - [2024-12-19 20:51:53,146] {dag.py:2379} INFO - Sync 1 DAGs
+[2024-12-19 20:51:53,176] {logging_mixin.py:115} INFO - [2024-12-19 20:51:53,176] {dag.py:2927} INFO - Setting next_dagrun for example_branch_dop_operator_v3 to 2024-12-19T23:50:00+00:00, run_after=2024-12-19T23:51:00+00:00
+[2024-12-19 20:51:53,195] {processor.py:161} INFO - Processing /home/dev/curso/ambientevirtual/lib/python3.9/site-packages/airflow/example_dags/example_branch_python_dop_operator_3.py took 0.090 seconds

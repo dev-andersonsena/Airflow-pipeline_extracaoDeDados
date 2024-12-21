@@ -1,0 +1,14 @@
+[2024-12-19 20:50:51,473] {processor.py:153} INFO - Started process (PID=3401) to work on /home/dev/curso/ambientevirtual/lib/python3.9/site-packages/airflow/example_dags/example_complex.py
+[2024-12-19 20:50:51,474] {processor.py:641} INFO - Processing file /home/dev/curso/ambientevirtual/lib/python3.9/site-packages/airflow/example_dags/example_complex.py for tasks to queue
+[2024-12-19 20:50:51,474] {logging_mixin.py:115} INFO - [2024-12-19 20:50:51,474] {dagbag.py:507} INFO - Filling up the DagBag from /home/dev/curso/ambientevirtual/lib/python3.9/site-packages/airflow/example_dags/example_complex.py
+[2024-12-19 20:50:51,488] {processor.py:651} INFO - DAG(s) dict_keys(['example_complex']) retrieved from /home/dev/curso/ambientevirtual/lib/python3.9/site-packages/airflow/example_dags/example_complex.py
+[2024-12-19 20:50:51,511] {logging_mixin.py:115} INFO - [2024-12-19 20:50:51,511] {dag.py:2379} INFO - Sync 1 DAGs
+[2024-12-19 20:50:51,530] {logging_mixin.py:115} INFO - [2024-12-19 20:50:51,530] {dag.py:2927} INFO - Setting next_dagrun for example_complex to None, run_after=None
+[2024-12-19 20:50:51,546] {processor.py:161} INFO - Processing /home/dev/curso/ambientevirtual/lib/python3.9/site-packages/airflow/example_dags/example_complex.py took 0.076 seconds
+[2024-12-19 20:51:58,874] {processor.py:153} INFO - Started process (PID=3997) to work on /home/dev/curso/ambientevirtual/lib/python3.9/site-packages/airflow/example_dags/example_complex.py
+[2024-12-19 20:51:58,875] {processor.py:641} INFO - Processing file /home/dev/curso/ambientevirtual/lib/python3.9/site-packages/airflow/example_dags/example_complex.py for tasks to queue
+[2024-12-19 20:51:58,876] {logging_mixin.py:115} INFO - [2024-12-19 20:51:58,876] {dagbag.py:507} INFO - Filling up the DagBag from /home/dev/curso/ambientevirtual/lib/python3.9/site-packages/airflow/example_dags/example_complex.py
+[2024-12-19 20:51:58,889] {processor.py:651} INFO - DAG(s) dict_keys(['example_complex']) retrieved from /home/dev/curso/ambientevirtual/lib/python3.9/site-packages/airflow/example_dags/example_complex.py
+[2024-12-19 20:51:58,914] {logging_mixin.py:115} INFO - [2024-12-19 20:51:58,913] {dag.py:2379} INFO - Sync 1 DAGs
+[2024-12-19 20:51:58,933] {logging_mixin.py:115} INFO - [2024-12-19 20:51:58,933] {dag.py:2927} INFO - Setting next_dagrun for example_complex to None, run_after=None
+[2024-12-19 20:51:58,949] {processor.py:161} INFO - Processing /home/dev/curso/ambientevirtual/lib/python3.9/site-packages/airflow/example_dags/example_complex.py took 0.079 seconds
