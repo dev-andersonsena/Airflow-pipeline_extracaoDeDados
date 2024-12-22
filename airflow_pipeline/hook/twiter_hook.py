@@ -8,7 +8,7 @@ class TwiterHook(HttpHook):
         self.query = query
         self.start_time = start_time 
         self.end_time = end_time  
-        self.conn_id = conn_id or "connection"
+        self.conn_id = conn_id or "conexao"
         super().__init__(http_conn_id=self.conn_id)
 
     def create_url(self):
