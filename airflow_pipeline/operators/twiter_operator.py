@@ -1,11 +1,13 @@
 from airflow.models import BaseOperator, DAG, TaskInstance
-from airflow_pipeline.hook.twiter_hook import TwiterHook # Importação absoluta
-import json
+from airflow_pipeline.hook.twiter_hook import TwiterHook # Importação absolutaimport json
 from datetime import datetime, timedelta 
 from os.path import join
 from pathlib import Path 
+import json
 
 class TwitterOperator(BaseOperator):
+
+    template_fields = ["query", "file_path", "start_time", "end_time"]
 
     def __init__(self, file_path, end_time, start_time, query, **kwargs):
         self.end_time = end_time
