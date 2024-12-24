@@ -1,0 +1,11 @@
+[2024-12-23 19:05:51,890] {processor.py:153} INFO - Started process (PID=689529) to work on /home/dev/curso/ambientevirtual/lib/python3.9/site-packages/airflow/example_dags/example_skip_dag.py
+[2024-12-23 19:05:51,891] {processor.py:641} INFO - Processing file /home/dev/curso/ambientevirtual/lib/python3.9/site-packages/airflow/example_dags/example_skip_dag.py for tasks to queue
+[2024-12-23 19:05:51,891] {logging_mixin.py:115} INFO - [2024-12-23 19:05:51,891] {dagbag.py:507} INFO - Filling up the DagBag from /home/dev/curso/ambientevirtual/lib/python3.9/site-packages/airflow/example_dags/example_skip_dag.py
+[2024-12-23 19:05:51,899] {processor.py:651} INFO - DAG(s) dict_keys(['example_skip_dag']) retrieved from /home/dev/curso/ambientevirtual/lib/python3.9/site-packages/airflow/example_dags/example_skip_dag.py
+[2024-12-23 19:05:51,986] {logging_mixin.py:115} INFO - [2024-12-23 19:05:51,986] {manager.py:508} INFO - Created Permission View: can read on DAG:example_skip_dag
+[2024-12-23 19:05:52,000] {logging_mixin.py:115} INFO - [2024-12-23 19:05:52,000] {manager.py:508} INFO - Created Permission View: can edit on DAG:example_skip_dag
+[2024-12-23 19:05:52,013] {logging_mixin.py:115} INFO - [2024-12-23 19:05:52,013] {manager.py:508} INFO - Created Permission View: can delete on DAG:example_skip_dag
+[2024-12-23 19:05:52,014] {logging_mixin.py:115} INFO - [2024-12-23 19:05:52,014] {dag.py:2379} INFO - Sync 1 DAGs
+[2024-12-23 19:05:52,023] {logging_mixin.py:115} INFO - [2024-12-23 19:05:52,023] {dag.py:2398} INFO - Creating ORM DAG for example_skip_dag
+[2024-12-23 19:05:52,035] {logging_mixin.py:115} INFO - [2024-12-23 19:05:52,034] {dag.py:2927} INFO - Setting next_dagrun for example_skip_dag to 2024-12-22T22:05:52.034568+00:00, run_after=2024-12-23T22:05:52.034568+00:00
+[2024-12-23 19:05:52,057] {processor.py:161} INFO - Processing /home/dev/curso/ambientevirtual/lib/python3.9/site-packages/airflow/example_dags/example_skip_dag.py took 0.171 seconds

@@ -1,0 +1,11 @@
+[2024-12-23 19:05:46,366] {processor.py:153} INFO - Started process (PID=689440) to work on /home/dev/curso/ambientevirtual/lib/python3.9/site-packages/airflow/example_dags/example_latest_only.py
+[2024-12-23 19:05:46,367] {processor.py:641} INFO - Processing file /home/dev/curso/ambientevirtual/lib/python3.9/site-packages/airflow/example_dags/example_latest_only.py for tasks to queue
+[2024-12-23 19:05:46,368] {logging_mixin.py:115} INFO - [2024-12-23 19:05:46,368] {dagbag.py:507} INFO - Filling up the DagBag from /home/dev/curso/ambientevirtual/lib/python3.9/site-packages/airflow/example_dags/example_latest_only.py
+[2024-12-23 19:05:46,376] {processor.py:651} INFO - DAG(s) dict_keys(['latest_only']) retrieved from /home/dev/curso/ambientevirtual/lib/python3.9/site-packages/airflow/example_dags/example_latest_only.py
+[2024-12-23 19:05:46,473] {logging_mixin.py:115} INFO - [2024-12-23 19:05:46,473] {manager.py:508} INFO - Created Permission View: can read on DAG:latest_only
+[2024-12-23 19:05:46,501] {logging_mixin.py:115} INFO - [2024-12-23 19:05:46,501] {manager.py:508} INFO - Created Permission View: can edit on DAG:latest_only
+[2024-12-23 19:05:46,513] {logging_mixin.py:115} INFO - [2024-12-23 19:05:46,513] {manager.py:508} INFO - Created Permission View: can delete on DAG:latest_only
+[2024-12-23 19:05:46,513] {logging_mixin.py:115} INFO - [2024-12-23 19:05:46,513] {dag.py:2379} INFO - Sync 1 DAGs
+[2024-12-23 19:05:46,522] {logging_mixin.py:115} INFO - [2024-12-23 19:05:46,522] {dag.py:2398} INFO - Creating ORM DAG for latest_only
+[2024-12-23 19:05:46,535] {logging_mixin.py:115} INFO - [2024-12-23 19:05:46,535] {dag.py:2927} INFO - Setting next_dagrun for latest_only to 2024-12-23T18:05:46.535280+00:00, run_after=2024-12-23T22:05:46.535280+00:00
+[2024-12-23 19:05:46,554] {processor.py:161} INFO - Processing /home/dev/curso/ambientevirtual/lib/python3.9/site-packages/airflow/example_dags/example_latest_only.py took 0.193 seconds

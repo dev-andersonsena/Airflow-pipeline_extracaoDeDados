@@ -1,0 +1,5 @@
+[2024-12-23 19:06:02,083] {processor.py:153} INFO - Started process (PID=689632) to work on /home/dev/curso/ambientevirtual/lib/python3.9/site-packages/airflow/example_dags/plugins/workday.py
+[2024-12-23 19:06:02,084] {processor.py:641} INFO - Processing file /home/dev/curso/ambientevirtual/lib/python3.9/site-packages/airflow/example_dags/plugins/workday.py for tasks to queue
+[2024-12-23 19:06:02,084] {logging_mixin.py:115} INFO - [2024-12-23 19:06:02,084] {dagbag.py:507} INFO - Filling up the DagBag from /home/dev/curso/ambientevirtual/lib/python3.9/site-packages/airflow/example_dags/plugins/workday.py
+[2024-12-23 19:06:02,089] {processor.py:653} WARNING - No viable dags retrieved from /home/dev/curso/ambientevirtual/lib/python3.9/site-packages/airflow/example_dags/plugins/workday.py
+[2024-12-23 19:06:02,105] {processor.py:161} INFO - Processing /home/dev/curso/ambientevirtual/lib/python3.9/site-packages/airflow/example_dags/plugins/workday.py took 0.028 seconds

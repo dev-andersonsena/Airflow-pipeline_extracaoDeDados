@@ -1,0 +1,11 @@
+[2024-12-23 19:05:49,118] {processor.py:153} INFO - Started process (PID=689484) to work on /home/dev/curso/ambientevirtual/lib/python3.9/site-packages/airflow/example_dags/example_task_group_decorator.py
+[2024-12-23 19:05:49,119] {processor.py:641} INFO - Processing file /home/dev/curso/ambientevirtual/lib/python3.9/site-packages/airflow/example_dags/example_task_group_decorator.py for tasks to queue
+[2024-12-23 19:05:49,119] {logging_mixin.py:115} INFO - [2024-12-23 19:05:49,119] {dagbag.py:507} INFO - Filling up the DagBag from /home/dev/curso/ambientevirtual/lib/python3.9/site-packages/airflow/example_dags/example_task_group_decorator.py
+[2024-12-23 19:05:49,169] {processor.py:651} INFO - DAG(s) dict_keys(['example_task_group_decorator']) retrieved from /home/dev/curso/ambientevirtual/lib/python3.9/site-packages/airflow/example_dags/example_task_group_decorator.py
+[2024-12-23 19:05:49,279] {logging_mixin.py:115} INFO - [2024-12-23 19:05:49,279] {manager.py:508} INFO - Created Permission View: can read on DAG:example_task_group_decorator
+[2024-12-23 19:05:49,298] {logging_mixin.py:115} INFO - [2024-12-23 19:05:49,298] {manager.py:508} INFO - Created Permission View: can edit on DAG:example_task_group_decorator
+[2024-12-23 19:05:49,319] {logging_mixin.py:115} INFO - [2024-12-23 19:05:49,319] {manager.py:508} INFO - Created Permission View: can delete on DAG:example_task_group_decorator
+[2024-12-23 19:05:49,319] {logging_mixin.py:115} INFO - [2024-12-23 19:05:49,319] {dag.py:2379} INFO - Sync 1 DAGs
+[2024-12-23 19:05:49,335] {logging_mixin.py:115} INFO - [2024-12-23 19:05:49,335] {dag.py:2398} INFO - Creating ORM DAG for example_task_group_decorator
+[2024-12-23 19:05:49,354] {logging_mixin.py:115} INFO - [2024-12-23 19:05:49,354] {dag.py:2927} INFO - Setting next_dagrun for example_task_group_decorator to 2024-12-22T22:05:49.353631+00:00, run_after=2024-12-23T22:05:49.353631+00:00
+[2024-12-23 19:05:49,414] {processor.py:161} INFO - Processing /home/dev/curso/ambientevirtual/lib/python3.9/site-packages/airflow/example_dags/example_task_group_decorator.py took 0.300 seconds

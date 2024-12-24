@@ -1,0 +1,24 @@
+[2024-12-23 19:05:24,732] {processor.py:153} INFO - Started process (PID=689118) to work on /home/dev/curso/ambientevirtual/lib/python3.9/site-packages/airflow/example_dags/example_xcomargs.py
+[2024-12-23 19:05:24,733] {processor.py:641} INFO - Processing file /home/dev/curso/ambientevirtual/lib/python3.9/site-packages/airflow/example_dags/example_xcomargs.py for tasks to queue
+[2024-12-23 19:05:24,733] {logging_mixin.py:115} INFO - [2024-12-23 19:05:24,733] {dagbag.py:507} INFO - Filling up the DagBag from /home/dev/curso/ambientevirtual/lib/python3.9/site-packages/airflow/example_dags/example_xcomargs.py
+[2024-12-23 19:05:24,808] {processor.py:651} INFO - DAG(s) dict_keys(['example_xcom_args', 'example_xcom_args_with_operators']) retrieved from /home/dev/curso/ambientevirtual/lib/python3.9/site-packages/airflow/example_dags/example_xcomargs.py
+[2024-12-23 19:05:25,045] {logging_mixin.py:115} INFO - [2024-12-23 19:05:25,045] {manager.py:508} INFO - Created Permission View: can read on DAG:example_xcom_args
+[2024-12-23 19:05:25,094] {logging_mixin.py:115} INFO - [2024-12-23 19:05:25,094] {manager.py:508} INFO - Created Permission View: can edit on DAG:example_xcom_args
+[2024-12-23 19:05:25,120] {logging_mixin.py:115} INFO - [2024-12-23 19:05:25,120] {manager.py:508} INFO - Created Permission View: can delete on DAG:example_xcom_args
+[2024-12-23 19:05:25,167] {logging_mixin.py:115} INFO - [2024-12-23 19:05:25,167] {manager.py:508} INFO - Created Permission View: can read on DAG:example_xcom_args_with_operators
+[2024-12-23 19:05:25,179] {logging_mixin.py:115} INFO - [2024-12-23 19:05:25,179] {manager.py:508} INFO - Created Permission View: can edit on DAG:example_xcom_args_with_operators
+[2024-12-23 19:05:25,226] {logging_mixin.py:115} INFO - [2024-12-23 19:05:25,226] {manager.py:508} INFO - Created Permission View: can delete on DAG:example_xcom_args_with_operators
+[2024-12-23 19:05:25,227] {logging_mixin.py:115} INFO - [2024-12-23 19:05:25,227] {dag.py:2379} INFO - Sync 2 DAGs
+[2024-12-23 19:05:25,257] {logging_mixin.py:115} INFO - [2024-12-23 19:05:25,257] {dag.py:2398} INFO - Creating ORM DAG for example_xcom_args_with_operators
+[2024-12-23 19:05:25,269] {logging_mixin.py:115} INFO - [2024-12-23 19:05:25,269] {dag.py:2398} INFO - Creating ORM DAG for example_xcom_args
+[2024-12-23 19:05:25,303] {logging_mixin.py:115} INFO - [2024-12-23 19:05:25,303] {dag.py:2927} INFO - Setting next_dagrun for example_xcom_args to None, run_after=None
+[2024-12-23 19:05:25,304] {logging_mixin.py:115} INFO - [2024-12-23 19:05:25,304] {dag.py:2927} INFO - Setting next_dagrun for example_xcom_args_with_operators to None, run_after=None
+[2024-12-23 19:05:25,381] {processor.py:161} INFO - Processing /home/dev/curso/ambientevirtual/lib/python3.9/site-packages/airflow/example_dags/example_xcomargs.py took 0.655 seconds
+[2024-12-23 19:06:04,850] {processor.py:153} INFO - Started process (PID=689641) to work on /home/dev/curso/ambientevirtual/lib/python3.9/site-packages/airflow/example_dags/example_xcomargs.py
+[2024-12-23 19:06:04,851] {processor.py:641} INFO - Processing file /home/dev/curso/ambientevirtual/lib/python3.9/site-packages/airflow/example_dags/example_xcomargs.py for tasks to queue
+[2024-12-23 19:06:04,852] {logging_mixin.py:115} INFO - [2024-12-23 19:06:04,852] {dagbag.py:507} INFO - Filling up the DagBag from /home/dev/curso/ambientevirtual/lib/python3.9/site-packages/airflow/example_dags/example_xcomargs.py
+[2024-12-23 19:06:04,875] {processor.py:651} INFO - DAG(s) dict_keys(['example_xcom_args', 'example_xcom_args_with_operators']) retrieved from /home/dev/curso/ambientevirtual/lib/python3.9/site-packages/airflow/example_dags/example_xcomargs.py
+[2024-12-23 19:06:04,929] {logging_mixin.py:115} INFO - [2024-12-23 19:06:04,929] {dag.py:2379} INFO - Sync 2 DAGs
+[2024-12-23 19:06:04,948] {logging_mixin.py:115} INFO - [2024-12-23 19:06:04,948] {dag.py:2927} INFO - Setting next_dagrun for example_xcom_args to None, run_after=None
+[2024-12-23 19:06:04,948] {logging_mixin.py:115} INFO - [2024-12-23 19:06:04,948] {dag.py:2927} INFO - Setting next_dagrun for example_xcom_args_with_operators to None, run_after=None
+[2024-12-23 19:06:04,967] {processor.py:161} INFO - Processing /home/dev/curso/ambientevirtual/lib/python3.9/site-packages/airflow/example_dags/example_xcomargs.py took 0.121 seconds

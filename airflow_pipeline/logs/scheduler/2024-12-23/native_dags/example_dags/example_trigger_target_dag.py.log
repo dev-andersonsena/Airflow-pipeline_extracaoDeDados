@@ -1,0 +1,18 @@
+[2024-12-23 19:05:29,310] {processor.py:153} INFO - Started process (PID=689220) to work on /home/dev/curso/ambientevirtual/lib/python3.9/site-packages/airflow/example_dags/example_trigger_target_dag.py
+[2024-12-23 19:05:29,311] {processor.py:641} INFO - Processing file /home/dev/curso/ambientevirtual/lib/python3.9/site-packages/airflow/example_dags/example_trigger_target_dag.py for tasks to queue
+[2024-12-23 19:05:29,312] {logging_mixin.py:115} INFO - [2024-12-23 19:05:29,312] {dagbag.py:507} INFO - Filling up the DagBag from /home/dev/curso/ambientevirtual/lib/python3.9/site-packages/airflow/example_dags/example_trigger_target_dag.py
+[2024-12-23 19:05:29,372] {processor.py:651} INFO - DAG(s) dict_keys(['example_trigger_target_dag']) retrieved from /home/dev/curso/ambientevirtual/lib/python3.9/site-packages/airflow/example_dags/example_trigger_target_dag.py
+[2024-12-23 19:05:29,587] {logging_mixin.py:115} INFO - [2024-12-23 19:05:29,587] {manager.py:508} INFO - Created Permission View: can read on DAG:example_trigger_target_dag
+[2024-12-23 19:05:29,636] {logging_mixin.py:115} INFO - [2024-12-23 19:05:29,636] {manager.py:508} INFO - Created Permission View: can edit on DAG:example_trigger_target_dag
+[2024-12-23 19:05:29,661] {logging_mixin.py:115} INFO - [2024-12-23 19:05:29,661] {manager.py:508} INFO - Created Permission View: can delete on DAG:example_trigger_target_dag
+[2024-12-23 19:05:29,661] {logging_mixin.py:115} INFO - [2024-12-23 19:05:29,661] {dag.py:2379} INFO - Sync 1 DAGs
+[2024-12-23 19:05:29,681] {logging_mixin.py:115} INFO - [2024-12-23 19:05:29,681] {dag.py:2398} INFO - Creating ORM DAG for example_trigger_target_dag
+[2024-12-23 19:05:29,695] {logging_mixin.py:115} INFO - [2024-12-23 19:05:29,695] {dag.py:2927} INFO - Setting next_dagrun for example_trigger_target_dag to None, run_after=None
+[2024-12-23 19:05:29,745] {processor.py:161} INFO - Processing /home/dev/curso/ambientevirtual/lib/python3.9/site-packages/airflow/example_dags/example_trigger_target_dag.py took 0.438 seconds
+[2024-12-23 19:06:08,386] {processor.py:153} INFO - Started process (PID=689745) to work on /home/dev/curso/ambientevirtual/lib/python3.9/site-packages/airflow/example_dags/example_trigger_target_dag.py
+[2024-12-23 19:06:08,388] {processor.py:641} INFO - Processing file /home/dev/curso/ambientevirtual/lib/python3.9/site-packages/airflow/example_dags/example_trigger_target_dag.py for tasks to queue
+[2024-12-23 19:06:08,389] {logging_mixin.py:115} INFO - [2024-12-23 19:06:08,389] {dagbag.py:507} INFO - Filling up the DagBag from /home/dev/curso/ambientevirtual/lib/python3.9/site-packages/airflow/example_dags/example_trigger_target_dag.py
+[2024-12-23 19:06:08,409] {processor.py:651} INFO - DAG(s) dict_keys(['example_trigger_target_dag']) retrieved from /home/dev/curso/ambientevirtual/lib/python3.9/site-packages/airflow/example_dags/example_trigger_target_dag.py
+[2024-12-23 19:06:08,435] {logging_mixin.py:115} INFO - [2024-12-23 19:06:08,434] {dag.py:2379} INFO - Sync 1 DAGs
+[2024-12-23 19:06:08,461] {logging_mixin.py:115} INFO - [2024-12-23 19:06:08,460] {dag.py:2927} INFO - Setting next_dagrun for example_trigger_target_dag to None, run_after=None
+[2024-12-23 19:06:08,481] {processor.py:161} INFO - Processing /home/dev/curso/ambientevirtual/lib/python3.9/site-packages/airflow/example_dags/example_trigger_target_dag.py took 0.100 seconds

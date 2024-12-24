@@ -1,0 +1,11 @@
+[2024-12-23 19:05:52,370] {processor.py:153} INFO - Started process (PID=689530) to work on /home/dev/curso/ambientevirtual/lib/python3.9/site-packages/airflow/example_dags/example_latest_only_with_trigger.py
+[2024-12-23 19:05:52,371] {processor.py:641} INFO - Processing file /home/dev/curso/ambientevirtual/lib/python3.9/site-packages/airflow/example_dags/example_latest_only_with_trigger.py for tasks to queue
+[2024-12-23 19:05:52,372] {logging_mixin.py:115} INFO - [2024-12-23 19:05:52,372] {dagbag.py:507} INFO - Filling up the DagBag from /home/dev/curso/ambientevirtual/lib/python3.9/site-packages/airflow/example_dags/example_latest_only_with_trigger.py
+[2024-12-23 19:05:52,379] {processor.py:651} INFO - DAG(s) dict_keys(['latest_only_with_trigger']) retrieved from /home/dev/curso/ambientevirtual/lib/python3.9/site-packages/airflow/example_dags/example_latest_only_with_trigger.py
+[2024-12-23 19:05:52,464] {logging_mixin.py:115} INFO - [2024-12-23 19:05:52,464] {manager.py:508} INFO - Created Permission View: can read on DAG:latest_only_with_trigger
+[2024-12-23 19:05:52,480] {logging_mixin.py:115} INFO - [2024-12-23 19:05:52,479] {manager.py:508} INFO - Created Permission View: can edit on DAG:latest_only_with_trigger
+[2024-12-23 19:05:52,492] {logging_mixin.py:115} INFO - [2024-12-23 19:05:52,492] {manager.py:508} INFO - Created Permission View: can delete on DAG:latest_only_with_trigger
+[2024-12-23 19:05:52,492] {logging_mixin.py:115} INFO - [2024-12-23 19:05:52,492] {dag.py:2379} INFO - Sync 1 DAGs
+[2024-12-23 19:05:52,506] {logging_mixin.py:115} INFO - [2024-12-23 19:05:52,506] {dag.py:2398} INFO - Creating ORM DAG for latest_only_with_trigger
+[2024-12-23 19:05:52,519] {logging_mixin.py:115} INFO - [2024-12-23 19:05:52,519] {dag.py:2927} INFO - Setting next_dagrun for latest_only_with_trigger to 2024-12-23T18:05:52.519238+00:00, run_after=2024-12-23T22:05:52.519238+00:00
+[2024-12-23 19:05:52,571] {processor.py:161} INFO - Processing /home/dev/curso/ambientevirtual/lib/python3.9/site-packages/airflow/example_dags/example_latest_only_with_trigger.py took 0.204 seconds

@@ -1,0 +1,11 @@
+[2024-12-23 19:05:47,602] {processor.py:153} INFO - Started process (PID=689449) to work on /home/dev/curso/ambientevirtual/lib/python3.9/site-packages/airflow/example_dags/example_passing_params_via_test_command.py
+[2024-12-23 19:05:47,603] {processor.py:641} INFO - Processing file /home/dev/curso/ambientevirtual/lib/python3.9/site-packages/airflow/example_dags/example_passing_params_via_test_command.py for tasks to queue
+[2024-12-23 19:05:47,605] {logging_mixin.py:115} INFO - [2024-12-23 19:05:47,604] {dagbag.py:507} INFO - Filling up the DagBag from /home/dev/curso/ambientevirtual/lib/python3.9/site-packages/airflow/example_dags/example_passing_params_via_test_command.py
+[2024-12-23 19:05:47,637] {processor.py:651} INFO - DAG(s) dict_keys(['example_passing_params_via_test_command']) retrieved from /home/dev/curso/ambientevirtual/lib/python3.9/site-packages/airflow/example_dags/example_passing_params_via_test_command.py
+[2024-12-23 19:05:47,744] {logging_mixin.py:115} INFO - [2024-12-23 19:05:47,744] {manager.py:508} INFO - Created Permission View: can read on DAG:example_passing_params_via_test_command
+[2024-12-23 19:05:47,760] {logging_mixin.py:115} INFO - [2024-12-23 19:05:47,760] {manager.py:508} INFO - Created Permission View: can edit on DAG:example_passing_params_via_test_command
+[2024-12-23 19:05:47,775] {logging_mixin.py:115} INFO - [2024-12-23 19:05:47,775] {manager.py:508} INFO - Created Permission View: can delete on DAG:example_passing_params_via_test_command
+[2024-12-23 19:05:47,775] {logging_mixin.py:115} INFO - [2024-12-23 19:05:47,775] {dag.py:2379} INFO - Sync 1 DAGs
+[2024-12-23 19:05:47,786] {logging_mixin.py:115} INFO - [2024-12-23 19:05:47,786] {dag.py:2398} INFO - Creating ORM DAG for example_passing_params_via_test_command
+[2024-12-23 19:05:47,811] {logging_mixin.py:115} INFO - [2024-12-23 19:05:47,811] {dag.py:2927} INFO - Setting next_dagrun for example_passing_params_via_test_command to 2024-12-23T22:04:00+00:00, run_after=2024-12-23T22:05:00+00:00
+[2024-12-23 19:05:47,870] {processor.py:161} INFO - Processing /home/dev/curso/ambientevirtual/lib/python3.9/site-packages/airflow/example_dags/example_passing_params_via_test_command.py took 0.274 seconds

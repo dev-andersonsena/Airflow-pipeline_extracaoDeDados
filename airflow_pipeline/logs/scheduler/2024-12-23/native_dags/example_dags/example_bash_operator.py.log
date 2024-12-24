@@ -1,0 +1,11 @@
+[2024-12-23 19:05:36,669] {processor.py:153} INFO - Started process (PID=689315) to work on /home/dev/curso/ambientevirtual/lib/python3.9/site-packages/airflow/example_dags/example_bash_operator.py
+[2024-12-23 19:05:36,670] {processor.py:641} INFO - Processing file /home/dev/curso/ambientevirtual/lib/python3.9/site-packages/airflow/example_dags/example_bash_operator.py for tasks to queue
+[2024-12-23 19:05:36,671] {logging_mixin.py:115} INFO - [2024-12-23 19:05:36,670] {dagbag.py:507} INFO - Filling up the DagBag from /home/dev/curso/ambientevirtual/lib/python3.9/site-packages/airflow/example_dags/example_bash_operator.py
+[2024-12-23 19:05:36,685] {processor.py:651} INFO - DAG(s) dict_keys(['example_bash_operator']) retrieved from /home/dev/curso/ambientevirtual/lib/python3.9/site-packages/airflow/example_dags/example_bash_operator.py
+[2024-12-23 19:05:36,771] {logging_mixin.py:115} INFO - [2024-12-23 19:05:36,771] {manager.py:508} INFO - Created Permission View: can read on DAG:example_bash_operator
+[2024-12-23 19:05:36,786] {logging_mixin.py:115} INFO - [2024-12-23 19:05:36,786] {manager.py:508} INFO - Created Permission View: can edit on DAG:example_bash_operator
+[2024-12-23 19:05:36,801] {logging_mixin.py:115} INFO - [2024-12-23 19:05:36,801] {manager.py:508} INFO - Created Permission View: can delete on DAG:example_bash_operator
+[2024-12-23 19:05:36,802] {logging_mixin.py:115} INFO - [2024-12-23 19:05:36,802] {dag.py:2379} INFO - Sync 1 DAGs
+[2024-12-23 19:05:36,813] {logging_mixin.py:115} INFO - [2024-12-23 19:05:36,813] {dag.py:2398} INFO - Creating ORM DAG for example_bash_operator
+[2024-12-23 19:05:36,830] {logging_mixin.py:115} INFO - [2024-12-23 19:05:36,830] {dag.py:2927} INFO - Setting next_dagrun for example_bash_operator to 2024-12-22T00:00:00+00:00, run_after=2024-12-23T00:00:00+00:00
+[2024-12-23 19:05:36,857] {processor.py:161} INFO - Processing /home/dev/curso/ambientevirtual/lib/python3.9/site-packages/airflow/example_dags/example_bash_operator.py took 0.191 seconds

@@ -1,0 +1,11 @@
+[2024-12-23 19:05:45,127] {processor.py:153} INFO - Started process (PID=689439) to work on /home/dev/curso/ambientevirtual/lib/python3.9/site-packages/airflow/example_dags/example_short_circuit_operator.py
+[2024-12-23 19:05:45,128] {processor.py:641} INFO - Processing file /home/dev/curso/ambientevirtual/lib/python3.9/site-packages/airflow/example_dags/example_short_circuit_operator.py for tasks to queue
+[2024-12-23 19:05:45,129] {logging_mixin.py:115} INFO - [2024-12-23 19:05:45,128] {dagbag.py:507} INFO - Filling up the DagBag from /home/dev/curso/ambientevirtual/lib/python3.9/site-packages/airflow/example_dags/example_short_circuit_operator.py
+[2024-12-23 19:05:45,140] {processor.py:651} INFO - DAG(s) dict_keys(['example_short_circuit_operator']) retrieved from /home/dev/curso/ambientevirtual/lib/python3.9/site-packages/airflow/example_dags/example_short_circuit_operator.py
+[2024-12-23 19:05:45,226] {logging_mixin.py:115} INFO - [2024-12-23 19:05:45,226] {manager.py:508} INFO - Created Permission View: can read on DAG:example_short_circuit_operator
+[2024-12-23 19:05:45,239] {logging_mixin.py:115} INFO - [2024-12-23 19:05:45,239] {manager.py:508} INFO - Created Permission View: can edit on DAG:example_short_circuit_operator
+[2024-12-23 19:05:45,251] {logging_mixin.py:115} INFO - [2024-12-23 19:05:45,251] {manager.py:508} INFO - Created Permission View: can delete on DAG:example_short_circuit_operator
+[2024-12-23 19:05:45,252] {logging_mixin.py:115} INFO - [2024-12-23 19:05:45,252] {dag.py:2379} INFO - Sync 1 DAGs
+[2024-12-23 19:05:45,261] {logging_mixin.py:115} INFO - [2024-12-23 19:05:45,261] {dag.py:2398} INFO - Creating ORM DAG for example_short_circuit_operator
+[2024-12-23 19:05:45,272] {logging_mixin.py:115} INFO - [2024-12-23 19:05:45,272] {dag.py:2927} INFO - Setting next_dagrun for example_short_circuit_operator to 2024-12-22T22:05:45.272429+00:00, run_after=2024-12-23T22:05:45.272429+00:00
+[2024-12-23 19:05:45,302] {processor.py:161} INFO - Processing /home/dev/curso/ambientevirtual/lib/python3.9/site-packages/airflow/example_dags/example_short_circuit_operator.py took 0.179 seconds

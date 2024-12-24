@@ -1,0 +1,6 @@
+[2024-12-23 19:05:56,927] {processor.py:153} INFO - Started process (PID=689609) to work on /home/dev/curso/ambientevirtual/lib/python3.9/site-packages/airflow/example_dags/tutorial_taskflow_api_etl_virtualenv.py
+[2024-12-23 19:05:56,928] {processor.py:641} INFO - Processing file /home/dev/curso/ambientevirtual/lib/python3.9/site-packages/airflow/example_dags/tutorial_taskflow_api_etl_virtualenv.py for tasks to queue
+[2024-12-23 19:05:56,929] {logging_mixin.py:115} INFO - [2024-12-23 19:05:56,928] {dagbag.py:507} INFO - Filling up the DagBag from /home/dev/curso/ambientevirtual/lib/python3.9/site-packages/airflow/example_dags/tutorial_taskflow_api_etl_virtualenv.py
+[2024-12-23 19:05:56,946] {logging_mixin.py:115} INFO - [2024-12-23 19:05:56,945] {tutorial_taskflow_api_etl_virtualenv.py:29} WARNING - The tutorial_taskflow_api_etl_virtualenv example DAG requires virtualenv, please install it.
+[2024-12-23 19:05:56,946] {processor.py:653} WARNING - No viable dags retrieved from /home/dev/curso/ambientevirtual/lib/python3.9/site-packages/airflow/example_dags/tutorial_taskflow_api_etl_virtualenv.py
+[2024-12-23 19:05:56,959] {processor.py:161} INFO - Processing /home/dev/curso/ambientevirtual/lib/python3.9/site-packages/airflow/example_dags/tutorial_taskflow_api_etl_virtualenv.py took 0.035 seconds
