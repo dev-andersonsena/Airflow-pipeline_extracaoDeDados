@@ -1,0 +1,84 @@
+[2024-12-24 21:00:04,715] {processor.py:153} INFO - Started process (PID=998485) to work on /home/dev/curso/airflow_pipeline/dags/twitter_dag.py
+[2024-12-24 21:00:04,716] {processor.py:641} INFO - Processing file /home/dev/curso/airflow_pipeline/dags/twitter_dag.py for tasks to queue
+[2024-12-24 21:00:04,716] {logging_mixin.py:115} INFO - [2024-12-24 21:00:04,716] {dagbag.py:507} INFO - Filling up the DagBag from /home/dev/curso/airflow_pipeline/dags/twitter_dag.py
+[2024-12-24 21:00:04,727] {processor.py:651} INFO - DAG(s) dict_keys(['TwitterDAG']) retrieved from /home/dev/curso/airflow_pipeline/dags/twitter_dag.py
+[2024-12-24 21:00:04,786] {logging_mixin.py:115} INFO - [2024-12-24 21:00:04,786] {dag.py:2379} INFO - Sync 1 DAGs
+[2024-12-24 21:00:04,805] {logging_mixin.py:115} INFO - [2024-12-24 21:00:04,805] {dag.py:2927} INFO - Setting next_dagrun for TwitterDAG to 2024-12-25T00:00:00+00:00, run_after=2024-12-26T00:00:00+00:00
+[2024-12-24 21:00:04,826] {processor.py:161} INFO - Processing /home/dev/curso/airflow_pipeline/dags/twitter_dag.py took 0.115 seconds
+[2024-12-24 21:00:35,029] {processor.py:153} INFO - Started process (PID=998633) to work on /home/dev/curso/airflow_pipeline/dags/twitter_dag.py
+[2024-12-24 21:00:35,030] {processor.py:641} INFO - Processing file /home/dev/curso/airflow_pipeline/dags/twitter_dag.py for tasks to queue
+[2024-12-24 21:00:35,031] {logging_mixin.py:115} INFO - [2024-12-24 21:00:35,031] {dagbag.py:507} INFO - Filling up the DagBag from /home/dev/curso/airflow_pipeline/dags/twitter_dag.py
+[2024-12-24 21:00:35,043] {processor.py:651} INFO - DAG(s) dict_keys(['TwitterDAG']) retrieved from /home/dev/curso/airflow_pipeline/dags/twitter_dag.py
+[2024-12-24 21:00:35,064] {logging_mixin.py:115} INFO - [2024-12-24 21:00:35,064] {dag.py:2379} INFO - Sync 1 DAGs
+[2024-12-24 21:00:35,087] {logging_mixin.py:115} INFO - [2024-12-24 21:00:35,086] {dag.py:2927} INFO - Setting next_dagrun for TwitterDAG to 2024-12-25T00:00:00+00:00, run_after=2024-12-26T00:00:00+00:00
+[2024-12-24 21:00:35,105] {processor.py:161} INFO - Processing /home/dev/curso/airflow_pipeline/dags/twitter_dag.py took 0.080 seconds
+[2024-12-24 21:01:05,826] {processor.py:153} INFO - Started process (PID=998724) to work on /home/dev/curso/airflow_pipeline/dags/twitter_dag.py
+[2024-12-24 21:01:05,827] {processor.py:641} INFO - Processing file /home/dev/curso/airflow_pipeline/dags/twitter_dag.py for tasks to queue
+[2024-12-24 21:01:05,828] {logging_mixin.py:115} INFO - [2024-12-24 21:01:05,828] {dagbag.py:507} INFO - Filling up the DagBag from /home/dev/curso/airflow_pipeline/dags/twitter_dag.py
+[2024-12-24 21:01:05,850] {processor.py:651} INFO - DAG(s) dict_keys(['TwitterDAG']) retrieved from /home/dev/curso/airflow_pipeline/dags/twitter_dag.py
+[2024-12-24 21:01:05,878] {logging_mixin.py:115} INFO - [2024-12-24 21:01:05,878] {dag.py:2379} INFO - Sync 1 DAGs
+[2024-12-24 21:01:05,917] {logging_mixin.py:115} INFO - [2024-12-24 21:01:05,917] {dag.py:2927} INFO - Setting next_dagrun for TwitterDAG to 2024-12-25T00:00:00+00:00, run_after=2024-12-26T00:00:00+00:00
+[2024-12-24 21:01:05,935] {processor.py:161} INFO - Processing /home/dev/curso/airflow_pipeline/dags/twitter_dag.py took 0.113 seconds
+[2024-12-24 21:01:36,606] {processor.py:153} INFO - Started process (PID=998809) to work on /home/dev/curso/airflow_pipeline/dags/twitter_dag.py
+[2024-12-24 21:01:36,607] {processor.py:641} INFO - Processing file /home/dev/curso/airflow_pipeline/dags/twitter_dag.py for tasks to queue
+[2024-12-24 21:01:36,608] {logging_mixin.py:115} INFO - [2024-12-24 21:01:36,608] {dagbag.py:507} INFO - Filling up the DagBag from /home/dev/curso/airflow_pipeline/dags/twitter_dag.py
+[2024-12-24 21:01:36,619] {processor.py:651} INFO - DAG(s) dict_keys(['TwitterDAG']) retrieved from /home/dev/curso/airflow_pipeline/dags/twitter_dag.py
+[2024-12-24 21:01:36,638] {logging_mixin.py:115} INFO - [2024-12-24 21:01:36,638] {dag.py:2379} INFO - Sync 1 DAGs
+[2024-12-24 21:01:36,661] {logging_mixin.py:115} INFO - [2024-12-24 21:01:36,661] {dag.py:2927} INFO - Setting next_dagrun for TwitterDAG to 2024-12-25T00:00:00+00:00, run_after=2024-12-26T00:00:00+00:00
+[2024-12-24 21:01:36,679] {processor.py:161} INFO - Processing /home/dev/curso/airflow_pipeline/dags/twitter_dag.py took 0.077 seconds
+[2024-12-24 21:02:06,798] {processor.py:153} INFO - Started process (PID=998900) to work on /home/dev/curso/airflow_pipeline/dags/twitter_dag.py
+[2024-12-24 21:02:06,800] {processor.py:641} INFO - Processing file /home/dev/curso/airflow_pipeline/dags/twitter_dag.py for tasks to queue
+[2024-12-24 21:02:06,800] {logging_mixin.py:115} INFO - [2024-12-24 21:02:06,800] {dagbag.py:507} INFO - Filling up the DagBag from /home/dev/curso/airflow_pipeline/dags/twitter_dag.py
+[2024-12-24 21:02:06,811] {processor.py:651} INFO - DAG(s) dict_keys(['TwitterDAG']) retrieved from /home/dev/curso/airflow_pipeline/dags/twitter_dag.py
+[2024-12-24 21:02:06,831] {logging_mixin.py:115} INFO - [2024-12-24 21:02:06,831] {dag.py:2379} INFO - Sync 1 DAGs
+[2024-12-24 21:02:06,854] {logging_mixin.py:115} INFO - [2024-12-24 21:02:06,854] {dag.py:2927} INFO - Setting next_dagrun for TwitterDAG to 2024-12-25T00:00:00+00:00, run_after=2024-12-26T00:00:00+00:00
+[2024-12-24 21:02:06,871] {processor.py:161} INFO - Processing /home/dev/curso/airflow_pipeline/dags/twitter_dag.py took 0.077 seconds
+[2024-12-24 21:02:37,522] {processor.py:153} INFO - Started process (PID=998985) to work on /home/dev/curso/airflow_pipeline/dags/twitter_dag.py
+[2024-12-24 21:02:37,523] {processor.py:641} INFO - Processing file /home/dev/curso/airflow_pipeline/dags/twitter_dag.py for tasks to queue
+[2024-12-24 21:02:37,524] {logging_mixin.py:115} INFO - [2024-12-24 21:02:37,524] {dagbag.py:507} INFO - Filling up the DagBag from /home/dev/curso/airflow_pipeline/dags/twitter_dag.py
+[2024-12-24 21:02:37,543] {processor.py:651} INFO - DAG(s) dict_keys(['TwitterDAG']) retrieved from /home/dev/curso/airflow_pipeline/dags/twitter_dag.py
+[2024-12-24 21:02:37,572] {logging_mixin.py:115} INFO - [2024-12-24 21:02:37,572] {dag.py:2379} INFO - Sync 1 DAGs
+[2024-12-24 21:02:37,598] {logging_mixin.py:115} INFO - [2024-12-24 21:02:37,597] {dag.py:2927} INFO - Setting next_dagrun for TwitterDAG to 2024-12-25T00:00:00+00:00, run_after=2024-12-26T00:00:00+00:00
+[2024-12-24 21:02:37,615] {processor.py:161} INFO - Processing /home/dev/curso/airflow_pipeline/dags/twitter_dag.py took 0.104 seconds
+[2024-12-24 21:03:08,312] {processor.py:153} INFO - Started process (PID=999076) to work on /home/dev/curso/airflow_pipeline/dags/twitter_dag.py
+[2024-12-24 21:03:08,313] {processor.py:641} INFO - Processing file /home/dev/curso/airflow_pipeline/dags/twitter_dag.py for tasks to queue
+[2024-12-24 21:03:08,314] {logging_mixin.py:115} INFO - [2024-12-24 21:03:08,314] {dagbag.py:507} INFO - Filling up the DagBag from /home/dev/curso/airflow_pipeline/dags/twitter_dag.py
+[2024-12-24 21:03:08,327] {processor.py:651} INFO - DAG(s) dict_keys(['TwitterDAG']) retrieved from /home/dev/curso/airflow_pipeline/dags/twitter_dag.py
+[2024-12-24 21:03:08,352] {logging_mixin.py:115} INFO - [2024-12-24 21:03:08,352] {dag.py:2379} INFO - Sync 1 DAGs
+[2024-12-24 21:03:08,377] {logging_mixin.py:115} INFO - [2024-12-24 21:03:08,376] {dag.py:2927} INFO - Setting next_dagrun for TwitterDAG to 2024-12-25T00:00:00+00:00, run_after=2024-12-26T00:00:00+00:00
+[2024-12-24 21:03:08,393] {processor.py:161} INFO - Processing /home/dev/curso/airflow_pipeline/dags/twitter_dag.py took 0.085 seconds
+[2024-12-24 21:03:38,969] {processor.py:153} INFO - Started process (PID=999161) to work on /home/dev/curso/airflow_pipeline/dags/twitter_dag.py
+[2024-12-24 21:03:38,970] {processor.py:641} INFO - Processing file /home/dev/curso/airflow_pipeline/dags/twitter_dag.py for tasks to queue
+[2024-12-24 21:03:38,970] {logging_mixin.py:115} INFO - [2024-12-24 21:03:38,970] {dagbag.py:507} INFO - Filling up the DagBag from /home/dev/curso/airflow_pipeline/dags/twitter_dag.py
+[2024-12-24 21:03:38,982] {processor.py:651} INFO - DAG(s) dict_keys(['TwitterDAG']) retrieved from /home/dev/curso/airflow_pipeline/dags/twitter_dag.py
+[2024-12-24 21:03:39,005] {logging_mixin.py:115} INFO - [2024-12-24 21:03:39,004] {dag.py:2379} INFO - Sync 1 DAGs
+[2024-12-24 21:03:39,027] {logging_mixin.py:115} INFO - [2024-12-24 21:03:39,027] {dag.py:2927} INFO - Setting next_dagrun for TwitterDAG to 2024-12-25T00:00:00+00:00, run_after=2024-12-26T00:00:00+00:00
+[2024-12-24 21:03:39,045] {processor.py:161} INFO - Processing /home/dev/curso/airflow_pipeline/dags/twitter_dag.py took 0.080 seconds
+[2024-12-24 21:04:09,703] {processor.py:153} INFO - Started process (PID=999252) to work on /home/dev/curso/airflow_pipeline/dags/twitter_dag.py
+[2024-12-24 21:04:09,704] {processor.py:641} INFO - Processing file /home/dev/curso/airflow_pipeline/dags/twitter_dag.py for tasks to queue
+[2024-12-24 21:04:09,705] {logging_mixin.py:115} INFO - [2024-12-24 21:04:09,705] {dagbag.py:507} INFO - Filling up the DagBag from /home/dev/curso/airflow_pipeline/dags/twitter_dag.py
+[2024-12-24 21:04:09,716] {processor.py:651} INFO - DAG(s) dict_keys(['TwitterDAG']) retrieved from /home/dev/curso/airflow_pipeline/dags/twitter_dag.py
+[2024-12-24 21:04:09,737] {logging_mixin.py:115} INFO - [2024-12-24 21:04:09,737] {dag.py:2379} INFO - Sync 1 DAGs
+[2024-12-24 21:04:09,760] {logging_mixin.py:115} INFO - [2024-12-24 21:04:09,760] {dag.py:2927} INFO - Setting next_dagrun for TwitterDAG to 2024-12-25T00:00:00+00:00, run_after=2024-12-26T00:00:00+00:00
+[2024-12-24 21:04:09,781] {processor.py:161} INFO - Processing /home/dev/curso/airflow_pipeline/dags/twitter_dag.py took 0.082 seconds
+[2024-12-24 21:04:39,847] {processor.py:153} INFO - Started process (PID=999337) to work on /home/dev/curso/airflow_pipeline/dags/twitter_dag.py
+[2024-12-24 21:04:39,849] {processor.py:641} INFO - Processing file /home/dev/curso/airflow_pipeline/dags/twitter_dag.py for tasks to queue
+[2024-12-24 21:04:39,850] {logging_mixin.py:115} INFO - [2024-12-24 21:04:39,849] {dagbag.py:507} INFO - Filling up the DagBag from /home/dev/curso/airflow_pipeline/dags/twitter_dag.py
+[2024-12-24 21:04:39,873] {processor.py:651} INFO - DAG(s) dict_keys(['TwitterDAG']) retrieved from /home/dev/curso/airflow_pipeline/dags/twitter_dag.py
+[2024-12-24 21:04:39,898] {logging_mixin.py:115} INFO - [2024-12-24 21:04:39,898] {dag.py:2379} INFO - Sync 1 DAGs
+[2024-12-24 21:04:39,923] {logging_mixin.py:115} INFO - [2024-12-24 21:04:39,923] {dag.py:2927} INFO - Setting next_dagrun for TwitterDAG to 2024-12-25T00:00:00+00:00, run_after=2024-12-26T00:00:00+00:00
+[2024-12-24 21:04:39,941] {processor.py:161} INFO - Processing /home/dev/curso/airflow_pipeline/dags/twitter_dag.py took 0.098 seconds
+[2024-12-24 21:05:10,614] {processor.py:153} INFO - Started process (PID=999486) to work on /home/dev/curso/airflow_pipeline/dags/twitter_dag.py
+[2024-12-24 21:05:10,615] {processor.py:641} INFO - Processing file /home/dev/curso/airflow_pipeline/dags/twitter_dag.py for tasks to queue
+[2024-12-24 21:05:10,616] {logging_mixin.py:115} INFO - [2024-12-24 21:05:10,615] {dagbag.py:507} INFO - Filling up the DagBag from /home/dev/curso/airflow_pipeline/dags/twitter_dag.py
+[2024-12-24 21:05:10,626] {processor.py:651} INFO - DAG(s) dict_keys(['TwitterDAG']) retrieved from /home/dev/curso/airflow_pipeline/dags/twitter_dag.py
+[2024-12-24 21:05:10,646] {logging_mixin.py:115} INFO - [2024-12-24 21:05:10,646] {dag.py:2379} INFO - Sync 1 DAGs
+[2024-12-24 21:05:10,667] {logging_mixin.py:115} INFO - [2024-12-24 21:05:10,667] {dag.py:2927} INFO - Setting next_dagrun for TwitterDAG to 2024-12-25T00:00:00+00:00, run_after=2024-12-26T00:00:00+00:00
+[2024-12-24 21:05:10,686] {processor.py:161} INFO - Processing /home/dev/curso/airflow_pipeline/dags/twitter_dag.py took 0.076 seconds
+[2024-12-24 21:05:41,401] {processor.py:153} INFO - Started process (PID=999577) to work on /home/dev/curso/airflow_pipeline/dags/twitter_dag.py
+[2024-12-24 21:05:41,402] {processor.py:641} INFO - Processing file /home/dev/curso/airflow_pipeline/dags/twitter_dag.py for tasks to queue
+[2024-12-24 21:05:41,403] {logging_mixin.py:115} INFO - [2024-12-24 21:05:41,403] {dagbag.py:507} INFO - Filling up the DagBag from /home/dev/curso/airflow_pipeline/dags/twitter_dag.py
+[2024-12-24 21:05:41,414] {processor.py:651} INFO - DAG(s) dict_keys(['TwitterDAG']) retrieved from /home/dev/curso/airflow_pipeline/dags/twitter_dag.py
+[2024-12-24 21:05:41,433] {logging_mixin.py:115} INFO - [2024-12-24 21:05:41,433] {dag.py:2379} INFO - Sync 1 DAGs
+[2024-12-24 21:05:41,457] {logging_mixin.py:115} INFO - [2024-12-24 21:05:41,456] {dag.py:2927} INFO - Setting next_dagrun for TwitterDAG to 2024-12-25T00:00:00+00:00, run_after=2024-12-26T00:00:00+00:00
+[2024-12-24 21:05:41,475] {processor.py:161} INFO - Processing /home/dev/curso/airflow_pipeline/dags/twitter_dag.py took 0.078 seconds

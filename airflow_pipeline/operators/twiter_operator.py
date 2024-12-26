@@ -1,3 +1,6 @@
+import sys
+sys.path.append("/home/dev/curso")
+
 from airflow.models import BaseOperator, DAG, TaskInstance
 from airflow_pipeline.hook.twiter_hook import TwiterHook # Importação absolutaimport json
 from datetime import datetime, timedelta 

@@ -1,32 +1,24 @@
+import sys
+sys.path.append("/home/dev/curso")
+
 from airflow.models import DAG
 from datetime import datetime, timedelta
-import json
-from operators.twiter_operator import TwitterOperator
-import sys
+from airflow_pipeline.operators.twiter_operator import TwitterOperator
 from os.path import join
-
-sys.path.append("airflow_pipeline")
-
+from airflow.utils.dates import days_ago
 
 
 
-with DAG(dag_id="test_run", start_date=datetime.now()) as dag:
-        
-        TIMESTAMP_FORMAT = "%Y-%m-%dT%H:%M:%S.00Z"
 
-        end_time = datetime.now().strftime(TIMESTAMP_FORMAT)
-        start_time = (datetime.now() + timedelta(-1)).strftime(TIMESTAMP_FORMAT)
-        query = "datascience"
-        
+with DAG(dag_id = "TwitterDAG", start_date=days_ago(2), schedule_interval="@daily") as dag:
 
+    TIMESTAMP_FORMAT = "%Y-%m-%dT%H:%M:%S.00Z"
+    query = "datascience"
 
-        to = TwitterOperator(
-            file_path=join("datalake/twitter_datascience",
-                           "extract_date={{ ds }}",
-                           "datascience_{{ ds_nodash }}.json"), 
-            query=query, 
-            start_time=start_time, 
-            end_time=end_time, 
-            task_id="test_run"
-        )
-    
+    to = TwitterOperator(file_path=join("datalake/twitter_datascience",
+        "extract_data={{ ds }}",
+        "datascience_{{ ds_nodash }}.json"),
+        query=query, 
+    start_time="{{ data_interval_start.strftime('%Y-%m-%dT%H:%M:%S.00Z') }}", 
+    end_time="{{ data_interval_end.strftime('%Y-%m-%dT%H:%M:%S.00Z') }}", 
+    task_id="twitter_datascience")
